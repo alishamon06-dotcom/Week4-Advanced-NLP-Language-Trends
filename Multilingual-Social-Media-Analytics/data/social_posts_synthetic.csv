@@ -1,0 +1,3001 @@
+post_id,text,language_gold,sentiment_gold
+P0001,"The new phone feels smooth and fast 🔥 #TechIndia tbh",English,positive
+P0002,"Main specs check kar raha hu",Hinglish,neutral
+P0003,"What is the service centre location?",English,neutral
+P0004,"कीमत के हिसाब से अच्छा फोन है #LaunchDay",Hindi,positive
+P0005,"The new phone feels smooth and fast",English,positive
+P0006,"स्क्रीन बार बार अटक रही है",Hindi,negative
+P0007,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है #Smartphone",Hindi,positive
+P0008,"Low light mein camera bilkul bakwas hai 😡 #PhoneReview",Hinglish,negative
+P0009,"I am checking the specifications 📱 #LaunchDay tbh",English,neutral
+P0010,"Screen baar baar hang kar rahi hai 😡 yaar",Hinglish,negative
+P0011,"Low light mein camera bilkul bakwas hai 👎",Hinglish,negative
+P0012,"Battery jaldi drain hoti hai yaar 👎",Hinglish,negative
+P0013,"Battery jaldi drain hoti h yaar 😭",Hinglish,negative
+P0014,"फोन बहुत तेज और स्मूथ चलता है",Hindi,positive
+P0015,"Camera quality is poor in low light #Smartphone",English,negative
+P0016,"फोन बहुत तेज और स्मूथ चलता है",Hindi,positive
+P0017,"Phone heats up during normal use #LaunchDay",English,negative
+P0018,"आज भारत में फोन लॉन्च हुआ है 🤔",Hindi,neutral
+P0019,"Service centre kahan milega? 🤔 yaar",Hinglish,neutral
+P0020,"Aaj phone India mein launch hua",Hinglish,neutral
+P0021,"डिस्प्ले के रंग बहुत अच्छे हैं #LaunchDay",Hindi,positive
+P0022,"Main specs check kar raha hu",Hinglish,neutral
+P0023,"The screen freezes again and again 👎 #LaunchDay",English,negative
+P0024,"फोन सामान्य इस्तेमाल में गर्म होता है 😞 lol",Hindi,negative
+P0025,"Camera quality is superb, photos look crisp",English,positive
+P0026,"Low light mein camera bilkul bakwas hai #LaunchDay",Hinglish,negative
+P0027,"मैं इसके फीचर्स देख रहा हूं 📱 #NewLaunch",Hindi,neutral
+P0028,"फोन तीन रंगों में उपलब्ध है",Hindi,neutral
+P0029,"स्क्रीन बार बार अटक रही है",Hindi,negative
+P0030,"What is the service centre location?",English,neutral
+P0031,"स्क्रीन बार बार अटक रही है 😞 #LaunchDay",Hindi,negative
+P0032,"फोन तीन रंगों में उपलब्ध है #TechIndia",Hindi,neutral
+P0033,"Battery backup mast h, pura din chalti hai",Hinglish,positive
+P0034,"What is the service centre location? 😂",English,neutral
+P0035,"Normal use mein phone heat ho raha hai",Hinglish,negative
+P0036,"Phone ka performance bohot smooth h #NewLaunch",Hinglish,positive
+P0037,"Isme memory card support hai kya 📱",Hinglish,neutral
+P0038,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है #TechIndia",Hindi,positive
+P0039,"क्या इसमें मेमोरी कार्ड लगता है ✨ tbh",Hindi,neutral
+P0040,"Camera quality is superb, photos look crisp",English,positive
+P0041,"I am checking the specifications #Smartphone 😂",English,neutral
+P0042,"Value for money, happy with this purchase #LaunchDay",English,positive
+P0043,"The phone launched today in India",English,neutral
+P0044,"स्क्रीन बार बार अटक रही है 😡",Hindi,negative
+P0045,"Camera quality ekdum zabardast hai",Hinglish,positive
+P0046,"Screen baar baar hang kar rahi hai",Hinglish,negative
+P0047,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है",Hindi,positive
+P0048,"Screen baar baar hang kar rahi hai 😡",Hinglish,negative
+P0049,"Battery backup is amazing, easily lasts all day",English,positive
+P0050,"क्या इसमें मेमोरी कार्ड लगता है",Hindi,neutral
+P0051,"फोन बहुत तेज और स्मूथ चलता है 🔥 #LaunchDay",Hindi,positive
+P0052,"Main specs check kar raha hu",Hinglish,neutral
+P0053,"फोन बहुत तेज और स्मूथ चलता है ❤️",Hindi,positive
+P0054,"Service centre kahan milega?",Hinglish,neutral
+P0055,"इतनी कीमत में बिल्कुल अच्छा नहीं",Hindi,negative
+P0056,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है 😊 #Smartphone",Hindi,positive
+P0057,"आज भारत में फोन लॉन्च हुआ है 🤔",Hindi,neutral
+P0058,"इतनी कीमत में बिल्कुल अच्छा नहीं 😭 #LaunchDay",Hindi,negative
+P0059,"Value for money, happy with this purchase",English,positive
+P0060,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है",Hindi,positive
+P0061,"Itne price mein worth it nahi hai 😞",Hinglish,negative
+P0062,"Does this model support expandable storage? #NewLaunch",English,neutral
+P0063,"The phone is available in three colours",English,neutral
+P0064,"Display is bright and colours look great #NewLaunch",English,positive
+P0065,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब #LaunchDay",Hindi,negative
+P0066,"Isme memory card support hai kya #TechIndia",Hinglish,neutral
+P0067,"डिस्प्ले के रंग बहुत अच्छे हैं",Hindi,positive
+P0068,"The new phone feels smooth and fast",English,positive
+P0069,"स्क्रीन बार बार अटक रही है",Hindi,negative
+P0070,"स्क्रीन बार बार अटक रही है",Hindi,negative
+P0071,"Low light mein camera bilkul bakwas hai",Hinglish,negative
+P0072,"कम रोशनी में कैमरा अच्छा नहीं है",Hindi,negative
+P0073,"Display is bright and colours look great #Smartphone",English,positive
+P0074,"स्क्रीन बार बार अटक रही है",Hindi,negative
+P0075,"Not worth the price, bad experience 👎 #Smartphone",English,negative
+P0076,"Isme memory card support h kya #LaunchDay",Hinglish,neutral
+P0077,"Normal use mein phone heat ho raha hai 😭 #PhoneReview",Hinglish,negative
+P0078,"Price ke hisaab se paisa vasool hai",Hinglish,positive
+P0079,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब #LaunchDay 😂",Hindi,negative
+P0080,"Display ke colours kaafi nice hain",Hinglish,positive
+P0081,"कम रोशनी में कैमरा अच्छा नहीं है",Hindi,negative
+P0082,"Phone three colours mein available hai",Hinglish,neutral
+P0083,"Value for money, happy with this purchase 🔥",English,positive
+P0084,"आज भारत में फोन लॉन्च हुआ है 📱",Hindi,neutral
+P0085,"मैं इसके फीचर्स देख रहा हूं",Hindi,neutral
+P0086,"Screen baar baar hang kar rahi hai",Hinglish,negative
+P0087,"Phone three colours mein available hai #NewLaunch",Hinglish,neutral
+P0088,"Camera quality is superb, photos look crisp 🔥",English,positive
+P0089,"Low light mein camera bilkul bakwas hai",Hinglish,negative
+P0090,"फोन तीन रंगों में उपलब्ध है",Hindi,neutral
+P0091,"फोन बहुत तेज और स्मूथ चलता है",Hindi,positive
+P0092,"क्या इसमें मेमोरी कार्ड लगता है",Hindi,neutral
+P0093,"कम रोशनी में कैमरा अच्छा नहीं है 👎",Hindi,negative
+P0094,"Isme memory card support hai kya #PhoneReview",Hinglish,neutral
+P0095,"इतनी कीमत में बिल्कुल अच्छा नहीं 😭 #LaunchDay",Hindi,negative
+P0096,"स्क्रीन बार बार अटक रही है #NewLaunch yaar",Hindi,negative
+P0097,"Itne price mein worth it nahi hai #Smartphone tbh",Hinglish,negative
+P0098,"What is the service centre location?",English,neutral
+P0099,"Not worth the price, bad experience 😡",English,negative
+P0100,"Price ke hisaab se paisa vasool hai 😊 #Smartphone 😂",Hinglish,positive
+P0101,"Screen baar baar hang kar rahi h 👎 #TechIndia",Hinglish,negative
+P0102,"Camera quality ekdum zabardast hai",Hinglish,positive
+P0103,"डिस्प्ले के रंग बहुत अच्छे हैं ❤️ yaar",Hindi,positive
+P0104,"Isme memory card support hai kya #LaunchDay",Hinglish,neutral
+P0105,"क्या इसमें मेमोरी कार्ड लगता है 📱 😂",Hindi,neutral
+P0106,"Phone heats up during normal use",English,negative
+P0107,"Not worth the price, bad experience #LaunchDay 😂",English,negative
+P0108,"क्या इसमें मेमोरी कार्ड लगता है ✨ #TechIndia",Hindi,neutral
+P0109,"Battery backup mast hai, pura din chalti hai 🔥 tbh",Hinglish,positive
+P0110,"Battery jaldi drain hoti hai yaar 😡 #LaunchDay",Hinglish,negative
+P0111,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब",Hindi,negative
+P0112,"The phone is available in three colours #NewLaunch",English,neutral
+P0113,"Does this model support expandable storage? 🤔 #Smartphone",English,neutral
+P0114,"The screen freezes again and again 😞",English,negative
+P0115,"Service centre kahan milega?",Hinglish,neutral
+P0116,"फोन सामान्य इस्तेमाल में गर्म होता है 😞 #PhoneReview",Hindi,negative
+P0117,"Battery jaldi drain hoti hai yaar 😭 !!!",Hinglish,negative
+P0118,"फोन सामान्य इस्तेमाल में गर्म होता है",Hindi,negative
+P0119,"Battery backup is amazing, easily lasts all day #TechIndia",English,positive
+P0120,"Service centre kahan milega? 🤔",Hinglish,neutral
+P0121,"इतनी कीमत में बिल्कुल अच्छा नहीं #Smartphone",Hindi,negative
+P0122,"I am checking the specifications",English,neutral
+P0123,"स्क्रीन बार बार अटक रही है #Smartphone",Hindi,negative
+P0124,"What is the service centre location?",English,neutral
+P0125,"फोन बहुत तेज और स्मूथ चलता है",Hindi,positive
+P0126,"फोन सामान्य इस्तेमाल में गर्म होता है",Hindi,negative
+P0127,"आज भारत में फोन लॉन्च हुआ है ✨ #Smartphone",Hindi,neutral
+P0128,"कम रोशनी में कैमरा अच्छा नहीं है #NewLaunch",Hindi,negative
+P0129,"आज भारत में फोन लॉन्च हुआ है",Hindi,neutral
+P0130,"Itne price mein worth it nahi hai #TechIndia",Hinglish,negative
+P0131,"Battery backup is amazing, easily lasts all day #PhoneReview",English,positive
+P0132,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है",Hindi,positive
+P0133,"Low light mein camera bilkul bakwas hai",Hinglish,negative
+P0134,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब #LaunchDay",Hindi,negative
+P0135,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब 😡",Hindi,negative
+P0136,"Screen baar baar hang kar rahi hai",Hinglish,negative
+P0137,"मैं इसके फीचर्स देख रहा हूं #TechIndia",Hindi,neutral
+P0138,"Isme memory card support hai kya #Smartphone",Hinglish,neutral
+P0139,"सर्विस सेंटर कहां मिलेगा 🤔",Hindi,neutral
+P0140,"Not worth the price, bad experience",English,negative
+P0141,"फोन बहुत तेज और स्मूथ चलता है 🔥 #PhoneReview",Hindi,positive
+P0142,"I am checking the specifications 🤔",English,neutral
+P0143,"The new phone feels smooth and fast",English,positive
+P0144,"Value for money, happy with this purchase #NewLaunch",English,positive
+P0145,"मैं इसके फीचर्स देख रहा हूं",Hindi,neutral
+P0146,"Phone three colours mein available h #NewLaunch",Hinglish,neutral
+P0147,"Itne price mein worth it nahi hai #TechIndia",Hinglish,negative
+P0148,"Not worth the price, bad experience",English,negative
+P0149,"Price ke hisaab se paisa vasool h #TechIndia",Hinglish,positive
+P0150,"Price ke hisaab se paisa vasool hai 🔥",Hinglish,positive
+P0151,"स्क्रीन बार बार अटक रही है",Hindi,negative
+P0152,"Price ke hisaab se paisa vasool h",Hinglish,positive
+P0153,"Camera quality is poor in low light",English,negative
+P0154,"फोन सामान्य इस्तेमाल में गर्म होता है",Hindi,negative
+P0155,"Screen baar baar hang kar rahi hai #TechIndia",Hinglish,negative
+P0156,"Price ke hisaab se paisa vasool hai 😊",Hinglish,positive
+P0157,"Phone three colours mein available hai",Hinglish,neutral
+P0158,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब",Hindi,negative
+P0159,"डिस्प्ले के रंग बहुत अच्छे हैं 😍",Hindi,positive
+P0160,"Battery backup mast hai, pura din chalti hai #PhoneReview",Hinglish,positive
+P0161,"Battery backup is amazing, easily lasts all day lol",English,positive
+P0162,"फोन सामान्य इस्तेमाल में गर्म होता है",Hindi,negative
+P0163,"Normal use mein phone heat ho raha hai 😡 #Smartphone",Hinglish,negative
+P0164,"Screen baar baar hang kar rahi h 😞",Hinglish,negative
+P0165,"Normal use mein phone heat ho raha hai",Hinglish,negative
+P0166,"Display is bright and colours look great",English,positive
+P0167,"Low light mein camera bilkul bakwas hai 😭",Hinglish,negative
+P0168,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है ❤️",Hindi,positive
+P0169,"कीमत के हिसाब से अच्छा फोन है 😊",Hindi,positive
+P0170,"Not worth the price, bad experience #TechIndia",English,negative
+P0171,"सर्विस सेंटर कहां मिलेगा 📱",Hindi,neutral
+P0172,"आज भारत में फोन लॉन्च हुआ है",Hindi,neutral
+P0173,"Low light mein camera bilkul bakwas hai lol",Hinglish,negative
+P0174,"Camera quality is poor in low light 👎 #Smartphone",English,negative
+P0175,"क्या इसमें मेमोरी कार्ड लगता है #NewLaunch",Hindi,neutral
+P0176,"स्क्रीन बार बार अटक रही है 😡 #NewLaunch",Hindi,negative
+P0177,"What is the service centre location? tbh",English,neutral
+P0178,"फोन तीन रंगों में उपलब्ध है",Hindi,neutral
+P0179,"डिस्प्ले के रंग बहुत अच्छे हैं #LaunchDay",Hindi,positive
+P0180,"Main specs check kar raha hu 😂",Hinglish,neutral
+P0181,"इतनी कीमत में बिल्कुल अच्छा नहीं 😭",Hindi,negative
+P0182,"कीमत के हिसाब से अच्छा फोन है 🔥 #LaunchDay",Hindi,positive
+P0183,"Camera quality is poor in low light 😭",English,negative
+P0184,"Price ke hisaab se paisa vasool hai #TechIndia",Hinglish,positive
+P0185,"इतनी कीमत में बिल्कुल अच्छा नहीं #NewLaunch",Hindi,negative
+P0186,"फोन सामान्य इस्तेमाल में गर्म होता है #Smartphone",Hindi,negative
+P0187,"Normal use mein phone heat ho raha hai 👎 #PhoneReview",Hinglish,negative
+P0188,"Phone three colours mein available hai",Hinglish,neutral
+P0189,"I am checking the specifications",English,neutral
+P0190,"डिस्प्ले के रंग बहुत अच्छे हैं",Hindi,positive
+P0191,"The screen freezes again and again",English,negative
+P0192,"Camera quality is superb, photos look crisp",English,positive
+P0193,"सर्विस सेंटर कहां मिलेगा 📱",Hindi,neutral
+P0194,"Not worth the price, bad experience #TechIndia tbh",English,negative
+P0195,"The screen freezes again and again",English,negative
+P0196,"कम रोशनी में कैमरा अच्छा नहीं है #PhoneReview",Hindi,negative
+P0197,"Camera quality is poor in low light 😡",English,negative
+P0198,"फोन सामान्य इस्तेमाल में गर्म होता है",Hindi,negative
+P0199,"आज भारत में फोन लॉन्च हुआ है",Hindi,neutral
+P0200,"The phone launched today in India 🤔",English,neutral
+P0201,"Phone three colours mein available hai 📱",Hinglish,neutral
+P0202,"फोन बहुत तेज और स्मूथ चलता है",Hindi,positive
+P0203,"Phone three colours mein available hai",Hinglish,neutral
+P0204,"I am checking the specifications",English,neutral
+P0205,"The phone is available in three colours #NewLaunch",English,neutral
+P0206,"Price ke hisaab se paisa vasool hai 😊 😂",Hinglish,positive
+P0207,"डिस्प्ले के रंग बहुत अच्छे हैं",Hindi,positive
+P0208,"Low light mein camera bilkul bakwas hai 😡 #Smartphone",Hinglish,negative
+P0209,"Phone ka performance bahut smooth hai #LaunchDay",Hinglish,positive
+P0210,"Aaj phone India mein launch hua ✨ #Smartphone",Hinglish,neutral
+P0211,"मैं इसके फीचर्स देख रहा हूं lol",Hindi,neutral
+P0212,"The phone launched today in India #Smartphone",English,neutral
+P0213,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है #NewLaunch",Hindi,positive
+P0214,"स्क्रीन बार बार अटक रही है 👎 #Smartphone lol",Hindi,negative
+P0215,"Value for money, happy with this purchase 😊 😂",English,positive
+P0216,"Battery drains too quickly, very disappointed 😞 tbh",English,negative
+P0217,"Phone ka performance bahut smooth hai",Hinglish,positive
+P0218,"The screen freezes again and again 😡 #LaunchDay",English,negative
+P0219,"कम रोशनी में कैमरा अच्छा नहीं है 😭",Hindi,negative
+P0220,"फोन सामान्य इस्तेमाल में गर्म होता है 😂",Hindi,negative
+P0221,"What is the service centre location? ✨",English,neutral
+P0222,"कैमरा शानदार है, फोटो साफ आती हैं",Hindi,positive
+P0223,"Isme memory card support hai kya 📱 #Smartphone",Hinglish,neutral
+P0224,"Screen baar baar hang kar rahi hai 😭",Hinglish,negative
+P0225,"I am checking the specifications tbh",English,neutral
+P0226,"क्या इसमें मेमोरी कार्ड लगता है #NewLaunch",Hindi,neutral
+P0227,"सर्विस सेंटर कहां मिलेगा !!!",Hindi,neutral
+P0228,"Phone ka performance bahut smooth hai",Hinglish,positive
+P0229,"What is the service centre location? ✨",English,neutral
+P0230,"Camera quality is superb, photos look crisp #Smartphone",English,positive
+P0231,"Camera quality ekdum zabardast hai yaar",Hinglish,positive
+P0232,"इतनी कीमत में बिल्कुल अच्छा नहीं",Hindi,negative
+P0233,"Battery backup mast hai, pura din chalti hai #PhoneReview",Hinglish,positive
+P0234,"इतनी कीमत में बिल्कुल अच्छा नहीं 😞",Hindi,negative
+P0235,"Battery jaldi drain hoti hai yaar",Hinglish,negative
+P0236,"फोन सामान्य इस्तेमाल में गर्म होता है 👎 yaar",Hindi,negative
+P0237,"Value for money, happy with this purchase 😊 #LaunchDay",English,positive
+P0238,"Screen baar baar hang kar rahi hai #PhoneReview",Hinglish,negative
+P0239,"मैं इसके फीचर्स देख रहा हूं",Hindi,neutral
+P0240,"Value for money, happy with this purchase 😊",English,positive
+P0241,"Battery drains too quickly, very disappointed",English,negative
+P0242,"Does this model support expandable storage? #LaunchDay",English,neutral
+P0243,"Normal use mein phone heat ho raha hai",Hinglish,negative
+P0244,"क्या इसमें मेमोरी कार्ड लगता है !!!",Hindi,neutral
+P0245,"Main specs check kar raha hu #NewLaunch tbh",Hinglish,neutral
+P0246,"कैमरा शानदार है, फोटो साफ आती हैं #NewLaunch",Hindi,positive
+P0247,"Battery backup is amazing, easily lasts all day 😍",English,positive
+P0248,"कैमरा शानदार है, फोटो साफ आती हैं 😊 #LaunchDay 😂",Hindi,positive
+P0249,"Low light mein camera bilkul bakwas hai #TechIndia",Hinglish,negative
+P0250,"The screen freezes again and again",English,negative
+P0251,"Service centre kahan milega? 📱",Hinglish,neutral
+P0252,"कीमत के हिसाब से अच्छा फोन है #NewLaunch",Hindi,positive
+P0253,"Normal use mein phone heat ho raha hai",Hinglish,negative
+P0254,"The new phone feels smooth and fast #LaunchDay",English,positive
+P0255,"डिस्प्ले के रंग बहुत अच्छे हैं #PhoneReview",Hindi,positive
+P0256,"Battery jaldi drain hoti hai yaar",Hinglish,negative
+P0257,"Low light mein camera bilkul bakwas hai",Hinglish,negative
+P0258,"Isme memory card support hai kya ✨ #NewLaunch",Hinglish,neutral
+P0259,"Does this model support expandable storage?",English,neutral
+P0260,"Display ke colours kaafi nice hain",Hinglish,positive
+P0261,"फोन तीन रंगों में उपलब्ध है",Hindi,neutral
+P0262,"The phone launched today in India !!!",English,neutral
+P0263,"I am checking the specifications #TechIndia lol",English,neutral
+P0264,"Service centre kahan milega? #NewLaunch",Hinglish,neutral
+P0265,"Display is bright and colours look great",English,positive
+P0266,"इतनी कीमत में बिल्कुल अच्छा नहीं 😭",Hindi,negative
+P0267,"फोन तीन रंगों में उपलब्ध है 📱",Hindi,neutral
+P0268,"Main specs check kar raha hu",Hinglish,neutral
+P0269,"Battery drains too quickly, very disappointed 😭",English,negative
+P0270,"Battery drains too quickly, very disappointed #LaunchDay",English,negative
+P0271,"The new phone feels smooth and fast #Smartphone",English,positive
+P0272,"Battery drains too quickly, very disappointed 👎 #LaunchDay",English,negative
+P0273,"Display is bright and colours look great lol",English,positive
+P0274,"Itne price mein worth it nahi hai",Hinglish,negative
+P0275,"क्या इसमें मेमोरी कार्ड लगता है",Hindi,neutral
+P0276,"Price ke hisaab se paisa vasool hai 😍 #PhoneReview",Hinglish,positive
+P0277,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब",Hindi,negative
+P0278,"Screen baar baar hang kar rahi hai",Hinglish,negative
+P0279,"Main specs check kar raha hu",Hinglish,neutral
+P0280,"Aaj phone India mein launch hua",Hinglish,neutral
+P0281,"Camera quality is superb, photos look crisp tbh",English,positive
+P0282,"Battery jaldi drain hoti hai yaar 👎 #PhoneReview",Hinglish,negative
+P0283,"The phone launched today in India #PhoneReview",English,neutral
+P0284,"डिस्प्ले के रंग बहुत अच्छे हैं #LaunchDay",Hindi,positive
+P0285,"Camera quality ekdum zabardast hai",Hinglish,positive
+P0286,"फोन तीन रंगों में उपलब्ध है",Hindi,neutral
+P0287,"कम रोशनी में कैमरा अच्छा नहीं है #Smartphone",Hindi,negative
+P0288,"मैं इसके फीचर्स देख रहा हूं #TechIndia",Hindi,neutral
+P0289,"The screen freezes again and again",English,negative
+P0290,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब 👎 #TechIndia",Hindi,negative
+P0291,"कैमरा शानदार है, फोटो साफ आती हैं",Hindi,positive
+P0292,"Battery backup is amazing, easily lasts all day",English,positive
+P0293,"Service centre kahan milega?",Hinglish,neutral
+P0294,"सर्विस सेंटर कहां मिलेगा",Hindi,neutral
+P0295,"Does this model support expandable storage? ✨",English,neutral
+P0296,"फोन तीन रंगों में उपलब्ध है yaar",Hindi,neutral
+P0297,"Camera quality is poor in low light #Smartphone lol",English,negative
+P0298,"मैं इसके फीचर्स देख रहा हूं",Hindi,neutral
+P0299,"Battery backup mast hai, pura din chalti hai #Smartphone",Hinglish,positive
+P0300,"Battery backup mast hai, pura din chalti hai 😍 #TechIndia",Hinglish,positive
+P0301,"Battery drains too quickly, very disappointed",English,negative
+P0302,"Battery backup is amazing, easily lasts all day ❤️",English,positive
+P0303,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब",Hindi,negative
+P0304,"Does this model support expandable storage? #Smartphone",English,neutral
+P0305,"फोन तीन रंगों में उपलब्ध है",Hindi,neutral
+P0306,"Display is bright and colours look great ❤️",English,positive
+P0307,"कम रोशनी में कैमरा अच्छा नहीं है",Hindi,negative
+P0308,"Display ke colours kaafi nice hain",Hinglish,positive
+P0309,"डिस्प्ले के रंग बहुत अच्छे हैं #LaunchDay",Hindi,positive
+P0310,"Phone three colours mein available hai 📱",Hinglish,neutral
+P0311,"Phone three colours mein available hai ✨ #NewLaunch",Hinglish,neutral
+P0312,"कैमरा शानदार है, फोटो साफ आती हैं #TechIndia",Hindi,positive
+P0313,"Display ke colours kaafi nice hn ❤️ yaar",Hinglish,positive
+P0314,"Price ke hisaab se paisa vasool hai #Smartphone",Hinglish,positive
+P0315,"मैं इसके फीचर्स देख रहा हूं 🤔",Hindi,neutral
+P0316,"Display ke colours kaafi nice hain",Hinglish,positive
+P0317,"कीमत के हिसाब से अच्छा फोन है",Hindi,positive
+P0318,"आज भारत में फोन लॉन्च हुआ है yaar",Hindi,neutral
+P0319,"Main specs check kar raha hu",Hinglish,neutral
+P0320,"Display is bright and colours look great 🔥",English,positive
+P0321,"Battery backup mast hai, pura din chalti hai 😊",Hinglish,positive
+P0322,"Service centre kahan milega? 📱",Hinglish,neutral
+P0323,"Battery drains too quickly, very disappointed 👎 #LaunchDay",English,negative
+P0324,"Itne price mein worth it nahi hai 😭",Hinglish,negative
+P0325,"I am checking the specifications #PhoneReview",English,neutral
+P0326,"Low light mein camera bilkul bakwas hai",Hinglish,negative
+P0327,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब 😭 #Smartphone",Hindi,negative
+P0328,"इतनी कीमत में बिल्कुल अच्छा नहीं 😭",Hindi,negative
+P0329,"आज भारत में फोन लॉन्च हुआ है 🤔 😂",Hindi,neutral
+P0330,"Battery jaldi drain hoti hai yaar",Hinglish,negative
+P0331,"कीमत के हिसाब से अच्छा फोन है 🔥",Hindi,positive
+P0332,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है #LaunchDay",Hindi,positive
+P0333,"Aaj phone India mein launch hua",Hinglish,neutral
+P0334,"The screen freezes again and again #PhoneReview",English,negative
+P0335,"What is the service centre location?",English,neutral
+P0336,"I am checking the specifications ✨ tbh",English,neutral
+P0337,"Screen baar baar hang kar rahi hai lol",Hinglish,negative
+P0338,"Display ke colours kaafi nice hain #LaunchDay",Hinglish,positive
+P0339,"सर्विस सेंटर कहां मिलेगा",Hindi,neutral
+P0340,"I am checking the specifications #PhoneReview",English,neutral
+P0341,"Battery drains too quickly, very disappointed",English,negative
+P0342,"Camera quality is poor in low light",English,negative
+P0343,"Phone three colours mein available hai",Hinglish,neutral
+P0344,"Battery backup is amazing, easily lasts all day 😍",English,positive
+P0345,"Service centre kahan milega?",Hinglish,neutral
+P0346,"फोन सामान्य इस्तेमाल में गर्म होता है #NewLaunch",Hindi,negative
+P0347,"Camera quality is poor in low light",English,negative
+P0348,"Camera quality is poor in low light #PhoneReview",English,negative
+P0349,"इतनी कीमत में बिल्कुल अच्छा नहीं",Hindi,negative
+P0350,"The phone launched today in India #LaunchDay",English,neutral
+P0351,"Camera quality is superb, photos look crisp #PhoneReview",English,positive
+P0352,"कैमरा शानदार है, फोटो साफ आती हैं #PhoneReview",Hindi,positive
+P0353,"Main specs check kar raha hu 🤔",Hinglish,neutral
+P0354,"कीमत के हिसाब से अच्छा फोन है ❤️",Hindi,positive
+P0355,"Service centre kahan milega? !!!",Hinglish,neutral
+P0356,"फोन सामान्य इस्तेमाल में गर्म होता है #Smartphone",Hindi,negative
+P0357,"मैं इसके फीचर्स देख रहा हूं tbh",Hindi,neutral
+P0358,"डिस्प्ले के रंग बहुत अच्छे हैं",Hindi,positive
+P0359,"Not worth the price, bad experience lol",English,negative
+P0360,"कम रोशनी में कैमरा अच्छा नहीं है 👎 #Smartphone",Hindi,negative
+P0361,"Does this model support expandable storage?",English,neutral
+P0362,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है #NewLaunch",Hindi,positive
+P0363,"Battery drains too quickly, very disappointed",English,negative
+P0364,"Not worth the price, bad experience 😡 #Smartphone",English,negative
+P0365,"Battery jaldi drain hoti hai yaar 👎",Hinglish,negative
+P0366,"आज भारत में फोन लॉन्च हुआ है",Hindi,neutral
+P0367,"The phone launched today in India 📱 #LaunchDay",English,neutral
+P0368,"कैमरा शानदार है, फोटो साफ आती हैं #LaunchDay",Hindi,positive
+P0369,"स्क्रीन बार बार अटक रही है",Hindi,negative
+P0370,"फोन बहुत तेज और स्मूथ चलता है 🔥",Hindi,positive
+P0371,"Phone three colours mein available h",Hinglish,neutral
+P0372,"Does this model support expandable storage?",English,neutral
+P0373,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब",Hindi,negative
+P0374,"Phone heats up during normal use #PhoneReview",English,negative
+P0375,"Not worth the price, bad experience",English,negative
+P0376,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब",Hindi,negative
+P0377,"आज भारत में फोन लॉन्च हुआ है",Hindi,neutral
+P0378,"Phone heats up during normal use",English,negative
+P0379,"Display ke colours kaafi nice hn #Smartphone lol",Hinglish,positive
+P0380,"Camera quality ekdum zabardast hai",Hinglish,positive
+P0381,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है",Hindi,positive
+P0382,"The screen freezes again and again !!!",English,negative
+P0383,"Price ke hisaab se paisa vasool hai #TechIndia 😂",Hinglish,positive
+P0384,"Camera quality is superb, photos look crisp",English,positive
+P0385,"Camera quality ekdum zabardast hai ❤️",Hinglish,positive
+P0386,"सर्विस सेंटर कहां मिलेगा ✨",Hindi,neutral
+P0387,"What is the service centre location? tbh",English,neutral
+P0388,"Camera quality is superb, photos look crisp ❤️ #NewLaunch",English,positive
+P0389,"I am checking the specifications #NewLaunch",English,neutral
+P0390,"सर्विस सेंटर कहां मिलेगा",Hindi,neutral
+P0391,"Battery drains too quickly, very disappointed",English,negative
+P0392,"Does this model support expandable storage? 📱 #Smartphone",English,neutral
+P0393,"Normal use mein phone heat ho raha h #PhoneReview",Hinglish,negative
+P0394,"Camera quality is poor in low light",English,negative
+P0395,"कैमरा शानदार है, फोटो साफ आती हैं",Hindi,positive
+P0396,"I am checking the specifications 🤔",English,neutral
+P0397,"कम रोशनी में कैमरा अच्छा नहीं है 👎",Hindi,negative
+P0398,"Service centre kahan milega? ✨ #Smartphone !!!",Hinglish,neutral
+P0399,"डिस्प्ले के रंग बहुत अच्छे हैं",Hindi,positive
+P0400,"आज भारत में फोन लॉन्च हुआ है 📱",Hindi,neutral
+P0401,"Battery backup mast hai, pura din chalti hai lol",Hinglish,positive
+P0402,"The phone launched today in India 😂",English,neutral
+P0403,"फोन बहुत तेज और स्मूथ चलता है",Hindi,positive
+P0404,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब",Hindi,negative
+P0405,"Display ke colours kaafi nice hain",Hinglish,positive
+P0406,"Main specs check kar raha hu ✨",Hinglish,neutral
+P0407,"Battery backup is amazing, easily lasts all day #Smartphone",English,positive
+P0408,"What is the service centre location? 📱 #TechIndia",English,neutral
+P0409,"Phone heats up during normal use #LaunchDay",English,negative
+P0410,"Low light mein camera bilkul bakwas hai",Hinglish,negative
+P0411,"Camera quality ekdum zabardast hai",Hinglish,positive
+P0412,"कैमरा शानदार है, फोटो साफ आती हैं 😊",Hindi,positive
+P0413,"What is the service centre location?",English,neutral
+P0414,"The screen freezes again and again 😂",English,negative
+P0415,"फोन बहुत तेज और स्मूथ चलता है ❤️ tbh",Hindi,positive
+P0416,"Not worth the price, bad experience 😭",English,negative
+P0417,"Battery backup mast hai, pura din chalti hai yaar",Hinglish,positive
+P0418,"Battery backup mast h, pura din chalti hai #NewLaunch",Hinglish,positive
+P0419,"Screen baar baar hang kar rahi h 😭 #Smartphone",Hinglish,negative
+P0420,"Battery backup mast hai, pura din chalti hai ❤️",Hinglish,positive
+P0421,"मैं इसके फीचर्स देख रहा हूं #NewLaunch",Hindi,neutral
+P0422,"Itne price mein worth it nahi hai",Hinglish,negative
+P0423,"Low light mein camera bilkul bakwas hai 😞",Hinglish,negative
+P0424,"Battery drains too quickly, very disappointed 👎 😂",English,negative
+P0425,"Battery drains too quickly, very disappointed",English,negative
+P0426,"Itne price mein worth it nai h",Hinglish,negative
+P0427,"I am checking the specifications 📱",English,neutral
+P0428,"Camera quality is superb, photos look crisp",English,positive
+P0429,"The screen freezes again and again 😭",English,negative
+P0430,"फोन बहुत तेज और स्मूथ चलता है 😊 #LaunchDay",Hindi,positive
+P0431,"कम रोशनी में कैमरा अच्छा नहीं है 😞",Hindi,negative
+P0432,"Battery backup is amazing, easily lasts all day #NewLaunch",English,positive
+P0433,"The screen freezes again and again",English,negative
+P0434,"Not worth the price, bad experience",English,negative
+P0435,"The phone launched today in India",English,neutral
+P0436,"फोन तीन रंगों में उपलब्ध है #PhoneReview",Hindi,neutral
+P0437,"मैं इसके फीचर्स देख रहा हूं #LaunchDay",Hindi,neutral
+P0438,"फोन सामान्य इस्तेमाल में गर्म होता है",Hindi,negative
+P0439,"कीमत के हिसाब से अच्छा फोन है 😍",Hindi,positive
+P0440,"कीमत के हिसाब से अच्छा फोन है 😊",Hindi,positive
+P0441,"Isme memory card support hai kya #NewLaunch",Hinglish,neutral
+P0442,"The phone is available in three colours",English,neutral
+P0443,"Phone ka performance bahut smooth hai #Smartphone",Hinglish,positive
+P0444,"Value for money, happy with this purchase",English,positive
+P0445,"Camera quality is poor in low light",English,negative
+P0446,"What is the service centre location?",English,neutral
+P0447,"What is the service centre location? #Smartphone",English,neutral
+P0448,"Does this model support expandable storage? ✨",English,neutral
+P0449,"फोन बहुत तेज और स्मूथ चलता है 😊",Hindi,positive
+P0450,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब",Hindi,negative
+P0451,"कम रोशनी में कैमरा अच्छा नहीं है 👎",Hindi,negative
+P0452,"Display is bright and colours look great",English,positive
+P0453,"The phone is available in three colours",English,neutral
+P0454,"Value for money, happy with this purchase",English,positive
+P0455,"Phone three colours mein available h 📱 #PhoneReview",Hinglish,neutral
+P0456,"Main specs check kar raha hu 🤔",Hinglish,neutral
+P0457,"Camera quality is poor in low light 😡",English,negative
+P0458,"I am checking the specifications #Smartphone",English,neutral
+P0459,"मैं इसके फीचर्स देख रहा हूं",Hindi,neutral
+P0460,"What is the service centre location?",English,neutral
+P0461,"Value for money, happy with this purchase",English,positive
+P0462,"Itne price mein worth it nahi hai",Hinglish,negative
+P0463,"डिस्प्ले के रंग बहुत अच्छे हैं 😍",Hindi,positive
+P0464,"कैमरा शानदार है, फोटो साफ आती हैं",Hindi,positive
+P0465,"सर्विस सेंटर कहां मिलेगा ✨",Hindi,neutral
+P0466,"Battery backup mast hai, pura din chalti hai #NewLaunch",Hinglish,positive
+P0467,"Does this model support expandable storage? 🤔",English,neutral
+P0468,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है ❤️",Hindi,positive
+P0469,"Value for money, happy with this purchase",English,positive
+P0470,"क्या इसमें मेमोरी कार्ड लगता है ✨",Hindi,neutral
+P0471,"आज भारत में फोन लॉन्च हुआ है #PhoneReview",Hindi,neutral
+P0472,"इतनी कीमत में बिल्कुल अच्छा नहीं #LaunchDay",Hindi,negative
+P0473,"Battery drains too quickly, very disappointed",English,negative
+P0474,"Normal use mein phone heat ho raha hai 😭",Hinglish,negative
+P0475,"Display is bright and colours look great",English,positive
+P0476,"फोन तीन रंगों में उपलब्ध है #LaunchDay 😂",Hindi,neutral
+P0477,"Camera quality is superb, photos look crisp",English,positive
+P0478,"कीमत के हिसाब से अच्छा फोन है",Hindi,positive
+P0479,"Phone heats up during normal use",English,negative
+P0480,"कीमत के हिसाब से अच्छा फोन है",Hindi,positive
+P0481,"Isme memory card support hai kya",Hinglish,neutral
+P0482,"Phone ka performance bahut smooth hai 😍",Hinglish,positive
+P0483,"Display is bright and colours look great",English,positive
+P0484,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब 😞 tbh",Hindi,negative
+P0485,"इतनी कीमत में बिल्कुल अच्छा नहीं",Hindi,negative
+P0486,"Battery backup is amazing, easily lasts all day",English,positive
+P0487,"Screen baar baar hang kar rahi hai 😞 tbh",Hinglish,negative
+P0488,"कीमत के हिसाब से अच्छा फोन है",Hindi,positive
+P0489,"फोन तीन रंगों में उपलब्ध है ✨ yaar",Hindi,neutral
+P0490,"Isme memory card support hai kya",Hinglish,neutral
+P0491,"सर्विस सेंटर कहां मिलेगा",Hindi,neutral
+P0492,"Screen baar baar hang kar rahi hai 😡",Hinglish,negative
+P0493,"आज भारत में फोन लॉन्च हुआ है",Hindi,neutral
+P0494,"Itne price mein worth it nahi hai 😭 #NewLaunch",Hinglish,negative
+P0495,"Isme memory card support hai kya",Hinglish,neutral
+P0496,"Display is bright and colours look great",English,positive
+P0497,"Itne price mein worth it nahi hai 👎",Hinglish,negative
+P0498,"Main specs check kar raha hu",Hinglish,neutral
+P0499,"Main specs check kar raha hu",Hinglish,neutral
+P0500,"Aaj phone India mein launch hua",Hinglish,neutral
+P0501,"Battery backup is amazing, easily lasts all day",English,positive
+P0502,"Service centre kahan milega?",Hinglish,neutral
+P0503,"The phone launched today in India 🤔 #PhoneReview",English,neutral
+P0504,"आज भारत में फोन लॉन्च हुआ है #PhoneReview",Hindi,neutral
+P0505,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब lol",Hindi,negative
+P0506,"मैं इसके फीचर्स देख रहा हूं 🤔",Hindi,neutral
+P0507,"कीमत के हिसाब से अच्छा फोन है",Hindi,positive
+P0508,"डिस्प्ले के रंग बहुत अच्छे हैं",Hindi,positive
+P0509,"कैमरा शानदार है, फोटो साफ आती हैं 😍",Hindi,positive
+P0510,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब #PhoneReview",Hindi,negative
+P0511,"Price ke hisaab se paisa vasool h 😍",Hinglish,positive
+P0512,"Itne price mein worth it nahi hai 😭",Hinglish,negative
+P0513,"कैमरा शानदार है, फोटो साफ आती हैं ❤️",Hindi,positive
+P0514,"इतनी कीमत में बिल्कुल अच्छा नहीं 👎 #TechIndia",Hindi,negative
+P0515,"The phone is available in three colours lol",English,neutral
+P0516,"What is the service centre location?",English,neutral
+P0517,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है",Hindi,positive
+P0518,"कीमत के हिसाब से अच्छा फोन है",Hindi,positive
+P0519,"डिस्प्ले के रंग बहुत अच्छे हैं",Hindi,positive
+P0520,"स्क्रीन बार बार अटक रही है 👎",Hindi,negative
+P0521,"फोन तीन रंगों में उपलब्ध है ✨",Hindi,neutral
+P0522,"कम रोशनी में कैमरा अच्छा नहीं है",Hindi,negative
+P0523,"Not worth the price, bad experience 😞",English,negative
+P0524,"कीमत के हिसाब से अच्छा फोन है #LaunchDay",Hindi,positive
+P0525,"Main specs check kar raha hu 🤔",Hinglish,neutral
+P0526,"The screen freezes again and again #NewLaunch",English,negative
+P0527,"Battery backup is amazing, easily lasts all day 🔥 #LaunchDay",English,positive
+P0528,"The phone launched today in India",English,neutral
+P0529,"The phone launched today in India",English,neutral
+P0530,"Phone heats up during normal use #Smartphone",English,negative
+P0531,"Phone ka performance bahut smooth hai",Hinglish,positive
+P0532,"कम रोशनी में कैमरा अच्छा नहीं है 😡 #Smartphone",Hindi,negative
+P0533,"Normal use mein phone heat ho raha h",Hinglish,negative
+P0534,"Battery drains too quickly, very disappointed",English,negative
+P0535,"Value for money, happy with this purchase 😍",English,positive
+P0536,"The phone is available in three colours",English,neutral
+P0537,"Price ke hisaab se paisa vasool hai",Hinglish,positive
+P0538,"सर्विस सेंटर कहां मिलेगा",Hindi,neutral
+P0539,"The phone is available in three colours 😂",English,neutral
+P0540,"Phone ka performance bahut smooth hai",Hinglish,positive
+P0541,"Battery backup is amazing, easily lasts all day",English,positive
+P0542,"Battery backup mast hai, pura din chalti hai yaar",Hinglish,positive
+P0543,"आज भारत में फोन लॉन्च हुआ है ✨",Hindi,neutral
+P0544,"Itne price mein worth it nai h 😂",Hinglish,negative
+P0545,"Battery backup mast hai, pura din chalti hai 😊 !!!",Hinglish,positive
+P0546,"Itne price mein worth it nahi hai 😡",Hinglish,negative
+P0547,"Low light mein camera bilkul bakwas hai",Hinglish,negative
+P0548,"मैं इसके फीचर्स देख रहा हूं",Hindi,neutral
+P0549,"फोन तीन रंगों में उपलब्ध है #NewLaunch",Hindi,neutral
+P0550,"Main specs check kar raha hu",Hinglish,neutral
+P0551,"Normal use mein phone heat ho raha h #PhoneReview",Hinglish,negative
+P0552,"फोन बहुत तेज और स्मूथ चलता है 😂",Hindi,positive
+P0553,"डिस्प्ले के रंग बहुत अच्छे हैं #TechIndia",Hindi,positive
+P0554,"What is the service centre location? 🤔 !!!",English,neutral
+P0555,"Camera quality is superb, photos look crisp",English,positive
+P0556,"कीमत के हिसाब से अच्छा फोन है lol",Hindi,positive
+P0557,"Battery jaldi drain hoti hai yaar #NewLaunch",Hinglish,negative
+P0558,"फोन तीन रंगों में उपलब्ध है",Hindi,neutral
+P0559,"फोन तीन रंगों में उपलब्ध है 🤔",Hindi,neutral
+P0560,"Isme memory card support hai kya #Smartphone",Hinglish,neutral
+P0561,"The new phone feels smooth and fast",English,positive
+P0562,"Camera quality is superb, photos look crisp",English,positive
+P0563,"इतनी कीमत में बिल्कुल अच्छा नहीं",Hindi,negative
+P0564,"I am checking the specifications 🤔",English,neutral
+P0565,"Battery drains too quickly, very disappointed 👎 #PhoneReview",English,negative
+P0566,"Battery backup is amazing, easily lasts all day",English,positive
+P0567,"मैं इसके फीचर्स देख रहा हूं 📱 tbh",Hindi,neutral
+P0568,"Camera quality is superb, photos look crisp",English,positive
+P0569,"कम रोशनी में कैमरा अच्छा नहीं है",Hindi,negative
+P0570,"फोन बहुत तेज और स्मूथ चलता है #Smartphone",Hindi,positive
+P0571,"फोन सामान्य इस्तेमाल में गर्म होता है #LaunchDay",Hindi,negative
+P0572,"Battery backup is amazing, easily lasts all day",English,positive
+P0573,"Isme memory card support hai kya",Hinglish,neutral
+P0574,"मैं इसके फीचर्स देख रहा हूं",Hindi,neutral
+P0575,"फोन बहुत तेज और स्मूथ चलता है #LaunchDay",Hindi,positive
+P0576,"The new phone feels smooth and fast 🔥",English,positive
+P0577,"Battery backup mast hai, pura din chalti hai 😍",Hinglish,positive
+P0578,"Screen baar baar hang kar rahi hai",Hinglish,negative
+P0579,"Battery drains too quickly, very disappointed 😂",English,negative
+P0580,"इतनी कीमत में बिल्कुल अच्छा नहीं",Hindi,negative
+P0581,"Main specs check kar raha hu ✨ #LaunchDay",Hinglish,neutral
+P0582,"डिस्प्ले के रंग बहुत अच्छे हैं",Hindi,positive
+P0583,"फोन सामान्य इस्तेमाल में गर्म होता है",Hindi,negative
+P0584,"Itne price mein worth it nahi hai",Hinglish,negative
+P0585,"Service centre kahan milega? 🤔",Hinglish,neutral
+P0586,"Normal use mein phone heat ho raha hai 😞 #Smartphone",Hinglish,negative
+P0587,"Battery jaldi drain hoti hai yaar #Smartphone",Hinglish,negative
+P0588,"कैमरा शानदार है, फोटो साफ आती हैं",Hindi,positive
+P0589,"इतनी कीमत में बिल्कुल अच्छा नहीं",Hindi,negative
+P0590,"The new phone feels smooth and fast 😍 #PhoneReview !!!",English,positive
+P0591,"Battery jaldi drain hoti hai yaar tbh",Hinglish,negative
+P0592,"Main specs check kar raha hu",Hinglish,neutral
+P0593,"The new phone feels smooth and fast ❤️",English,positive
+P0594,"Phone three colours mein available hai 🤔 #PhoneReview",Hinglish,neutral
+P0595,"Phone heats up during normal use #Smartphone",English,negative
+P0596,"Camera quality is poor in low light 👎 #NewLaunch",English,negative
+P0597,"कम रोशनी में कैमरा अच्छा नहीं है 😡 tbh",Hindi,negative
+P0598,"क्या इसमें मेमोरी कार्ड लगता है #PhoneReview",Hindi,neutral
+P0599,"Service centre kahan milega? 🤔",Hinglish,neutral
+P0600,"Does this model support expandable storage? !!!",English,neutral
+P0601,"The phone is available in three colours",English,neutral
+P0602,"The new phone feels smooth and fast",English,positive
+P0603,"Isme memory card support hai kya",Hinglish,neutral
+P0604,"What is the service centre location? ✨",English,neutral
+P0605,"Battery drains too quickly, very disappointed",English,negative
+P0606,"मैं इसके फीचर्स देख रहा हूं",Hindi,neutral
+P0607,"Camera quality is poor in low light #PhoneReview",English,negative
+P0608,"इतनी कीमत में बिल्कुल अच्छा नहीं #TechIndia",Hindi,negative
+P0609,"Main specs check kar raha hu ✨ #Smartphone !!!",Hinglish,neutral
+P0610,"Phone three colours mein available hai 🤔 !!!",Hinglish,neutral
+P0611,"स्क्रीन बार बार अटक रही है 👎 #Smartphone",Hindi,negative
+P0612,"डिस्प्ले के रंग बहुत अच्छे हैं",Hindi,positive
+P0613,"डिस्प्ले के रंग बहुत अच्छे हैं #PhoneReview",Hindi,positive
+P0614,"Camera quality is poor in low light 😡",English,negative
+P0615,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब #Smartphone",Hindi,negative
+P0616,"आज भारत में फोन लॉन्च हुआ है",Hindi,neutral
+P0617,"The phone is available in three colours",English,neutral
+P0618,"Isme memory card support hai kya 🤔",Hinglish,neutral
+P0619,"Itne price mein worth it nai h",Hinglish,negative
+P0620,"Phone three colours mein available hai",Hinglish,neutral
+P0621,"Value for money, happy with this purchase",English,positive
+P0622,"The new phone feels smooth and fast #LaunchDay",English,positive
+P0623,"Low light mein camera bilkul bakwas hai",Hinglish,negative
+P0624,"Low light mein camera bilkul bakwas hai",Hinglish,negative
+P0625,"फोन बहुत तेज और स्मूथ चलता है",Hindi,positive
+P0626,"What is the service centre location? 🤔 #NewLaunch",English,neutral
+P0627,"Normal use mein phone heat ho raha hai !!!",Hinglish,negative
+P0628,"Battery backup is amazing, easily lasts all day #Smartphone !!!",English,positive
+P0629,"Battery jaldi drain hoti hai yaar",Hinglish,negative
+P0630,"Itne price mein worth it nahi hai #LaunchDay lol",Hinglish,negative
+P0631,"The new phone feels smooth and fast 🔥",English,positive
+P0632,"Does this model support expandable storage? tbh",English,neutral
+P0633,"Itne price mein worth it nahi hai 😞",Hinglish,negative
+P0634,"Low light mein camera bilkul bakwas hai",Hinglish,negative
+P0635,"फोन सामान्य इस्तेमाल में गर्म होता है",Hindi,negative
+P0636,"फोन सामान्य इस्तेमाल में गर्म होता है #TechIndia",Hindi,negative
+P0637,"Camera quality is poor in low light",English,negative
+P0638,"The phone is available in three colours",English,neutral
+P0639,"स्क्रीन बार बार अटक रही है #TechIndia",Hindi,negative
+P0640,"Battery jaldi drain hoti hai yaar",Hinglish,negative
+P0641,"Phone three colours mein available hai 📱",Hinglish,neutral
+P0642,"Does this model support expandable storage? ✨ #Smartphone",English,neutral
+P0643,"Battery backup mast hai, pura din chalti hai 😊",Hinglish,positive
+P0644,"फोन सामान्य इस्तेमाल में गर्म होता है",Hindi,negative
+P0645,"Battery jaldi drain hoti hai yaar",Hinglish,negative
+P0646,"Battery jaldi drain hoti hai yaar",Hinglish,negative
+P0647,"Price ke hisaab se paisa vasool hai #NewLaunch",Hinglish,positive
+P0648,"The phone is available in three colours",English,neutral
+P0649,"इतनी कीमत में बिल्कुल अच्छा नहीं 😡",Hindi,negative
+P0650,"Display ke colours kaafi nice hain",Hinglish,positive
+P0651,"Phone ka performance bohot smooth h",Hinglish,positive
+P0652,"फोन बहुत तेज और स्मूथ चलता है",Hindi,positive
+P0653,"इतनी कीमत में बिल्कुल अच्छा नहीं 😞",Hindi,negative
+P0654,"Camera quality is poor in low light #NewLaunch",English,negative
+P0655,"सर्विस सेंटर कहां मिलेगा 🤔 #PhoneReview",Hindi,neutral
+P0656,"What is the service centre location?",English,neutral
+P0657,"Not worth the price, bad experience !!!",English,negative
+P0658,"Does this model support expandable storage? #NewLaunch",English,neutral
+P0659,"Value for money, happy with this purchase tbh",English,positive
+P0660,"Itne price mein worth it nahi hai 😡",Hinglish,negative
+P0661,"स्क्रीन बार बार अटक रही है",Hindi,negative
+P0662,"सर्विस सेंटर कहां मिलेगा",Hindi,neutral
+P0663,"Camera quality is superb, photos look crisp",English,positive
+P0664,"सर्विस सेंटर कहां मिलेगा",Hindi,neutral
+P0665,"डिस्प्ले के रंग बहुत अच्छे हैं #TechIndia",Hindi,positive
+P0666,"The phone launched today in India 📱",English,neutral
+P0667,"Isme memory card support hai kya ✨",Hinglish,neutral
+P0668,"Phone ka performance bahut smooth hai 🔥 #PhoneReview yaar",Hinglish,positive
+P0669,"इतनी कीमत में बिल्कुल अच्छा नहीं",Hindi,negative
+P0670,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब 😞",Hindi,negative
+P0671,"I am checking the specifications #NewLaunch",English,neutral
+P0672,"What is the service centre location? 🤔",English,neutral
+P0673,"The new phone feels smooth and fast 🔥 #PhoneReview",English,positive
+P0674,"Itne price mein worth it nahi hai 😞",Hinglish,negative
+P0675,"डिस्प्ले के रंग बहुत अच्छे हैं",Hindi,positive
+P0676,"मैं इसके फीचर्स देख रहा हूं #Smartphone lol",Hindi,neutral
+P0677,"आज भारत में फोन लॉन्च हुआ है tbh",Hindi,neutral
+P0678,"सर्विस सेंटर कहां मिलेगा 📱 #LaunchDay tbh",Hindi,neutral
+P0679,"फोन तीन रंगों में उपलब्ध है",Hindi,neutral
+P0680,"Display is bright and colours look great",English,positive
+P0681,"Camera quality ekdum zabardast hai #LaunchDay",Hinglish,positive
+P0682,"Phone ka performance bahut smooth hai #PhoneReview",Hinglish,positive
+P0683,"I am checking the specifications ✨",English,neutral
+P0684,"The phone is available in three colours",English,neutral
+P0685,"Normal use mein phone heat ho raha h",Hinglish,negative
+P0686,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है",Hindi,positive
+P0687,"Does this model support expandable storage? 🤔 #LaunchDay",English,neutral
+P0688,"Battery backup mast h, pura din chalti hai",Hinglish,positive
+P0689,"कैमरा शानदार है, फोटो साफ आती हैं ❤️",Hindi,positive
+P0690,"Display ke colours kaafi nice hain #Smartphone yaar",Hinglish,positive
+P0691,"The new phone feels smooth and fast ❤️",English,positive
+P0692,"Service centre kahan milega?",Hinglish,neutral
+P0693,"Price ke hisaab se paisa vasool hai #Smartphone",Hinglish,positive
+P0694,"Screen baar baar hang kar rahi hai !!!",Hinglish,negative
+P0695,"कीमत के हिसाब से अच्छा फोन है",Hindi,positive
+P0696,"The screen freezes again and again 😭",English,negative
+P0697,"Battery drains too quickly, very disappointed",English,negative
+P0698,"Not worth the price, bad experience 😡",English,negative
+P0699,"क्या इसमें मेमोरी कार्ड लगता है 📱 #Smartphone",Hindi,neutral
+P0700,"The phone is available in three colours 🤔",English,neutral
+P0701,"Camera quality ekdum zabardast hai 🔥",Hinglish,positive
+P0702,"कम रोशनी में कैमरा अच्छा नहीं है #NewLaunch",Hindi,negative
+P0703,"फोन बहुत तेज और स्मूथ चलता है #NewLaunch",Hindi,positive
+P0704,"क्या इसमें मेमोरी कार्ड लगता है",Hindi,neutral
+P0705,"I am checking the specifications lol",English,neutral
+P0706,"Itne price mein worth it nahi hai",Hinglish,negative
+P0707,"फोन तीन रंगों में उपलब्ध है 📱 yaar",Hindi,neutral
+P0708,"Normal use mein phone heat ho raha hai",Hinglish,negative
+P0709,"Value for money, happy with this purchase #Smartphone",English,positive
+P0710,"Screen baar baar hang kar rahi h",Hinglish,negative
+P0711,"Display ke colours kaafi nice hain #LaunchDay",Hinglish,positive
+P0712,"Phone heats up during normal use yaar",English,negative
+P0713,"फोन तीन रंगों में उपलब्ध है #LaunchDay",Hindi,neutral
+P0714,"Not worth the price, bad experience #TechIndia",English,negative
+P0715,"I am checking the specifications #TechIndia",English,neutral
+P0716,"Camera quality is poor in low light",English,negative
+P0717,"आज भारत में फोन लॉन्च हुआ है",Hindi,neutral
+P0718,"क्या इसमें मेमोरी कार्ड लगता है",Hindi,neutral
+P0719,"Battery jaldi drain hoti hai yaar 😡",Hinglish,negative
+P0720,"What is the service centre location? #LaunchDay",English,neutral
+P0721,"Does this model support expandable storage? 🤔 #PhoneReview",English,neutral
+P0722,"Phone ka performance bahut smooth hai 😍",Hinglish,positive
+P0723,"कैमरा शानदार है, फोटो साफ आती हैं",Hindi,positive
+P0724,"The new phone feels smooth and fast",English,positive
+P0725,"Battery drains too quickly, very disappointed #PhoneReview",English,negative
+P0726,"Price ke hisaab se paisa vasool hai #Smartphone",Hinglish,positive
+P0727,"Battery backup is amazing, easily lasts all day",English,positive
+P0728,"Phone ka performance bahut smooth hai yaar",Hinglish,positive
+P0729,"Value for money, happy with this purchase",English,positive
+P0730,"कम रोशनी में कैमरा अच्छा नहीं है",Hindi,negative
+P0731,"Battery drains too quickly, very disappointed",English,negative
+P0732,"The phone launched today in India",English,neutral
+P0733,"डिस्प्ले के रंग बहुत अच्छे हैं",Hindi,positive
+P0734,"Phone three colours mein available h",Hinglish,neutral
+P0735,"Phone ka performance bohot smooth h #Smartphone",Hinglish,positive
+P0736,"डिस्प्ले के रंग बहुत अच्छे हैं 🔥",Hindi,positive
+P0737,"कीमत के हिसाब से अच्छा फोन है",Hindi,positive
+P0738,"Display ke colours kaafi nice hain",Hinglish,positive
+P0739,"The phone launched today in India",English,neutral
+P0740,"कीमत के हिसाब से अच्छा फोन है",Hindi,positive
+P0741,"क्या इसमें मेमोरी कार्ड लगता है #Smartphone",Hindi,neutral
+P0742,"The new phone feels smooth and fast 😂",English,positive
+P0743,"The phone launched today in India",English,neutral
+P0744,"Does this model support expandable storage?",English,neutral
+P0745,"Battery backup mast hai, pura din chalti hai",Hinglish,positive
+P0746,"फोन सामान्य इस्तेमाल में गर्म होता है",Hindi,negative
+P0747,"Screen baar baar hang kar rahi h 😭",Hinglish,negative
+P0748,"What is the service centre location? ✨",English,neutral
+P0749,"Low light mein camera bilkul bakwas hai #PhoneReview",Hinglish,negative
+P0750,"मैं इसके फीचर्स देख रहा हूं yaar",Hindi,neutral
+P0751,"फोन तीन रंगों में उपलब्ध है",Hindi,neutral
+P0752,"फोन बहुत तेज और स्मूथ चलता है 😍 #Smartphone",Hindi,positive
+P0753,"Value for money, happy with this purchase #NewLaunch",English,positive
+P0754,"The screen freezes again and again",English,negative
+P0755,"डिस्प्ले के रंग बहुत अच्छे हैं #LaunchDay",Hindi,positive
+P0756,"Low light mein camera bilkul bakwas hai 😡 #LaunchDay",Hinglish,negative
+P0757,"Not worth the price, bad experience 👎",English,negative
+P0758,"The phone is available in three colours",English,neutral
+P0759,"फोन बहुत तेज और स्मूथ चलता है #Smartphone",Hindi,positive
+P0760,"आज भारत में फोन लॉन्च हुआ है ✨ #TechIndia",Hindi,neutral
+P0761,"Display ke colours kaafi nice hain 😊",Hinglish,positive
+P0762,"फोन सामान्य इस्तेमाल में गर्म होता है",Hindi,negative
+P0763,"Phone ka performance bahut smooth hai",Hinglish,positive
+P0764,"क्या इसमें मेमोरी कार्ड लगता है #PhoneReview",Hindi,neutral
+P0765,"Display is bright and colours look great",English,positive
+P0766,"Camera quality is superb, photos look crisp",English,positive
+P0767,"मैं इसके फीचर्स देख रहा हूं #PhoneReview",Hindi,neutral
+P0768,"Camera quality ekdum zabardast h 😍",Hinglish,positive
+P0769,"Phone ka performance bohot smooth h",Hinglish,positive
+P0770,"Value for money, happy with this purchase ❤️",English,positive
+P0771,"Isme memory card support hai kya",Hinglish,neutral
+P0772,"Service centre kahan milega?",Hinglish,neutral
+P0773,"Value for money, happy with this purchase ❤️ #PhoneReview",English,positive
+P0774,"The new phone feels smooth and fast",English,positive
+P0775,"Normal use mein phone heat ho raha hai #PhoneReview",Hinglish,negative
+P0776,"Display ke colours kaafi nice hain 😍",Hinglish,positive
+P0777,"Price ke hisaab se paisa vasool hai",Hinglish,positive
+P0778,"Battery backup mast h, pura din chalti hai",Hinglish,positive
+P0779,"Itne price mein worth it nai h #Smartphone",Hinglish,negative
+P0780,"Phone three colours mein available h 📱 #NewLaunch",Hinglish,neutral
+P0781,"Battery backup is amazing, easily lasts all day ❤️",English,positive
+P0782,"Camera quality is poor in low light",English,negative
+P0783,"Battery jaldi drain hoti hai yaar",Hinglish,negative
+P0784,"Normal use mein phone heat ho raha hai 😭",Hinglish,negative
+P0785,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है 😍 #TechIndia",Hindi,positive
+P0786,"Phone ka performance bahut smooth hai",Hinglish,positive
+P0787,"Does this model support expandable storage? ✨ #PhoneReview",English,neutral
+P0788,"Display is bright and colours look great",English,positive
+P0789,"फोन तीन रंगों में उपलब्ध है",Hindi,neutral
+P0790,"Itne price mein worth it nahi hai 😭 !!!",Hinglish,negative
+P0791,"Battery backup mast h, pura din chalti hai !!!",Hinglish,positive
+P0792,"The screen freezes again and again",English,negative
+P0793,"The phone launched today in India 😂",English,neutral
+P0794,"Phone heats up during normal use #NewLaunch tbh",English,negative
+P0795,"Phone three colours mein available hai ✨ #PhoneReview",Hinglish,neutral
+P0796,"फोन तीन रंगों में उपलब्ध है",Hindi,neutral
+P0797,"मैं इसके फीचर्स देख रहा हूं #NewLaunch",Hindi,neutral
+P0798,"Does this model support expandable storage?",English,neutral
+P0799,"Battery backup is amazing, easily lasts all day #Smartphone !!!",English,positive
+P0800,"The phone is available in three colours 🤔 #PhoneReview",English,neutral
+P0801,"Itne price mein worth it nahi hai",Hinglish,negative
+P0802,"मैं इसके फीचर्स देख रहा हूं",Hindi,neutral
+P0803,"कैमरा शानदार है, फोटो साफ आती हैं",Hindi,positive
+P0804,"Isme memory card support hai kya #LaunchDay",Hinglish,neutral
+P0805,"Phone three colours mein available hai",Hinglish,neutral
+P0806,"फोन बहुत तेज और स्मूथ चलता है #LaunchDay",Hindi,positive
+P0807,"Screen baar baar hang kar rahi hai",Hinglish,negative
+P0808,"Camera quality ekdum zabardast hai",Hinglish,positive
+P0809,"Aaj phone India mein launch hua 📱",Hinglish,neutral
+P0810,"Camera quality is poor in low light 😡",English,negative
+P0811,"Battery backup mast hai, pura din chalti hai 😍",Hinglish,positive
+P0812,"The new phone feels smooth and fast #TechIndia",English,positive
+P0813,"Camera quality ekdum zabardast hai",Hinglish,positive
+P0814,"The phone launched today in India 🤔 #TechIndia",English,neutral
+P0815,"Isme memory card support h kya 🤔",Hinglish,neutral
+P0816,"Itne price mein worth it nahi hai yaar",Hinglish,negative
+P0817,"फोन तीन रंगों में उपलब्ध है #NewLaunch",Hindi,neutral
+P0818,"Isme memory card support hai kya",Hinglish,neutral
+P0819,"क्या इसमें मेमोरी कार्ड लगता है",Hindi,neutral
+P0820,"The screen freezes again and again",English,negative
+P0821,"Battery jaldi drain hoti hai yaar 😞",Hinglish,negative
+P0822,"Battery backup mast h, pura din chalti hai",Hinglish,positive
+P0823,"Battery backup is amazing, easily lasts all day",English,positive
+P0824,"कैमरा शानदार है, फोटो साफ आती हैं 😍 #NewLaunch",Hindi,positive
+P0825,"Camera quality is poor in low light 😭 😂",English,negative
+P0826,"Main specs check kar raha hu",Hinglish,neutral
+P0827,"The screen freezes again and again !!!",English,negative
+P0828,"Battery backup is amazing, easily lasts all day yaar",English,positive
+P0829,"Battery jaldi drain hoti hai yaar 😡 #TechIndia",Hinglish,negative
+P0830,"Value for money, happy with this purchase 😍 #TechIndia",English,positive
+P0831,"The new phone feels smooth and fast",English,positive
+P0832,"Camera quality is superb, photos look crisp 🔥",English,positive
+P0833,"Aaj phone India mein launch hua 🤔",Hinglish,neutral
+P0834,"Camera quality is poor in low light #LaunchDay",English,negative
+P0835,"What is the service centre location?",English,neutral
+P0836,"कैमरा शानदार है, फोटो साफ आती हैं",Hindi,positive
+P0837,"Does this model support expandable storage?",English,neutral
+P0838,"कम रोशनी में कैमरा अच्छा नहीं है 😭",Hindi,negative
+P0839,"Main specs check kar raha hu #PhoneReview",Hinglish,neutral
+P0840,"Display is bright and colours look great",English,positive
+P0841,"इतनी कीमत में बिल्कुल अच्छा नहीं",Hindi,negative
+P0842,"The phone is available in three colours",English,neutral
+P0843,"स्क्रीन बार बार अटक रही है",Hindi,negative
+P0844,"मैं इसके फीचर्स देख रहा हूं 📱",Hindi,neutral
+P0845,"Battery jaldi drain hoti hai yaar",Hinglish,negative
+P0846,"Phone ka performance bahut smooth hai",Hinglish,positive
+P0847,"फोन तीन रंगों में उपलब्ध है",Hindi,neutral
+P0848,"Service centre kahan milega?",Hinglish,neutral
+P0849,"Value for money, happy with this purchase",English,positive
+P0850,"सर्विस सेंटर कहां मिलेगा",Hindi,neutral
+P0851,"Aaj phone India mein launch hua",Hinglish,neutral
+P0852,"I am checking the specifications #Smartphone",English,neutral
+P0853,"Main specs check kar raha hu !!!",Hinglish,neutral
+P0854,"इतनी कीमत में बिल्कुल अच्छा नहीं",Hindi,negative
+P0855,"Low light mein camera bilkul bakwas h 😭 lol",Hinglish,negative
+P0856,"Display is bright and colours look great #PhoneReview 😂",English,positive
+P0857,"आज भारत में फोन लॉन्च हुआ है #TechIndia",Hindi,neutral
+P0858,"फोन तीन रंगों में उपलब्ध है",Hindi,neutral
+P0859,"स्क्रीन बार बार अटक रही है tbh",Hindi,negative
+P0860,"Phone three colours mein available hai 📱",Hinglish,neutral
+P0861,"I am checking the specifications",English,neutral
+P0862,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब 😭",Hindi,negative
+P0863,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है",Hindi,positive
+P0864,"What is the service centre location?",English,neutral
+P0865,"Battery drains too quickly, very disappointed #NewLaunch",English,negative
+P0866,"Battery drains too quickly, very disappointed",English,negative
+P0867,"The screen freezes again and again #NewLaunch",English,negative
+P0868,"Value for money, happy with this purchase 😍",English,positive
+P0869,"I am checking the specifications",English,neutral
+P0870,"Display ke colours kaafi nice hain",Hinglish,positive
+P0871,"Battery backup is amazing, easily lasts all day",English,positive
+P0872,"फोन तीन रंगों में उपलब्ध है 📱",Hindi,neutral
+P0873,"Phone heats up during normal use",English,negative
+P0874,"कीमत के हिसाब से अच्छा फोन है",Hindi,positive
+P0875,"सर्विस सेंटर कहां मिलेगा 🤔 #Smartphone",Hindi,neutral
+P0876,"Does this model support expandable storage? #NewLaunch",English,neutral
+P0877,"डिस्प्ले के रंग बहुत अच्छे हैं 😍",Hindi,positive
+P0878,"Screen baar baar hang kar rahi hai 😭 !!!",Hinglish,negative
+P0879,"इतनी कीमत में बिल्कुल अच्छा नहीं",Hindi,negative
+P0880,"Service centre kahan milega? tbh",Hinglish,neutral
+P0881,"Low light mein camera bilkul bakwas hai",Hinglish,negative
+P0882,"इतनी कीमत में बिल्कुल अच्छा नहीं",Hindi,negative
+P0883,"Display is bright and colours look great 😍",English,positive
+P0884,"Battery backup mast hai, pura din chalti hai",Hinglish,positive
+P0885,"Isme memory card support hai kya #LaunchDay",Hinglish,neutral
+P0886,"Not worth the price, bad experience 😞",English,negative
+P0887,"Price ke hisaab se paisa vasool hai #Smartphone",Hinglish,positive
+P0888,"Camera quality is superb, photos look crisp 😊",English,positive
+P0889,"What is the service centre location?",English,neutral
+P0890,"कम रोशनी में कैमरा अच्छा नहीं है",Hindi,negative
+P0891,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है",Hindi,positive
+P0892,"कीमत के हिसाब से अच्छा फोन है #PhoneReview !!!",Hindi,positive
+P0893,"Battery jaldi drain hoti hai yaar 😭",Hinglish,negative
+P0894,"Aaj phone India mein launch hua #NewLaunch",Hinglish,neutral
+P0895,"Main specs check kar raha hu ✨",Hinglish,neutral
+P0896,"आज भारत में फोन लॉन्च हुआ है ✨ #TechIndia",Hindi,neutral
+P0897,"फोन तीन रंगों में उपलब्ध है",Hindi,neutral
+P0898,"Battery jaldi drain hoti hai yaar 😭",Hinglish,negative
+P0899,"Main specs check kar raha hu 🤔 lol",Hinglish,neutral
+P0900,"Phone three colours mein available hai 📱",Hinglish,neutral
+P0901,"Main specs check kar raha hu 🤔",Hinglish,neutral
+P0902,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है ❤️ #TechIndia lol",Hindi,positive
+P0903,"Display is bright and colours look great ❤️",English,positive
+P0904,"कम रोशनी में कैमरा अच्छा नहीं है #PhoneReview",Hindi,negative
+P0905,"Camera quality is superb, photos look crisp #Smartphone",English,positive
+P0906,"Phone ka performance bahut smooth hai",Hinglish,positive
+P0907,"The phone is available in three colours ✨",English,neutral
+P0908,"Price ke hisaab se paisa vasool hai",Hinglish,positive
+P0909,"कीमत के हिसाब से अच्छा फोन है",Hindi,positive
+P0910,"Aaj phone India mein launch hua ✨",Hinglish,neutral
+P0911,"Camera quality is poor in low light 👎",English,negative
+P0912,"Does this model support expandable storage? 🤔",English,neutral
+P0913,"Camera quality is poor in low light tbh",English,negative
+P0914,"Price ke hisaab se paisa vasool hai #Smartphone",Hinglish,positive
+P0915,"सर्विस सेंटर कहां मिलेगा",Hindi,neutral
+P0916,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब 😡 yaar",Hindi,negative
+P0917,"Screen baar baar hang kar rahi hai #LaunchDay",Hinglish,negative
+P0918,"Value for money, happy with this purchase 😍",English,positive
+P0919,"Camera quality is poor in low light #NewLaunch",English,negative
+P0920,"The screen freezes again and again 😡",English,negative
+P0921,"Low light mein camera bilkul bakwas hai",Hinglish,negative
+P0922,"Phone three colours mein available hai 📱",Hinglish,neutral
+P0923,"फोन सामान्य इस्तेमाल में गर्म होता है 😡",Hindi,negative
+P0924,"Battery jaldi drain hoti hai yaar 😡",Hinglish,negative
+P0925,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब 😭",Hindi,negative
+P0926,"स्क्रीन बार बार अटक रही है",Hindi,negative
+P0927,"Battery jaldi drain hoti hai yaar 👎",Hinglish,negative
+P0928,"Camera quality ekdum zabardast hai",Hinglish,positive
+P0929,"क्या इसमें मेमोरी कार्ड लगता है",Hindi,neutral
+P0930,"Aaj phone India mein launch hua 😂",Hinglish,neutral
+P0931,"Battery drains too quickly, very disappointed",English,negative
+P0932,"आज भारत में फोन लॉन्च हुआ है #Smartphone",Hindi,neutral
+P0933,"Does this model support expandable storage? 📱",English,neutral
+P0934,"Low light mein camera bilkul bakwas hai 😡",Hinglish,negative
+P0935,"Does this model support expandable storage? 📱",English,neutral
+P0936,"Battery jaldi drain hoti hai yaar 😞 lol",Hinglish,negative
+P0937,"Normal use mein phone heat ho raha hai",Hinglish,negative
+P0938,"The screen freezes again and again",English,negative
+P0939,"स्क्रीन बार बार अटक रही है 😭",Hindi,negative
+P0940,"Price ke hisaab se paisa vasool hai 😊",Hinglish,positive
+P0941,"What is the service centre location? ✨",English,neutral
+P0942,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब",Hindi,negative
+P0943,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब 😡 #NewLaunch tbh",Hindi,negative
+P0944,"फोन सामान्य इस्तेमाल में गर्म होता है #PhoneReview yaar",Hindi,negative
+P0945,"मैं इसके फीचर्स देख रहा हूं",Hindi,neutral
+P0946,"स्क्रीन बार बार अटक रही है 😡",Hindi,negative
+P0947,"मैं इसके फीचर्स देख रहा हूं",Hindi,neutral
+P0948,"सर्विस सेंटर कहां मिलेगा",Hindi,neutral
+P0949,"क्या इसमें मेमोरी कार्ड लगता है",Hindi,neutral
+P0950,"What is the service centre location?",English,neutral
+P0951,"फोन बहुत तेज और स्मूथ चलता है #PhoneReview yaar",Hindi,positive
+P0952,"Camera quality is superb, photos look crisp",English,positive
+P0953,"फोन बहुत तेज और स्मूथ चलता है #PhoneReview",Hindi,positive
+P0954,"डिस्प्ले के रंग बहुत अच्छे हैं",Hindi,positive
+P0955,"Service centre kahan milega? #Smartphone",Hinglish,neutral
+P0956,"Camera quality ekdum zabardast hai",Hinglish,positive
+P0957,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है",Hindi,positive
+P0958,"इतनी कीमत में बिल्कुल अच्छा नहीं 😡",Hindi,negative
+P0959,"फोन तीन रंगों में उपलब्ध है #TechIndia",Hindi,neutral
+P0960,"The phone launched today in India 📱",English,neutral
+P0961,"क्या इसमें मेमोरी कार्ड लगता है",Hindi,neutral
+P0962,"Isme memory card support h kya #TechIndia",Hinglish,neutral
+P0963,"The phone launched today in India 😂",English,neutral
+P0964,"Battery backup is amazing, easily lasts all day",English,positive
+P0965,"The phone launched today in India 🤔",English,neutral
+P0966,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब #PhoneReview 😂",Hindi,negative
+P0967,"Price ke hisaab se paisa vasool h 😍",Hinglish,positive
+P0968,"फोन बहुत तेज और स्मूथ चलता है",Hindi,positive
+P0969,"I am checking the specifications !!!",English,neutral
+P0970,"Itne price mein worth it nai h",Hinglish,negative
+P0971,"Low light mein camera bilkul bakwas hai yaar",Hinglish,negative
+P0972,"आज भारत में फोन लॉन्च हुआ है ✨",Hindi,neutral
+P0973,"Display ke colours kaafi nice hain #TechIndia",Hinglish,positive
+P0974,"फोन बहुत तेज और स्मूथ चलता है #PhoneReview",Hindi,positive
+P0975,"Itne price mein worth it nahi hai",Hinglish,negative
+P0976,"Not worth the price, bad experience",English,negative
+P0977,"Battery drains too quickly, very disappointed",English,negative
+P0978,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है ❤️",Hindi,positive
+P0979,"आज भारत में फोन लॉन्च हुआ है",Hindi,neutral
+P0980,"Battery backup mast hai, pura din chalti hai",Hinglish,positive
+P0981,"What is the service centre location? 🤔",English,neutral
+P0982,"स्क्रीन बार बार अटक रही है",Hindi,negative
+P0983,"The new phone feels smooth and fast ❤️",English,positive
+P0984,"Display is bright and colours look great 😊",English,positive
+P0985,"Itne price mein worth it nahi hai",Hinglish,negative
+P0986,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब",Hindi,negative
+P0987,"The screen freezes again and again",English,negative
+P0988,"आज भारत में फोन लॉन्च हुआ है",Hindi,neutral
+P0989,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है",Hindi,positive
+P0990,"कम रोशनी में कैमरा अच्छा नहीं है",Hindi,negative
+P0991,"Screen baar baar hang kar rahi hai #Smartphone",Hinglish,negative
+P0992,"The phone is available in three colours",English,neutral
+P0993,"Itne price mein worth it nahi hai 😞 #NewLaunch",Hinglish,negative
+P0994,"Battery backup is amazing, easily lasts all day",English,positive
+P0995,"Phone ka performance bahut smooth hai 😊",Hinglish,positive
+P0996,"The new phone feels smooth and fast",English,positive
+P0997,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब",Hindi,negative
+P0998,"Price ke hisaab se paisa vasool h 🔥",Hinglish,positive
+P0999,"Battery backup mast hai, pura din chalti hai",Hinglish,positive
+P1000,"डिस्प्ले के रंग बहुत अच्छे हैं",Hindi,positive
+P1001,"Phone heats up during normal use #NewLaunch",English,negative
+P1002,"The phone is available in three colours",English,neutral
+P1003,"Display is bright and colours look great #Smartphone",English,positive
+P1004,"इतनी कीमत में बिल्कुल अच्छा नहीं 😡",Hindi,negative
+P1005,"Phone three colours mein available hai ✨ #Smartphone yaar",Hinglish,neutral
+P1006,"Display ke colours kaafi nice hain ❤️ #LaunchDay lol",Hinglish,positive
+P1007,"डिस्प्ले के रंग बहुत अच्छे हैं 😊",Hindi,positive
+P1008,"Camera quality is poor in low light 👎 yaar",English,negative
+P1009,"Price ke hisaab se paisa vasool h",Hinglish,positive
+P1010,"फोन सामान्य इस्तेमाल में गर्म होता है 😭",Hindi,negative
+P1011,"Normal use mein phone heat ho raha hai #PhoneReview",Hinglish,negative
+P1012,"Screen baar baar hang kar rahi hai",Hinglish,negative
+P1013,"Battery backup mast hai, pura din chalti hai",Hinglish,positive
+P1014,"Battery drains too quickly, very disappointed",English,negative
+P1015,"Not worth the price, bad experience 😡 #TechIndia",English,negative
+P1016,"Aaj phone India mein launch hua 📱",Hinglish,neutral
+P1017,"Price ke hisaab se paisa vasool hai #NewLaunch",Hinglish,positive
+P1018,"Battery jaldi drain hoti hai yaar",Hinglish,negative
+P1019,"Normal use mein phone heat ho raha hai",Hinglish,negative
+P1020,"Display is bright and colours look great",English,positive
+P1021,"The screen freezes again and again 👎",English,negative
+P1022,"Isme memory card support hai kya 📱 #Smartphone",Hinglish,neutral
+P1023,"कम रोशनी में कैमरा अच्छा नहीं है #NewLaunch yaar",Hindi,negative
+P1024,"Value for money, happy with this purchase 🔥",English,positive
+P1025,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है 😊",Hindi,positive
+P1026,"Camera quality ekdum zabardast hai",Hinglish,positive
+P1027,"Main specs check kar raha hu 📱",Hinglish,neutral
+P1028,"Main specs check kar raha hu ✨ #LaunchDay",Hinglish,neutral
+P1029,"Low light mein camera bilkul bakwas hai 😭",Hinglish,negative
+P1030,"क्या इसमें मेमोरी कार्ड लगता है",Hindi,neutral
+P1031,"इतनी कीमत में बिल्कुल अच्छा नहीं 😂",Hindi,negative
+P1032,"Value for money, happy with this purchase #NewLaunch",English,positive
+P1033,"फोन सामान्य इस्तेमाल में गर्म होता है #TechIndia",Hindi,negative
+P1034,"स्क्रीन बार बार अटक रही है #PhoneReview",Hindi,negative
+P1035,"Normal use mein phone heat ho raha h #Smartphone",Hinglish,negative
+P1036,"The phone is available in three colours 🤔 #Smartphone",English,neutral
+P1037,"स्क्रीन बार बार अटक रही है",Hindi,negative
+P1038,"Does this model support expandable storage? #TechIndia",English,neutral
+P1039,"Main specs check kar raha hu lol",Hinglish,neutral
+P1040,"फोन तीन रंगों में उपलब्ध है #TechIndia",Hindi,neutral
+P1041,"Low light mein camera bilkul bakwas hai",Hinglish,negative
+P1042,"कैमरा शानदार है, फोटो साफ आती हैं 😍 #TechIndia",Hindi,positive
+P1043,"Price ke hisaab se paisa vasool hai",Hinglish,positive
+P1044,"The phone is available in three colours ✨ #LaunchDay",English,neutral
+P1045,"कम रोशनी में कैमरा अच्छा नहीं है",Hindi,negative
+P1046,"Value for money, happy with this purchase #Smartphone",English,positive
+P1047,"Battery backup mast hai, pura din chalti hai",Hinglish,positive
+P1048,"कैमरा शानदार है, फोटो साफ आती हैं",Hindi,positive
+P1049,"Battery backup is amazing, easily lasts all day",English,positive
+P1050,"The phone is available in three colours 🤔 #LaunchDay",English,neutral
+P1051,"Battery backup is amazing, easily lasts all day",English,positive
+P1052,"फोन बहुत तेज और स्मूथ चलता है 😍 lol",Hindi,positive
+P1053,"कैमरा शानदार है, फोटो साफ आती हैं",Hindi,positive
+P1054,"फोन सामान्य इस्तेमाल में गर्म होता है #TechIndia",Hindi,negative
+P1055,"Low light mein camera bilkul bakwas h 😡",Hinglish,negative
+P1056,"Normal use mein phone heat ho raha h 👎 #TechIndia yaar",Hinglish,negative
+P1057,"मैं इसके फीचर्स देख रहा हूं 📱",Hindi,neutral
+P1058,"क्या इसमें मेमोरी कार्ड लगता है #PhoneReview lol",Hindi,neutral
+P1059,"इतनी कीमत में बिल्कुल अच्छा नहीं 😡",Hindi,negative
+P1060,"Phone ka performance bahut smooth hai 😍 #TechIndia",Hinglish,positive
+P1061,"Service centre kahan milega?",Hinglish,neutral
+P1062,"कैमरा शानदार है, फोटो साफ आती हैं ❤️ #NewLaunch",Hindi,positive
+P1063,"Battery jaldi drain hoti h yaar 😡",Hinglish,negative
+P1064,"Display ke colours kaafi nice hain #PhoneReview",Hinglish,positive
+P1065,"मैं इसके फीचर्स देख रहा हूं #Smartphone",Hindi,neutral
+P1066,"कैमरा शानदार है, फोटो साफ आती हैं",Hindi,positive
+P1067,"Phone heats up during normal use #Smartphone",English,negative
+P1068,"Battery backup is amazing, easily lasts all day yaar",English,positive
+P1069,"Display is bright and colours look great 😍",English,positive
+P1070,"Battery drains too quickly, very disappointed",English,negative
+P1071,"Camera quality is superb, photos look crisp",English,positive
+P1072,"Camera quality is poor in low light #LaunchDay",English,negative
+P1073,"The phone launched today in India ✨",English,neutral
+P1074,"कीमत के हिसाब से अच्छा फोन है ❤️",Hindi,positive
+P1075,"Phone heats up during normal use #LaunchDay !!!",English,negative
+P1076,"The new phone feels smooth and fast 😍",English,positive
+P1077,"Phone heats up during normal use 😂",English,negative
+P1078,"The new phone feels smooth and fast 😂",English,positive
+P1079,"I am checking the specifications",English,neutral
+P1080,"Low light mein camera bilkul bakwas hai",Hinglish,negative
+P1081,"Price ke hisaab se paisa vasool h",Hinglish,positive
+P1082,"Normal use mein phone heat ho raha hai",Hinglish,negative
+P1083,"What is the service centre location? lol",English,neutral
+P1084,"स्क्रीन बार बार अटक रही है",Hindi,negative
+P1085,"The phone launched today in India 🤔 !!!",English,neutral
+P1086,"कैमरा शानदार है, फोटो साफ आती हैं #Smartphone",Hindi,positive
+P1087,"फोन तीन रंगों में उपलब्ध है 📱 #PhoneReview",Hindi,neutral
+P1088,"कम रोशनी में कैमरा अच्छा नहीं है 😡 #NewLaunch",Hindi,negative
+P1089,"Does this model support expandable storage? #PhoneReview",English,neutral
+P1090,"Itne price mein worth it nahi hai",Hinglish,negative
+P1091,"कम रोशनी में कैमरा अच्छा नहीं है #LaunchDay",Hindi,negative
+P1092,"Screen baar baar hang kar rahi hai",Hinglish,negative
+P1093,"फोन बहुत तेज और स्मूथ चलता है 😊",Hindi,positive
+P1094,"Camera quality is superb, photos look crisp 😊 lol",English,positive
+P1095,"सर्विस सेंटर कहां मिलेगा yaar",Hindi,neutral
+P1096,"I am checking the specifications 🤔 #LaunchDay",English,neutral
+P1097,"इतनी कीमत में बिल्कुल अच्छा नहीं #Smartphone",Hindi,negative
+P1098,"Display is bright and colours look great",English,positive
+P1099,"Value for money, happy with this purchase lol",English,positive
+P1100,"आज भारत में फोन लॉन्च हुआ है",Hindi,neutral
+P1101,"Battery backup is amazing, easily lasts all day",English,positive
+P1102,"Does this model support expandable storage?",English,neutral
+P1103,"Camera quality is superb, photos look crisp 😊 tbh",English,positive
+P1104,"The phone is available in three colours 🤔 #PhoneReview tbh",English,neutral
+P1105,"Value for money, happy with this purchase",English,positive
+P1106,"Main specs check kar raha hu #PhoneReview !!!",Hinglish,neutral
+P1107,"फोन तीन रंगों में उपलब्ध है yaar",Hindi,neutral
+P1108,"Not worth the price, bad experience 😡",English,negative
+P1109,"Not worth the price, bad experience",English,negative
+P1110,"Normal use mein phone heat ho raha hai",Hinglish,negative
+P1111,"Low light mein camera bilkul bakwas h 😡",Hinglish,negative
+P1112,"Display ke colours kaafi nice hain",Hinglish,positive
+P1113,"Phone ka performance bahut smooth hai",Hinglish,positive
+P1114,"Battery backup is amazing, easily lasts all day",English,positive
+P1115,"Display is bright and colours look great #PhoneReview",English,positive
+P1116,"Isme memory card support hai kya",Hinglish,neutral
+P1117,"Does this model support expandable storage? 🤔",English,neutral
+P1118,"फोन तीन रंगों में उपलब्ध है",Hindi,neutral
+P1119,"Normal use mein phone heat ho raha h 😡",Hinglish,negative
+P1120,"Battery jaldi drain hoti hai yaar",Hinglish,negative
+P1121,"Display ke colours kaafi nice hain 😍 #PhoneReview",Hinglish,positive
+P1122,"I am checking the specifications #TechIndia",English,neutral
+P1123,"Battery backup is amazing, easily lasts all day",English,positive
+P1124,"Isme memory card support hai kya",Hinglish,neutral
+P1125,"Not worth the price, bad experience",English,negative
+P1126,"The new phone feels smooth and fast",English,positive
+P1127,"The screen freezes again and again",English,negative
+P1128,"स्क्रीन बार बार अटक रही है",Hindi,negative
+P1129,"Aaj phone India mein launch hua #TechIndia",Hinglish,neutral
+P1130,"Phone three colours mein available hai 🤔 #NewLaunch",Hinglish,neutral
+P1131,"स्क्रीन बार बार अटक रही है #Smartphone",Hindi,negative
+P1132,"Camera quality is superb, photos look crisp 😍 😂",English,positive
+P1133,"Screen baar baar hang kar rahi hai 👎 #Smartphone",Hinglish,negative
+P1134,"Does this model support expandable storage?",English,neutral
+P1135,"Aaj phone India mein launch hua 🤔",Hinglish,neutral
+P1136,"Service centre kahan milega? #PhoneReview !!!",Hinglish,neutral
+P1137,"Service centre kahan milega?",Hinglish,neutral
+P1138,"Normal use mein phone heat ho raha hai",Hinglish,negative
+P1139,"फोन तीन रंगों में उपलब्ध है #PhoneReview",Hindi,neutral
+P1140,"Service centre kahan milega?",Hinglish,neutral
+P1141,"Screen baar baar hang kar rahi hai 😭 #NewLaunch",Hinglish,negative
+P1142,"Battery backup mast hai, pura din chalti hai 😊 #LaunchDay",Hinglish,positive
+P1143,"Low light mein camera bilkul bakwas hai 👎",Hinglish,negative
+P1144,"Service centre kahan milega?",Hinglish,neutral
+P1145,"Display is bright and colours look great",English,positive
+P1146,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब #TechIndia",Hindi,negative
+P1147,"Camera quality ekdum zabardast hai",Hinglish,positive
+P1148,"Itne price mein worth it nai h 😡",Hinglish,negative
+P1149,"Battery backup mast hai, pura din chalti hai",Hinglish,positive
+P1150,"I am checking the specifications",English,neutral
+P1151,"Normal use mein phone heat ho raha hai 😭",Hinglish,negative
+P1152,"सर्विस सेंटर कहां मिलेगा",Hindi,neutral
+P1153,"डिस्प्ले के रंग बहुत अच्छे हैं",Hindi,positive
+P1154,"Battery jaldi drain hoti hai yaar #TechIndia",Hinglish,negative
+P1155,"Screen baar baar hang kar rahi hai #LaunchDay",Hinglish,negative
+P1156,"Main specs check kar raha hu ✨",Hinglish,neutral
+P1157,"Main specs check kar raha hu",Hinglish,neutral
+P1158,"Low light mein camera bilkul bakwas hai",Hinglish,negative
+P1159,"Phone ka performance bahut smooth hai",Hinglish,positive
+P1160,"Isme memory card support hai kya 📱",Hinglish,neutral
+P1161,"Display is bright and colours look great",English,positive
+P1162,"डिस्प्ले के रंग बहुत अच्छे हैं lol",Hindi,positive
+P1163,"Service centre kahan milega?",Hinglish,neutral
+P1164,"Battery jaldi drain hoti hai yaar",Hinglish,negative
+P1165,"Camera quality ekdum zabardast hai #LaunchDay tbh",Hinglish,positive
+P1166,"The phone is available in three colours 🤔",English,neutral
+P1167,"स्क्रीन बार बार अटक रही है #TechIndia",Hindi,negative
+P1168,"Phone ka performance bohot smooth h",Hinglish,positive
+P1169,"Battery drains too quickly, very disappointed 😡 #NewLaunch",English,negative
+P1170,"Battery backup is amazing, easily lasts all day",English,positive
+P1171,"Camera quality ekdum zabardast hai 😊",Hinglish,positive
+P1172,"I am checking the specifications",English,neutral
+P1173,"Battery drains too quickly, very disappointed #NewLaunch lol",English,negative
+P1174,"Not worth the price, bad experience 😡",English,negative
+P1175,"Main specs check kar raha hu ✨",Hinglish,neutral
+P1176,"Battery drains too quickly, very disappointed 👎",English,negative
+P1177,"आज भारत में फोन लॉन्च हुआ है",Hindi,neutral
+P1178,"Camera quality is poor in low light #PhoneReview tbh",English,negative
+P1179,"Display ke colours kaafi nice hain",Hinglish,positive
+P1180,"Normal use mein phone heat ho raha hai",Hinglish,negative
+P1181,"Normal use mein phone heat ho raha h tbh",Hinglish,negative
+P1182,"फोन तीन रंगों में उपलब्ध है 😂",Hindi,neutral
+P1183,"Price ke hisaab se paisa vasool hai 🔥",Hinglish,positive
+P1184,"Display is bright and colours look great ❤️",English,positive
+P1185,"Battery jaldi drain hoti hai yaar",Hinglish,negative
+P1186,"फोन तीन रंगों में उपलब्ध है",Hindi,neutral
+P1187,"Camera quality is poor in low light 😞 #Smartphone",English,negative
+P1188,"Value for money, happy with this purchase ❤️",English,positive
+P1189,"Camera quality is poor in low light",English,negative
+P1190,"Normal use mein phone heat ho raha hai 😭 #TechIndia",Hinglish,negative
+P1191,"Value for money, happy with this purchase 😊 #PhoneReview",English,positive
+P1192,"Display ke colours kaafi nice hain",Hinglish,positive
+P1193,"Low light mein camera bilkul bakwas hai 😭 #PhoneReview",Hinglish,negative
+P1194,"Battery backup mast hai, pura din chalti hai 🔥",Hinglish,positive
+P1195,"Low light mein camera bilkul bakwas h",Hinglish,negative
+P1196,"Phone ka performance bahut smooth hai #LaunchDay",Hinglish,positive
+P1197,"The phone is available in three colours",English,neutral
+P1198,"What is the service centre location?",English,neutral
+P1199,"क्या इसमें मेमोरी कार्ड लगता है ✨ #LaunchDay",Hindi,neutral
+P1200,"क्या इसमें मेमोरी कार्ड लगता है",Hindi,neutral
+P1201,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है",Hindi,positive
+P1202,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब tbh",Hindi,negative
+P1203,"Price ke hisaab se paisa vasool hai 🔥",Hinglish,positive
+P1204,"Normal use mein phone heat ho raha hai",Hinglish,negative
+P1205,"Display ke colours kaafi nice hn",Hinglish,positive
+P1206,"Battery backup is amazing, easily lasts all day 😊",English,positive
+P1207,"The phone is available in three colours #NewLaunch",English,neutral
+P1208,"Display ke colours kaafi nice hain #NewLaunch",Hinglish,positive
+P1209,"क्या इसमें मेमोरी कार्ड लगता है",Hindi,neutral
+P1210,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है",Hindi,positive
+P1211,"डिस्प्ले के रंग बहुत अच्छे हैं",Hindi,positive
+P1212,"Service centre kahan milega?",Hinglish,neutral
+P1213,"क्या इसमें मेमोरी कार्ड लगता है",Hindi,neutral
+P1214,"The phone launched today in India",English,neutral
+P1215,"मैं इसके फीचर्स देख रहा हूं #TechIndia",Hindi,neutral
+P1216,"कम रोशनी में कैमरा अच्छा नहीं है",Hindi,negative
+P1217,"Isme memory card support hai kya 🤔",Hinglish,neutral
+P1218,"Camera quality is poor in low light #LaunchDay",English,negative
+P1219,"Does this model support expandable storage? 🤔",English,neutral
+P1220,"What is the service centre location? #NewLaunch",English,neutral
+P1221,"Price ke hisaab se paisa vasool hai ❤️ #Smartphone",Hinglish,positive
+P1222,"आज भारत में फोन लॉन्च हुआ है",Hindi,neutral
+P1223,"Price ke hisaab se paisa vasool hai 😊",Hinglish,positive
+P1224,"Price ke hisaab se paisa vasool hai",Hinglish,positive
+P1225,"Itne price mein worth it nahi hai",Hinglish,negative
+P1226,"Display ke colours kaafi nice hn",Hinglish,positive
+P1227,"The screen freezes again and again",English,negative
+P1228,"Display is bright and colours look great 😍",English,positive
+P1229,"Display is bright and colours look great",English,positive
+P1230,"Normal use mein phone heat ho raha h",Hinglish,negative
+P1231,"The screen freezes again and again 👎",English,negative
+P1232,"कीमत के हिसाब से अच्छा फोन है",Hindi,positive
+P1233,"Camera quality is superb, photos look crisp",English,positive
+P1234,"Battery backup is amazing, easily lasts all day 😊 #Smartphone",English,positive
+P1235,"Battery drains too quickly, very disappointed 😡",English,negative
+P1236,"Aaj phone India mein launch hua 📱 #Smartphone",Hinglish,neutral
+P1237,"Display is bright and colours look great 😊 #Smartphone",English,positive
+P1238,"Value for money, happy with this purchase 😍",English,positive
+P1239,"फोन सामान्य इस्तेमाल में गर्म होता है 😭 #TechIndia",Hindi,negative
+P1240,"Phone three colours mein available h",Hinglish,neutral
+P1241,"Service centre kahan milega?",Hinglish,neutral
+P1242,"Battery jaldi drain hoti hai yaar 😞",Hinglish,negative
+P1243,"Main specs check kar raha hu #LaunchDay",Hinglish,neutral
+P1244,"Low light mein camera bilkul bakwas hai 😡",Hinglish,negative
+P1245,"स्क्रीन बार बार अटक रही है 😡",Hindi,negative
+P1246,"कम रोशनी में कैमरा अच्छा नहीं है",Hindi,negative
+P1247,"Normal use mein phone heat ho raha h #PhoneReview",Hinglish,negative
+P1248,"Display ke colours kaafi nice hain #LaunchDay",Hinglish,positive
+P1249,"Display ke colours kaafi nice hain 🔥 #LaunchDay",Hinglish,positive
+P1250,"Battery backup mast h, pura din chalti hai 😍 #PhoneReview",Hinglish,positive
+P1251,"Not worth the price, bad experience 😭 #Smartphone",English,negative
+P1252,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है",Hindi,positive
+P1253,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब 😭",Hindi,negative
+P1254,"मैं इसके फीचर्स देख रहा हूं",Hindi,neutral
+P1255,"Aaj phone India mein launch hua #TechIndia",Hinglish,neutral
+P1256,"मैं इसके फीचर्स देख रहा हूं",Hindi,neutral
+P1257,"Isme memory card support hai kya",Hinglish,neutral
+P1258,"The screen freezes again and again",English,negative
+P1259,"Battery backup is amazing, easily lasts all day 😊 #NewLaunch",English,positive
+P1260,"Camera quality ekdum zabardast hai #LaunchDay !!!",Hinglish,positive
+P1261,"The new phone feels smooth and fast #Smartphone",English,positive
+P1262,"Value for money, happy with this purchase",English,positive
+P1263,"कम रोशनी में कैमरा अच्छा नहीं है",Hindi,negative
+P1264,"Display ke colours kaafi nice hn #Smartphone",Hinglish,positive
+P1265,"Price ke hisaab se paisa vasool hai #Smartphone",Hinglish,positive
+P1266,"Price ke hisaab se paisa vasool hai",Hinglish,positive
+P1267,"कम रोशनी में कैमरा अच्छा नहीं है",Hindi,negative
+P1268,"कम रोशनी में कैमरा अच्छा नहीं है #NewLaunch",Hindi,negative
+P1269,"Battery jaldi drain hoti hai yaar",Hinglish,negative
+P1270,"Battery jaldi drain hoti h yaar 😡 #Smartphone",Hinglish,negative
+P1271,"Value for money, happy with this purchase 🔥 #Smartphone",English,positive
+P1272,"What is the service centre location? 🤔 #NewLaunch",English,neutral
+P1273,"सर्विस सेंटर कहां मिलेगा",Hindi,neutral
+P1274,"Battery drains too quickly, very disappointed #PhoneReview",English,negative
+P1275,"Normal use mein phone heat ho raha hai",Hinglish,negative
+P1276,"Normal use mein phone heat ho raha h",Hinglish,negative
+P1277,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब 😞",Hindi,negative
+P1278,"इतनी कीमत में बिल्कुल अच्छा नहीं 👎",Hindi,negative
+P1279,"Not worth the price, bad experience",English,negative
+P1280,"Camera quality ekdum zabardast hai",Hinglish,positive
+P1281,"फोन सामान्य इस्तेमाल में गर्म होता है 👎 #PhoneReview",Hindi,negative
+P1282,"Battery backup is amazing, easily lasts all day 🔥 lol",English,positive
+P1283,"The new phone feels smooth and fast #NewLaunch",English,positive
+P1284,"Not worth the price, bad experience",English,negative
+P1285,"फोन बहुत तेज और स्मूथ चलता है #PhoneReview",Hindi,positive
+P1286,"Phone three colours mein available hai #PhoneReview yaar",Hinglish,neutral
+P1287,"Battery backup is amazing, easily lasts all day",English,positive
+P1288,"कैमरा शानदार है, फोटो साफ आती हैं 🔥",Hindi,positive
+P1289,"Phone ka performance bohot smooth h 😂",Hinglish,positive
+P1290,"Battery jaldi drain hoti hai yaar #LaunchDay",Hinglish,negative
+P1291,"Battery backup is amazing, easily lasts all day",English,positive
+P1292,"The phone is available in three colours ✨",English,neutral
+P1293,"स्क्रीन बार बार अटक रही है 👎",Hindi,negative
+P1294,"Battery backup mast h, pura din chalti hai",Hinglish,positive
+P1295,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब #LaunchDay",Hindi,negative
+P1296,"फोन सामान्य इस्तेमाल में गर्म होता है tbh",Hindi,negative
+P1297,"Battery backup is amazing, easily lasts all day",English,positive
+P1298,"फोन बहुत तेज और स्मूथ चलता है",Hindi,positive
+P1299,"मैं इसके फीचर्स देख रहा हूं",Hindi,neutral
+P1300,"आज भारत में फोन लॉन्च हुआ है",Hindi,neutral
+P1301,"मैं इसके फीचर्स देख रहा हूं #TechIndia",Hindi,neutral
+P1302,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है 😊",Hindi,positive
+P1303,"इतनी कीमत में बिल्कुल अच्छा नहीं",Hindi,negative
+P1304,"Battery drains too quickly, very disappointed 👎",English,negative
+P1305,"The phone is available in three colours #LaunchDay",English,neutral
+P1306,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब #LaunchDay",Hindi,negative
+P1307,"Service centre kahan milega? 🤔",Hinglish,neutral
+P1308,"Main specs check kar raha hu",Hinglish,neutral
+P1309,"Itne price mein worth it nahi hai 👎 tbh",Hinglish,negative
+P1310,"Battery drains too quickly, very disappointed 👎 #Smartphone",English,negative
+P1311,"Phone three colours mein available hai #NewLaunch",Hinglish,neutral
+P1312,"The phone launched today in India",English,neutral
+P1313,"इतनी कीमत में बिल्कुल अच्छा नहीं 😞",Hindi,negative
+P1314,"कैमरा शानदार है, फोटो साफ आती हैं",Hindi,positive
+P1315,"Isme memory card support hai kya",Hinglish,neutral
+P1316,"फोन सामान्य इस्तेमाल में गर्म होता है 😂",Hindi,negative
+P1317,"Normal use mein phone heat ho raha hai",Hinglish,negative
+P1318,"क्या इसमें मेमोरी कार्ड लगता है",Hindi,neutral
+P1319,"Battery jaldi drain hoti hai yaar",Hinglish,negative
+P1320,"Not worth the price, bad experience 👎",English,negative
+P1321,"What is the service centre location? #TechIndia",English,neutral
+P1322,"Battery jaldi drain hoti hai yaar",Hinglish,negative
+P1323,"Low light mein camera bilkul bakwas hai",Hinglish,negative
+P1324,"What is the service centre location? #PhoneReview",English,neutral
+P1325,"Price ke hisaab se paisa vasool hai ❤️",Hinglish,positive
+P1326,"Price ke hisaab se paisa vasool hai",Hinglish,positive
+P1327,"कम रोशनी में कैमरा अच्छा नहीं है #TechIndia",Hindi,negative
+P1328,"The phone is available in three colours ✨",English,neutral
+P1329,"डिस्प्ले के रंग बहुत अच्छे हैं 😍",Hindi,positive
+P1330,"Screen baar baar hang kar rahi hai",Hinglish,negative
+P1331,"फोन तीन रंगों में उपलब्ध है 😂",Hindi,neutral
+P1332,"What is the service centre location?",English,neutral
+P1333,"इतनी कीमत में बिल्कुल अच्छा नहीं 👎",Hindi,negative
+P1334,"Camera quality is poor in low light",English,negative
+P1335,"Aaj phone India mein launch hua 🤔",Hinglish,neutral
+P1336,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब",Hindi,negative
+P1337,"सर्विस सेंटर कहां मिलेगा ✨",Hindi,neutral
+P1338,"Service centre kahan milega?",Hinglish,neutral
+P1339,"कैमरा शानदार है, फोटो साफ आती हैं #Smartphone",Hindi,positive
+P1340,"कैमरा शानदार है, फोटो साफ आती हैं !!!",Hindi,positive
+P1341,"Display ke colours kaafi nice hain 🔥",Hinglish,positive
+P1342,"Screen baar baar hang kar rahi hai #TechIndia lol",Hinglish,negative
+P1343,"फोन सामान्य इस्तेमाल में गर्म होता है #LaunchDay",Hindi,negative
+P1344,"कम रोशनी में कैमरा अच्छा नहीं है",Hindi,negative
+P1345,"कैमरा शानदार है, फोटो साफ आती हैं 😍",Hindi,positive
+P1346,"डिस्प्ले के रंग बहुत अच्छे हैं 😍 #LaunchDay",Hindi,positive
+P1347,"Not worth the price, bad experience",English,negative
+P1348,"Camera quality is poor in low light 😡",English,negative
+P1349,"The new phone feels smooth and fast",English,positive
+P1350,"कम रोशनी में कैमरा अच्छा नहीं है",Hindi,negative
+P1351,"Service centre kahan milega?",Hinglish,neutral
+P1352,"The phone launched today in India",English,neutral
+P1353,"Phone ka performance bahut smooth hai ❤️",Hinglish,positive
+P1354,"Price ke hisaab se paisa vasool hai",Hinglish,positive
+P1355,"Camera quality is superb, photos look crisp lol",English,positive
+P1356,"डिस्प्ले के रंग बहुत अच्छे हैं 😍 #LaunchDay",Hindi,positive
+P1357,"Battery backup is amazing, easily lasts all day 😍",English,positive
+P1358,"What is the service centre location?",English,neutral
+P1359,"Aaj phone India mein launch hua 🤔 tbh",Hinglish,neutral
+P1360,"Screen baar baar hang kar rahi hai #Smartphone",Hinglish,negative
+P1361,"The phone is available in three colours",English,neutral
+P1362,"Camera quality is superb, photos look crisp 😊",English,positive
+P1363,"फोन बहुत तेज और स्मूथ चलता है 😍",Hindi,positive
+P1364,"इतनी कीमत में बिल्कुल अच्छा नहीं",Hindi,negative
+P1365,"Not worth the price, bad experience #TechIndia !!!",English,negative
+P1366,"Display is bright and colours look great 😊 #PhoneReview",English,positive
+P1367,"डिस्प्ले के रंग बहुत अच्छे हैं #TechIndia",Hindi,positive
+P1368,"Phone heats up during normal use 😞 yaar",English,negative
+P1369,"Value for money, happy with this purchase",English,positive
+P1370,"Main specs check kar raha hu #Smartphone",Hinglish,neutral
+P1371,"फोन तीन रंगों में उपलब्ध है #NewLaunch",Hindi,neutral
+P1372,"Camera quality is poor in low light",English,negative
+P1373,"Battery backup mast hai, pura din chalti hai",Hinglish,positive
+P1374,"Battery jaldi drain hoti hai yaar !!!",Hinglish,negative
+P1375,"फोन सामान्य इस्तेमाल में गर्म होता है 😡",Hindi,negative
+P1376,"स्क्रीन बार बार अटक रही है 😞",Hindi,negative
+P1377,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब",Hindi,negative
+P1378,"Battery backup is amazing, easily lasts all day",English,positive
+P1379,"Camera quality is superb, photos look crisp 😊 tbh",English,positive
+P1380,"Phone heats up during normal use 😡",English,negative
+P1381,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब 😭",Hindi,negative
+P1382,"Low light mein camera bilkul bakwas hai 😞",Hinglish,negative
+P1383,"Display is bright and colours look great 😍 #LaunchDay",English,positive
+P1384,"Not worth the price, bad experience !!!",English,negative
+P1385,"The phone is available in three colours",English,neutral
+P1386,"कम रोशनी में कैमरा अच्छा नहीं है",Hindi,negative
+P1387,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब 😭",Hindi,negative
+P1388,"Camera quality ekdum zabardast hai",Hinglish,positive
+P1389,"The phone launched today in India ✨",English,neutral
+P1390,"आज भारत में फोन लॉन्च हुआ है #TechIndia",Hindi,neutral
+P1391,"Does this model support expandable storage?",English,neutral
+P1392,"Main specs check kar raha hu #PhoneReview",Hinglish,neutral
+P1393,"Low light mein camera bilkul bakwas hai #PhoneReview",Hinglish,negative
+P1394,"इतनी कीमत में बिल्कुल अच्छा नहीं",Hindi,negative
+P1395,"कीमत के हिसाब से अच्छा फोन है",Hindi,positive
+P1396,"What is the service centre location?",English,neutral
+P1397,"Battery backup mast h, pura din chalti hai ❤️",Hinglish,positive
+P1398,"Display ke colours kaafi nice hain 😊 #Smartphone",Hinglish,positive
+P1399,"Phone ka performance bohot smooth h #LaunchDay",Hinglish,positive
+P1400,"Normal use mein phone heat ho raha hai",Hinglish,negative
+P1401,"फोन बहुत तेज और स्मूथ चलता है #TechIndia",Hindi,positive
+P1402,"Value for money, happy with this purchase 😍",English,positive
+P1403,"Normal use mein phone heat ho raha hai",Hinglish,negative
+P1404,"कीमत के हिसाब से अच्छा फोन है #NewLaunch",Hindi,positive
+P1405,"Main specs check kar raha hu #NewLaunch tbh",Hinglish,neutral
+P1406,"Isme memory card support hai kya 🤔",Hinglish,neutral
+P1407,"Service centre kahan milega?",Hinglish,neutral
+P1408,"कैमरा शानदार है, फोटो साफ आती हैं",Hindi,positive
+P1409,"Isme memory card support h kya",Hinglish,neutral
+P1410,"Isme memory card support hai kya 🤔 lol",Hinglish,neutral
+P1411,"क्या इसमें मेमोरी कार्ड लगता है #NewLaunch",Hindi,neutral
+P1412,"इतनी कीमत में बिल्कुल अच्छा नहीं #TechIndia yaar",Hindi,negative
+P1413,"What is the service centre location? #NewLaunch",English,neutral
+P1414,"Normal use mein phone heat ho raha hai yaar",Hinglish,negative
+P1415,"Aaj phone India mein launch hua 🤔",Hinglish,neutral
+P1416,"Does this model support expandable storage? #TechIndia",English,neutral
+P1417,"फोन सामान्य इस्तेमाल में गर्म होता है #NewLaunch",Hindi,negative
+P1418,"Aaj phone India mein launch hua",Hinglish,neutral
+P1419,"What is the service centre location? #TechIndia",English,neutral
+P1420,"Phone heats up during normal use",English,negative
+P1421,"The new phone feels smooth and fast 🔥",English,positive
+P1422,"इतनी कीमत में बिल्कुल अच्छा नहीं",Hindi,negative
+P1423,"कीमत के हिसाब से अच्छा फोन है 😊",Hindi,positive
+P1424,"फोन सामान्य इस्तेमाल में गर्म होता है !!!",Hindi,negative
+P1425,"कीमत के हिसाब से अच्छा फोन है ❤️ #NewLaunch",Hindi,positive
+P1426,"The new phone feels smooth and fast 😊",English,positive
+P1427,"Battery drains too quickly, very disappointed #PhoneReview",English,negative
+P1428,"Battery jaldi drain hoti hai yaar",Hinglish,negative
+P1429,"Camera quality is superb, photos look crisp",English,positive
+P1430,"फोन बहुत तेज और स्मूथ चलता है",Hindi,positive
+P1431,"Price ke hisaab se paisa vasool h #TechIndia",Hinglish,positive
+P1432,"Price ke hisaab se paisa vasool hai",Hinglish,positive
+P1433,"Main specs check kar raha hu #Smartphone",Hinglish,neutral
+P1434,"Value for money, happy with this purchase 😍 !!!",English,positive
+P1435,"Aaj phone India mein launch hua #Smartphone",Hinglish,neutral
+P1436,"कम रोशनी में कैमरा अच्छा नहीं है",Hindi,negative
+P1437,"I am checking the specifications",English,neutral
+P1438,"आज भारत में फोन लॉन्च हुआ है",Hindi,neutral
+P1439,"इतनी कीमत में बिल्कुल अच्छा नहीं",Hindi,negative
+P1440,"Normal use mein phone heat ho raha hai 👎",Hinglish,negative
+P1441,"Price ke hisaab se paisa vasool h !!!",Hinglish,positive
+P1442,"मैं इसके फीचर्स देख रहा हूं",Hindi,neutral
+P1443,"The phone is available in three colours",English,neutral
+P1444,"फोन बहुत तेज और स्मूथ चलता है ❤️",Hindi,positive
+P1445,"Low light mein camera bilkul bakwas h",Hinglish,negative
+P1446,"Price ke hisaab se paisa vasool h ❤️",Hinglish,positive
+P1447,"Not worth the price, bad experience 😞 #TechIndia",English,negative
+P1448,"Camera quality is superb, photos look crisp #PhoneReview lol",English,positive
+P1449,"डिस्प्ले के रंग बहुत अच्छे हैं",Hindi,positive
+P1450,"Main specs check kar raha hu #Smartphone",Hinglish,neutral
+P1451,"Normal use mein phone heat ho raha hai #LaunchDay",Hinglish,negative
+P1452,"Camera quality is superb, photos look crisp 😊 #PhoneReview",English,positive
+P1453,"स्क्रीन बार बार अटक रही है #Smartphone",Hindi,negative
+P1454,"Normal use mein phone heat ho raha hai",Hinglish,negative
+P1455,"What is the service centre location?",English,neutral
+P1456,"स्क्रीन बार बार अटक रही है 👎",Hindi,negative
+P1457,"कम रोशनी में कैमरा अच्छा नहीं है 😡",Hindi,negative
+P1458,"क्या इसमें मेमोरी कार्ड लगता है",Hindi,neutral
+P1459,"सर्विस सेंटर कहां मिलेगा tbh",Hindi,neutral
+P1460,"Isme memory card support hai kya",Hinglish,neutral
+P1461,"फोन सामान्य इस्तेमाल में गर्म होता है 😭",Hindi,negative
+P1462,"Phone ka performance bahut smooth hai",Hinglish,positive
+P1463,"Display ke colours kaafi nice hain",Hinglish,positive
+P1464,"Phone heats up during normal use",English,negative
+P1465,"Isme memory card support hai kya",Hinglish,neutral
+P1466,"Service centre kahan milega?",Hinglish,neutral
+P1467,"इतनी कीमत में बिल्कुल अच्छा नहीं 👎",Hindi,negative
+P1468,"What is the service centre location? #PhoneReview",English,neutral
+P1469,"डिस्प्ले के रंग बहुत अच्छे हैं yaar",Hindi,positive
+P1470,"Screen baar baar hang kar rahi hai #TechIndia",Hinglish,negative
+P1471,"Camera quality is poor in low light 👎 #PhoneReview",English,negative
+P1472,"क्या इसमें मेमोरी कार्ड लगता है #Smartphone lol",Hindi,neutral
+P1473,"The screen freezes again and again",English,negative
+P1474,"कम रोशनी में कैमरा अच्छा नहीं है 😞",Hindi,negative
+P1475,"Phone heats up during normal use 😞",English,negative
+P1476,"Main specs check kar raha hu ✨",Hinglish,neutral
+P1477,"Phone heats up during normal use 😞",English,negative
+P1478,"क्या इसमें मेमोरी कार्ड लगता है",Hindi,neutral
+P1479,"Price ke hisaab se paisa vasool hai #NewLaunch",Hinglish,positive
+P1480,"The phone launched today in India 😂",English,neutral
+P1481,"Phone ka performance bahut smooth hai",Hinglish,positive
+P1482,"Does this model support expandable storage?",English,neutral
+P1483,"Display ke colours kaafi nice hain",Hinglish,positive
+P1484,"क्या इसमें मेमोरी कार्ड लगता है 📱",Hindi,neutral
+P1485,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब 😞",Hindi,negative
+P1486,"Battery drains too quickly, very disappointed 😡",English,negative
+P1487,"Normal use mein phone heat ho raha hai yaar",Hinglish,negative
+P1488,"Low light mein camera bilkul bakwas hai 😞",Hinglish,negative
+P1489,"The phone is available in three colours 🤔",English,neutral
+P1490,"डिस्प्ले के रंग बहुत अच्छे हैं 🔥",Hindi,positive
+P1491,"Main specs check kar raha hu 📱",Hinglish,neutral
+P1492,"कैमरा शानदार है, फोटो साफ आती हैं #NewLaunch tbh",Hindi,positive
+P1493,"Normal use mein phone heat ho raha hai tbh",Hinglish,negative
+P1494,"Service centre kahan milega? lol",Hinglish,neutral
+P1495,"कैमरा शानदार है, फोटो साफ आती हैं",Hindi,positive
+P1496,"Not worth the price, bad experience",English,negative
+P1497,"आज भारत में फोन लॉन्च हुआ है ✨",Hindi,neutral
+P1498,"Normal use mein phone heat ho raha hai #PhoneReview",Hinglish,negative
+P1499,"कैमरा शानदार है, फोटो साफ आती हैं",Hindi,positive
+P1500,"कीमत के हिसाब से अच्छा फोन है",Hindi,positive
+P1501,"Display ke colours kaafi nice hain #LaunchDay",Hinglish,positive
+P1502,"Service centre kahan milega? 🤔",Hinglish,neutral
+P1503,"Phone three colours mein available hai !!!",Hinglish,neutral
+P1504,"Normal use mein phone heat ho raha hai lol",Hinglish,negative
+P1505,"मैं इसके फीचर्स देख रहा हूं #PhoneReview",Hindi,neutral
+P1506,"Camera quality ekdum zabardast hai ❤️",Hinglish,positive
+P1507,"Isme memory card support hai kya",Hinglish,neutral
+P1508,"फोन तीन रंगों में उपलब्ध है #Smartphone",Hindi,neutral
+P1509,"Isme memory card support hai kya",Hinglish,neutral
+P1510,"The phone launched today in India",English,neutral
+P1511,"स्क्रीन बार बार अटक रही है #NewLaunch",Hindi,negative
+P1512,"Not worth the price, bad experience #TechIndia",English,negative
+P1513,"What is the service centre location?",English,neutral
+P1514,"फोन बहुत तेज और स्मूथ चलता है 😍 #TechIndia",Hindi,positive
+P1515,"The phone is available in three colours",English,neutral
+P1516,"स्क्रीन बार बार अटक रही है 😞 #LaunchDay yaar",Hindi,negative
+P1517,"फोन बहुत तेज और स्मूथ चलता है #Smartphone",Hindi,positive
+P1518,"Itne price mein worth it nahi hai 😡",Hinglish,negative
+P1519,"Service centre kahan milega? tbh",Hinglish,neutral
+P1520,"Itne price mein worth it nai h",Hinglish,negative
+P1521,"Value for money, happy with this purchase",English,positive
+P1522,"Price ke hisaab se paisa vasool h",Hinglish,positive
+P1523,"स्क्रीन बार बार अटक रही है",Hindi,negative
+P1524,"कीमत के हिसाब से अच्छा फोन है ❤️",Hindi,positive
+P1525,"स्क्रीन बार बार अटक रही है",Hindi,negative
+P1526,"The new phone feels smooth and fast #Smartphone",English,positive
+P1527,"सर्विस सेंटर कहां मिलेगा",Hindi,neutral
+P1528,"I am checking the specifications 🤔 #TechIndia",English,neutral
+P1529,"Display ke colours kaafi nice hain",Hinglish,positive
+P1530,"Aaj phone India mein launch hua ✨ #TechIndia",Hinglish,neutral
+P1531,"Phone heats up during normal use yaar",English,negative
+P1532,"Battery backup mast h, pura din chalti hai",Hinglish,positive
+P1533,"मैं इसके फीचर्स देख रहा हूं ✨",Hindi,neutral
+P1534,"Battery backup is amazing, easily lasts all day #LaunchDay",English,positive
+P1535,"Not worth the price, bad experience #LaunchDay",English,negative
+P1536,"Display ke colours kaafi nice hain",Hinglish,positive
+P1537,"स्क्रीन बार बार अटक रही है #LaunchDay",Hindi,negative
+P1538,"The phone is available in three colours lol",English,neutral
+P1539,"Isme memory card support hai kya 📱",Hinglish,neutral
+P1540,"Display is bright and colours look great",English,positive
+P1541,"Phone three colours mein available hai",Hinglish,neutral
+P1542,"आज भारत में फोन लॉन्च हुआ है #NewLaunch",Hindi,neutral
+P1543,"Itne price mein worth it nahi hai 😭 😂",Hinglish,negative
+P1544,"Battery drains too quickly, very disappointed #NewLaunch",English,negative
+P1545,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है 😍 #NewLaunch",Hindi,positive
+P1546,"फोन बहुत तेज और स्मूथ चलता है lol",Hindi,positive
+P1547,"Camera quality ekdum zabardast hai #NewLaunch",Hinglish,positive
+P1548,"Screen baar baar hang kar rahi hai 👎 #Smartphone",Hinglish,negative
+P1549,"Isme memory card support hai kya",Hinglish,neutral
+P1550,"इतनी कीमत में बिल्कुल अच्छा नहीं 😭",Hindi,negative
+P1551,"What is the service centre location? ✨",English,neutral
+P1552,"फोन बहुत तेज और स्मूथ चलता है ❤️ #Smartphone lol",Hindi,positive
+P1553,"Camera quality is poor in low light 😡",English,negative
+P1554,"Camera quality ekdum zabardast hai 😊 #NewLaunch",Hinglish,positive
+P1555,"मैं इसके फीचर्स देख रहा हूं",Hindi,neutral
+P1556,"What is the service centre location? #PhoneReview tbh",English,neutral
+P1557,"The screen freezes again and again",English,negative
+P1558,"Isme memory card support h kya 🤔",Hinglish,neutral
+P1559,"Battery drains too quickly, very disappointed",English,negative
+P1560,"Camera quality is superb, photos look crisp #NewLaunch yaar",English,positive
+P1561,"Itne price mein worth it nahi hai 😞 tbh",Hinglish,negative
+P1562,"The phone is available in three colours #LaunchDay yaar",English,neutral
+P1563,"Camera quality is superb, photos look crisp #PhoneReview lol",English,positive
+P1564,"Value for money, happy with this purchase",English,positive
+P1565,"Battery backup mast hai, pura din chalti hai 🔥 #NewLaunch tbh",Hinglish,positive
+P1566,"I am checking the specifications #Smartphone lol",English,neutral
+P1567,"Low light mein camera bilkul bakwas h",Hinglish,negative
+P1568,"Camera quality is poor in low light",English,negative
+P1569,"Main specs check kar raha hu 📱",Hinglish,neutral
+P1570,"Isme memory card support h kya",Hinglish,neutral
+P1571,"Battery backup is amazing, easily lasts all day 🔥",English,positive
+P1572,"Phone ka performance bahut smooth hai ❤️",Hinglish,positive
+P1573,"Low light mein camera bilkul bakwas h #PhoneReview",Hinglish,negative
+P1574,"Service centre kahan milega? 🤔",Hinglish,neutral
+P1575,"फोन बहुत तेज और स्मूथ चलता है 😍",Hindi,positive
+P1576,"Phone three colours mein available hai",Hinglish,neutral
+P1577,"Display ke colours kaafi nice hain",Hinglish,positive
+P1578,"Does this model support expandable storage? #NewLaunch",English,neutral
+P1579,"The screen freezes again and again 😞 #Smartphone",English,negative
+P1580,"इतनी कीमत में बिल्कुल अच्छा नहीं 👎 #PhoneReview",Hindi,negative
+P1581,"Price ke hisaab se paisa vasool hai 😍",Hinglish,positive
+P1582,"कीमत के हिसाब से अच्छा फोन है",Hindi,positive
+P1583,"कम रोशनी में कैमरा अच्छा नहीं है",Hindi,negative
+P1584,"Phone three colours mein available hai",Hinglish,neutral
+P1585,"The phone launched today in India yaar",English,neutral
+P1586,"Phone ka performance bahut smooth hai",Hinglish,positive
+P1587,"Battery backup is amazing, easily lasts all day #NewLaunch",English,positive
+P1588,"Phone ka performance bahut smooth hai 🔥 lol",Hinglish,positive
+P1589,"सर्विस सेंटर कहां मिलेगा",Hindi,neutral
+P1590,"The screen freezes again and again",English,negative
+P1591,"Price ke hisaab se paisa vasool h",Hinglish,positive
+P1592,"Battery backup is amazing, easily lasts all day",English,positive
+P1593,"Phone three colours mein available hai",Hinglish,neutral
+P1594,"Phone ka performance bohot smooth h",Hinglish,positive
+P1595,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है ❤️",Hindi,positive
+P1596,"The new phone feels smooth and fast ❤️",English,positive
+P1597,"Aaj phone India mein launch hua",Hinglish,neutral
+P1598,"सर्विस सेंटर कहां मिलेगा 🤔",Hindi,neutral
+P1599,"Display is bright and colours look great",English,positive
+P1600,"Screen baar baar hang kar rahi hai",Hinglish,negative
+P1601,"Battery backup mast hai, pura din chalti hai #NewLaunch",Hinglish,positive
+P1602,"Camera quality is poor in low light 👎",English,negative
+P1603,"Camera quality is poor in low light lol",English,negative
+P1604,"Service centre kahan milega? 📱",Hinglish,neutral
+P1605,"Low light mein camera bilkul bakwas hai",Hinglish,negative
+P1606,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है #PhoneReview lol",Hindi,positive
+P1607,"Does this model support expandable storage?",English,neutral
+P1608,"Phone three colours mein available h",Hinglish,neutral
+P1609,"What is the service centre location?",English,neutral
+P1610,"क्या इसमें मेमोरी कार्ड लगता है #NewLaunch",Hindi,neutral
+P1611,"Price ke hisaab se paisa vasool hai",Hinglish,positive
+P1612,"The screen freezes again and again 😞 #LaunchDay",English,negative
+P1613,"Camera quality ekdum zabardast hai 😊",Hinglish,positive
+P1614,"Value for money, happy with this purchase",English,positive
+P1615,"The screen freezes again and again",English,negative
+P1616,"इतनी कीमत में बिल्कुल अच्छा नहीं",Hindi,negative
+P1617,"कीमत के हिसाब से अच्छा फोन है #TechIndia",Hindi,positive
+P1618,"आज भारत में फोन लॉन्च हुआ है !!!",Hindi,neutral
+P1619,"Display ke colours kaafi nice hain",Hinglish,positive
+P1620,"इतनी कीमत में बिल्कुल अच्छा नहीं 😡",Hindi,negative
+P1621,"Camera quality is poor in low light",English,negative
+P1622,"Main specs check kar raha hu",Hinglish,neutral
+P1623,"Battery drains too quickly, very disappointed",English,negative
+P1624,"Camera quality is superb, photos look crisp",English,positive
+P1625,"I am checking the specifications",English,neutral
+P1626,"The new phone feels smooth and fast 😊",English,positive
+P1627,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब",Hindi,negative
+P1628,"फोन बहुत तेज और स्मूथ चलता है 😍 #TechIndia",Hindi,positive
+P1629,"मैं इसके फीचर्स देख रहा हूं #Smartphone",Hindi,neutral
+P1630,"Phone heats up during normal use 😡",English,negative
+P1631,"Isme memory card support hai kya #NewLaunch !!!",Hinglish,neutral
+P1632,"Battery backup is amazing, easily lasts all day #NewLaunch",English,positive
+P1633,"कम रोशनी में कैमरा अच्छा नहीं है #PhoneReview",Hindi,negative
+P1634,"फोन सामान्य इस्तेमाल में गर्म होता है 😡 #Smartphone",Hindi,negative
+P1635,"The new phone feels smooth and fast",English,positive
+P1636,"The phone launched today in India",English,neutral
+P1637,"क्या इसमें मेमोरी कार्ड लगता है #LaunchDay",Hindi,neutral
+P1638,"Phone ka performance bohot smooth h 😊 #TechIndia",Hinglish,positive
+P1639,"Value for money, happy with this purchase #NewLaunch",English,positive
+P1640,"क्या इसमें मेमोरी कार्ड लगता है #LaunchDay !!!",Hindi,neutral
+P1641,"Phone ka performance bahut smooth hai ❤️ #Smartphone",Hinglish,positive
+P1642,"मैं इसके फीचर्स देख रहा हूं 🤔",Hindi,neutral
+P1643,"Not worth the price, bad experience #NewLaunch tbh",English,negative
+P1644,"Aaj phone India mein launch hua 📱",Hinglish,neutral
+P1645,"Battery backup is amazing, easily lasts all day",English,positive
+P1646,"इतनी कीमत में बिल्कुल अच्छा नहीं 😭",Hindi,negative
+P1647,"Main specs check kar raha hu ✨",Hinglish,neutral
+P1648,"Phone heats up during normal use",English,negative
+P1649,"मैं इसके फीचर्स देख रहा हूं 🤔",Hindi,neutral
+P1650,"Normal use mein phone heat ho raha hai",Hinglish,negative
+P1651,"Camera quality is poor in low light tbh",English,negative
+P1652,"Display is bright and colours look great 🔥",English,positive
+P1653,"आज भारत में फोन लॉन्च हुआ है",Hindi,neutral
+P1654,"Main specs check kar raha hu",Hinglish,neutral
+P1655,"कीमत के हिसाब से अच्छा फोन है !!!",Hindi,positive
+P1656,"Battery backup is amazing, easily lasts all day ❤️",English,positive
+P1657,"Screen baar baar hang kar rahi hai",Hinglish,negative
+P1658,"The new phone feels smooth and fast",English,positive
+P1659,"Phone ka performance bahut smooth hai #NewLaunch 😂",Hinglish,positive
+P1660,"Low light mein camera bilkul bakwas hai #PhoneReview",Hinglish,negative
+P1661,"फोन बहुत तेज और स्मूथ चलता है",Hindi,positive
+P1662,"Camera quality is poor in low light",English,negative
+P1663,"Battery drains too quickly, very disappointed #PhoneReview",English,negative
+P1664,"Not worth the price, bad experience",English,negative
+P1665,"फोन तीन रंगों में उपलब्ध है 📱 #TechIndia",Hindi,neutral
+P1666,"Phone three colours mein available hai",Hinglish,neutral
+P1667,"The screen freezes again and again",English,negative
+P1668,"Camera quality is superb, photos look crisp tbh",English,positive
+P1669,"Display is bright and colours look great",English,positive
+P1670,"Screen baar baar hang kar rahi h",Hinglish,negative
+P1671,"Display is bright and colours look great",English,positive
+P1672,"Normal use mein phone heat ho raha hai",Hinglish,negative
+P1673,"Value for money, happy with this purchase",English,positive
+P1674,"I am checking the specifications 📱",English,neutral
+P1675,"Camera quality ekdum zabardast hai #PhoneReview",Hinglish,positive
+P1676,"क्या इसमें मेमोरी कार्ड लगता है #LaunchDay",Hindi,neutral
+P1677,"इतनी कीमत में बिल्कुल अच्छा नहीं",Hindi,negative
+P1678,"क्या इसमें मेमोरी कार्ड लगता है 🤔",Hindi,neutral
+P1679,"कीमत के हिसाब से अच्छा फोन है",Hindi,positive
+P1680,"Camera quality is superb, photos look crisp ❤️",English,positive
+P1681,"Not worth the price, bad experience 👎",English,negative
+P1682,"फोन सामान्य इस्तेमाल में गर्म होता है",Hindi,negative
+P1683,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है #NewLaunch tbh",Hindi,positive
+P1684,"Not worth the price, bad experience 😡",English,negative
+P1685,"क्या इसमें मेमोरी कार्ड लगता है ✨ #Smartphone",Hindi,neutral
+P1686,"Phone three colours mein available hai",Hinglish,neutral
+P1687,"Display ke colours kaafi nice hain lol",Hinglish,positive
+P1688,"क्या इसमें मेमोरी कार्ड लगता है ✨",Hindi,neutral
+P1689,"The new phone feels smooth and fast",English,positive
+P1690,"Screen baar baar hang kar rahi hai 😭 tbh",Hinglish,negative
+P1691,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है",Hindi,positive
+P1692,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब",Hindi,negative
+P1693,"Value for money, happy with this purchase 😊",English,positive
+P1694,"स्क्रीन बार बार अटक रही है 😞",Hindi,negative
+P1695,"Camera quality ekdum zabardast hai",Hinglish,positive
+P1696,"What is the service centre location? ✨ #TechIndia",English,neutral
+P1697,"The phone launched today in India ✨ #NewLaunch",English,neutral
+P1698,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब 😞 #Smartphone",Hindi,negative
+P1699,"Phone three colours mein available hai",Hinglish,neutral
+P1700,"Main specs check kar raha hu",Hinglish,neutral
+P1701,"Does this model support expandable storage? 🤔",English,neutral
+P1702,"फोन बहुत तेज और स्मूथ चलता है tbh",Hindi,positive
+P1703,"Phone heats up during normal use",English,negative
+P1704,"कीमत के हिसाब से अच्छा फोन है 😍",Hindi,positive
+P1705,"Camera quality is superb, photos look crisp",English,positive
+P1706,"Isme memory card support hai kya 📱",Hinglish,neutral
+P1707,"कीमत के हिसाब से अच्छा फोन है #NewLaunch",Hindi,positive
+P1708,"Camera quality is superb, photos look crisp #NewLaunch",English,positive
+P1709,"Itne price mein worth it nai h",Hinglish,negative
+P1710,"फोन बहुत तेज और स्मूथ चलता है ❤️ #TechIndia lol",Hindi,positive
+P1711,"The phone is available in three colours",English,neutral
+P1712,"कम रोशनी में कैमरा अच्छा नहीं है",Hindi,negative
+P1713,"फोन सामान्य इस्तेमाल में गर्म होता है",Hindi,negative
+P1714,"फोन सामान्य इस्तेमाल में गर्म होता है #Smartphone",Hindi,negative
+P1715,"क्या इसमें मेमोरी कार्ड लगता है #LaunchDay",Hindi,neutral
+P1716,"I am checking the specifications #LaunchDay",English,neutral
+P1717,"I am checking the specifications ✨",English,neutral
+P1718,"Not worth the price, bad experience",English,negative
+P1719,"Does this model support expandable storage? #LaunchDay",English,neutral
+P1720,"फोन सामान्य इस्तेमाल में गर्म होता है 😡",Hindi,negative
+P1721,"Low light mein camera bilkul bakwas hai 😂",Hinglish,negative
+P1722,"Phone ka performance bahut smooth hai",Hinglish,positive
+P1723,"फोन बहुत तेज और स्मूथ चलता है",Hindi,positive
+P1724,"What is the service centre location?",English,neutral
+P1725,"Battery jaldi drain hoti hai yaar 😡",Hinglish,negative
+P1726,"इतनी कीमत में बिल्कुल अच्छा नहीं 😡",Hindi,negative
+P1727,"Isme memory card support hai kya",Hinglish,neutral
+P1728,"कीमत के हिसाब से अच्छा फोन है #Smartphone !!!",Hindi,positive
+P1729,"Low light mein camera bilkul bakwas hai lol",Hinglish,negative
+P1730,"Display ke colours kaafi nice hn 😊",Hinglish,positive
+P1731,"स्क्रीन बार बार अटक रही है",Hindi,negative
+P1732,"क्या इसमें मेमोरी कार्ड लगता है",Hindi,neutral
+P1733,"Phone three colours mein available hai",Hinglish,neutral
+P1734,"कैमरा शानदार है, फोटो साफ आती हैं ❤️",Hindi,positive
+P1735,"Battery backup is amazing, easily lasts all day",English,positive
+P1736,"Battery backup mast hai, pura din chalti hai 🔥 #PhoneReview",Hinglish,positive
+P1737,"फोन बहुत तेज और स्मूथ चलता है",Hindi,positive
+P1738,"सर्विस सेंटर कहां मिलेगा #NewLaunch !!!",Hindi,neutral
+P1739,"Value for money, happy with this purchase",English,positive
+P1740,"स्क्रीन बार बार अटक रही है 😞 #TechIndia",Hindi,negative
+P1741,"The phone launched today in India",English,neutral
+P1742,"Battery backup mast h, pura din chalti hai #PhoneReview",Hinglish,positive
+P1743,"Value for money, happy with this purchase ❤️",English,positive
+P1744,"Not worth the price, bad experience 👎 #TechIndia",English,negative
+P1745,"आज भारत में फोन लॉन्च हुआ है #PhoneReview",Hindi,neutral
+P1746,"I am checking the specifications",English,neutral
+P1747,"Battery jaldi drain hoti hai yaar",Hinglish,negative
+P1748,"What is the service centre location? !!!",English,neutral
+P1749,"Itne price mein worth it nahi hai yaar",Hinglish,negative
+P1750,"What is the service centre location?",English,neutral
+P1751,"Price ke hisaab se paisa vasool hai 😊",Hinglish,positive
+P1752,"Not worth the price, bad experience",English,negative
+P1753,"The screen freezes again and again",English,negative
+P1754,"What is the service centre location? #TechIndia",English,neutral
+P1755,"Does this model support expandable storage?",English,neutral
+P1756,"Price ke hisaab se paisa vasool h #Smartphone lol",Hinglish,positive
+P1757,"Itne price mein worth it nahi hai 😡 !!!",Hinglish,negative
+P1758,"Value for money, happy with this purchase 😍",English,positive
+P1759,"The phone is available in three colours",English,neutral
+P1760,"The phone is available in three colours",English,neutral
+P1761,"Battery jaldi drain hoti hai yaar #PhoneReview",Hinglish,negative
+P1762,"I am checking the specifications 🤔",English,neutral
+P1763,"Battery backup is amazing, easily lasts all day",English,positive
+P1764,"फोन सामान्य इस्तेमाल में गर्म होता है 😞 #Smartphone",Hindi,negative
+P1765,"डिस्प्ले के रंग बहुत अच्छे हैं",Hindi,positive
+P1766,"Phone three colours mein available hai",Hinglish,neutral
+P1767,"फोन बहुत तेज और स्मूथ चलता है",Hindi,positive
+P1768,"Camera quality is poor in low light 👎",English,negative
+P1769,"The phone is available in three colours #LaunchDay",English,neutral
+P1770,"Screen baar baar hang kar rahi hai",Hinglish,negative
+P1771,"The phone is available in three colours 📱 tbh",English,neutral
+P1772,"Aaj phone India mein launch hua 🤔",Hinglish,neutral
+P1773,"फोन बहुत तेज और स्मूथ चलता है",Hindi,positive
+P1774,"क्या इसमें मेमोरी कार्ड लगता है",Hindi,neutral
+P1775,"Price ke hisaab se paisa vasool hai 🔥",Hinglish,positive
+P1776,"Display is bright and colours look great 😍 #NewLaunch",English,positive
+P1777,"Service centre kahan milega? 🤔",Hinglish,neutral
+P1778,"Itne price mein worth it nai h",Hinglish,negative
+P1779,"Display ke colours kaafi nice hain ❤️ #PhoneReview",Hinglish,positive
+P1780,"Itne price mein worth it nai h",Hinglish,negative
+P1781,"मैं इसके फीचर्स देख रहा हूं yaar",Hindi,neutral
+P1782,"The phone launched today in India",English,neutral
+P1783,"Itne price mein worth it nahi hai 😭 tbh",Hinglish,negative
+P1784,"Value for money, happy with this purchase #NewLaunch",English,positive
+P1785,"Not worth the price, bad experience",English,negative
+P1786,"Camera quality ekdum zabardast hai 🔥 #LaunchDay",Hinglish,positive
+P1787,"Aaj phone India mein launch hua #PhoneReview",Hinglish,neutral
+P1788,"Low light mein camera bilkul bakwas hai 😞",Hinglish,negative
+P1789,"फोन सामान्य इस्तेमाल में गर्म होता है #NewLaunch",Hindi,negative
+P1790,"Not worth the price, bad experience",English,negative
+P1791,"स्क्रीन बार बार अटक रही है 😡 !!!",Hindi,negative
+P1792,"Isme memory card support h kya #PhoneReview",Hinglish,neutral
+P1793,"Battery backup mast hai, pura din chalti hai",Hinglish,positive
+P1794,"Camera quality ekdum zabardast hai ❤️ 😂",Hinglish,positive
+P1795,"मैं इसके फीचर्स देख रहा हूं tbh",Hindi,neutral
+P1796,"Battery backup is amazing, easily lasts all day",English,positive
+P1797,"I am checking the specifications",English,neutral
+P1798,"फोन तीन रंगों में उपलब्ध है lol",Hindi,neutral
+P1799,"Aaj phone India mein launch hua",Hinglish,neutral
+P1800,"Camera quality is superb, photos look crisp #NewLaunch",English,positive
+P1801,"Display ke colours kaafi nice hain 😊",Hinglish,positive
+P1802,"The phone is available in three colours 📱",English,neutral
+P1803,"कम रोशनी में कैमरा अच्छा नहीं है #NewLaunch tbh",Hindi,negative
+P1804,"The new phone feels smooth and fast ❤️",English,positive
+P1805,"The screen freezes again and again",English,negative
+P1806,"आज भारत में फोन लॉन्च हुआ है",Hindi,neutral
+P1807,"Price ke hisaab se paisa vasool hai",Hinglish,positive
+P1808,"I am checking the specifications ✨",English,neutral
+P1809,"The new phone feels smooth and fast 😊",English,positive
+P1810,"Display ke colours kaafi nice hain",Hinglish,positive
+P1811,"मैं इसके फीचर्स देख रहा हूं 🤔",Hindi,neutral
+P1812,"The new phone feels smooth and fast #NewLaunch",English,positive
+P1813,"Display ke colours kaafi nice hain ❤️",Hinglish,positive
+P1814,"Camera quality ekdum zabardast hai",Hinglish,positive
+P1815,"Battery backup mast hai, pura din chalti hai 🔥",Hinglish,positive
+P1816,"Phone ka performance bahut smooth hai",Hinglish,positive
+P1817,"Screen baar baar hang kar rahi hai 😞 #Smartphone",Hinglish,negative
+P1818,"Display ke colours kaafi nice hain 🔥",Hinglish,positive
+P1819,"The phone launched today in India !!!",English,neutral
+P1820,"Itne price mein worth it nahi hai 😞",Hinglish,negative
+P1821,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है",Hindi,positive
+P1822,"Low light mein camera bilkul bakwas h 😭",Hinglish,negative
+P1823,"The phone is available in three colours",English,neutral
+P1824,"Display is bright and colours look great",English,positive
+P1825,"Itne price mein worth it nai h 😭",Hinglish,negative
+P1826,"Service centre kahan milega? 🤔",Hinglish,neutral
+P1827,"कीमत के हिसाब से अच्छा फोन है 😊 #TechIndia",Hindi,positive
+P1828,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है #LaunchDay",Hindi,positive
+P1829,"Itne price mein worth it nahi hai 😂",Hinglish,negative
+P1830,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है #LaunchDay",Hindi,positive
+P1831,"Battery drains too quickly, very disappointed",English,negative
+P1832,"क्या इसमें मेमोरी कार्ड लगता है",Hindi,neutral
+P1833,"The screen freezes again and again",English,negative
+P1834,"कम रोशनी में कैमरा अच्छा नहीं है #NewLaunch",Hindi,negative
+P1835,"Battery backup is amazing, easily lasts all day #NewLaunch",English,positive
+P1836,"कीमत के हिसाब से अच्छा फोन है",Hindi,positive
+P1837,"Camera quality is superb, photos look crisp 😍 #NewLaunch",English,positive
+P1838,"Display ke colours kaafi nice hain",Hinglish,positive
+P1839,"क्या इसमें मेमोरी कार्ड लगता है 🤔",Hindi,neutral
+P1840,"Display ke colours kaafi nice hain",Hinglish,positive
+P1841,"इतनी कीमत में बिल्कुल अच्छा नहीं 😡 #NewLaunch",Hindi,negative
+P1842,"The screen freezes again and again #NewLaunch",English,negative
+P1843,"सर्विस सेंटर कहां मिलेगा",Hindi,neutral
+P1844,"What is the service centre location? #NewLaunch",English,neutral
+P1845,"Value for money, happy with this purchase",English,positive
+P1846,"फोन सामान्य इस्तेमाल में गर्म होता है lol",Hindi,negative
+P1847,"Aaj phone India mein launch hua",Hinglish,neutral
+P1848,"इतनी कीमत में बिल्कुल अच्छा नहीं",Hindi,negative
+P1849,"कैमरा शानदार है, फोटो साफ आती हैं",Hindi,positive
+P1850,"सर्विस सेंटर कहां मिलेगा",Hindi,neutral
+P1851,"आज भारत में फोन लॉन्च हुआ है",Hindi,neutral
+P1852,"Itne price mein worth it nahi hai 😞",Hinglish,negative
+P1853,"Display is bright and colours look great",English,positive
+P1854,"Battery backup is amazing, easily lasts all day 😍",English,positive
+P1855,"The new phone feels smooth and fast 😍",English,positive
+P1856,"इतनी कीमत में बिल्कुल अच्छा नहीं",Hindi,negative
+P1857,"Isme memory card support h kya #Smartphone",Hinglish,neutral
+P1858,"Phone heats up during normal use",English,negative
+P1859,"कैमरा शानदार है, फोटो साफ आती हैं",Hindi,positive
+P1860,"What is the service centre location? 🤔",English,neutral
+P1861,"Itne price mein worth it nahi hai",Hinglish,negative
+P1862,"Battery jaldi drain hoti hai yaar",Hinglish,negative
+P1863,"Itne price mein worth it nahi hai #TechIndia",Hinglish,negative
+P1864,"Value for money, happy with this purchase ❤️",English,positive
+P1865,"डिस्प्ले के रंग बहुत अच्छे हैं",Hindi,positive
+P1866,"कैमरा शानदार है, फोटो साफ आती हैं 😊 tbh",Hindi,positive
+P1867,"आज भारत में फोन लॉन्च हुआ है 🤔",Hindi,neutral
+P1868,"सर्विस सेंटर कहां मिलेगा",Hindi,neutral
+P1869,"Camera quality is poor in low light #TechIndia",English,negative
+P1870,"Phone three colours mein available hai",Hinglish,neutral
+P1871,"इतनी कीमत में बिल्कुल अच्छा नहीं 😭",Hindi,negative
+P1872,"इतनी कीमत में बिल्कुल अच्छा नहीं #Smartphone",Hindi,negative
+P1873,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है",Hindi,positive
+P1874,"Value for money, happy with this purchase",English,positive
+P1875,"Phone heats up during normal use #PhoneReview",English,negative
+P1876,"स्क्रीन बार बार अटक रही है",Hindi,negative
+P1877,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब #LaunchDay lol",Hindi,negative
+P1878,"फोन तीन रंगों में उपलब्ध है ✨ #TechIndia",Hindi,neutral
+P1879,"फोन सामान्य इस्तेमाल में गर्म होता है",Hindi,negative
+P1880,"The screen freezes again and again 👎",English,negative
+P1881,"Battery jaldi drain hoti hai yaar !!!",Hinglish,negative
+P1882,"इतनी कीमत में बिल्कुल अच्छा नहीं #PhoneReview",Hindi,negative
+P1883,"इतनी कीमत में बिल्कुल अच्छा नहीं 😡",Hindi,negative
+P1884,"Main specs check kar raha hu 📱",Hinglish,neutral
+P1885,"What is the service centre location?",English,neutral
+P1886,"Display ke colours kaafi nice hain #NewLaunch yaar",Hinglish,positive
+P1887,"What is the service centre location?",English,neutral
+P1888,"What is the service centre location?",English,neutral
+P1889,"Battery backup is amazing, easily lasts all day #PhoneReview",English,positive
+P1890,"Camera quality is superb, photos look crisp #NewLaunch",English,positive
+P1891,"Battery backup is amazing, easily lasts all day",English,positive
+P1892,"Phone heats up during normal use",English,negative
+P1893,"The phone is available in three colours",English,neutral
+P1894,"Price ke hisaab se paisa vasool hai",Hinglish,positive
+P1895,"Service centre kahan milega?",Hinglish,neutral
+P1896,"Normal use mein phone heat ho raha hai 👎 #TechIndia",Hinglish,negative
+P1897,"Camera quality ekdum zabardast hai",Hinglish,positive
+P1898,"Camera quality is poor in low light 😞",English,negative
+P1899,"फोन तीन रंगों में उपलब्ध है",Hindi,neutral
+P1900,"Itne price mein worth it nai h",Hinglish,negative
+P1901,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब",Hindi,negative
+P1902,"What is the service centre location? 📱",English,neutral
+P1903,"Battery backup mast hai, pura din chalti hai",Hinglish,positive
+P1904,"What is the service centre location?",English,neutral
+P1905,"Camera quality is poor in low light #TechIndia",English,negative
+P1906,"Display ke colours kaafi nice hain yaar",Hinglish,positive
+P1907,"Camera quality is poor in low light",English,negative
+P1908,"क्या इसमें मेमोरी कार्ड लगता है",Hindi,neutral
+P1909,"The screen freezes again and again",English,negative
+P1910,"Phone heats up during normal use #Smartphone",English,negative
+P1911,"Does this model support expandable storage?",English,neutral
+P1912,"मैं इसके फीचर्स देख रहा हूं 📱 #TechIndia",Hindi,neutral
+P1913,"Service centre kahan milega? ✨ #Smartphone",Hinglish,neutral
+P1914,"Isme memory card support hai kya",Hinglish,neutral
+P1915,"फोन तीन रंगों में उपलब्ध है ✨ #PhoneReview",Hindi,neutral
+P1916,"कीमत के हिसाब से अच्छा फोन है 😊",Hindi,positive
+P1917,"The phone launched today in India",English,neutral
+P1918,"फोन तीन रंगों में उपलब्ध है #TechIndia",Hindi,neutral
+P1919,"मैं इसके फीचर्स देख रहा हूं",Hindi,neutral
+P1920,"Aaj phone India mein launch hua",Hinglish,neutral
+P1921,"क्या इसमें मेमोरी कार्ड लगता है 🤔 #Smartphone",Hindi,neutral
+P1922,"फोन तीन रंगों में उपलब्ध है 📱 #PhoneReview lol",Hindi,neutral
+P1923,"Battery drains too quickly, very disappointed",English,negative
+P1924,"Battery drains too quickly, very disappointed",English,negative
+P1925,"इतनी कीमत में बिल्कुल अच्छा नहीं lol",Hindi,negative
+P1926,"Camera quality is poor in low light 😭 😂",English,negative
+P1927,"The phone launched today in India #NewLaunch",English,neutral
+P1928,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब 😡 tbh",Hindi,negative
+P1929,"कीमत के हिसाब से अच्छा फोन है",Hindi,positive
+P1930,"Display ke colours kaafi nice hain ❤️",Hinglish,positive
+P1931,"Main specs check kar raha hu",Hinglish,neutral
+P1932,"Normal use mein phone heat ho raha hai 👎",Hinglish,negative
+P1933,"Itne price mein worth it nahi hai",Hinglish,negative
+P1934,"Value for money, happy with this purchase",English,positive
+P1935,"Battery jaldi drain hoti hai yaar",Hinglish,negative
+P1936,"Isme memory card support hai kya",Hinglish,neutral
+P1937,"Isme memory card support hai kya",Hinglish,neutral
+P1938,"Aaj phone India mein launch hua 🤔",Hinglish,neutral
+P1939,"Does this model support expandable storage?",English,neutral
+P1940,"Value for money, happy with this purchase 😍",English,positive
+P1941,"The new phone feels smooth and fast ❤️",English,positive
+P1942,"Display is bright and colours look great 😊",English,positive
+P1943,"स्क्रीन बार बार अटक रही है 😡 tbh",Hindi,negative
+P1944,"Isme memory card support hai kya",Hinglish,neutral
+P1945,"Camera quality is superb, photos look crisp ❤️",English,positive
+P1946,"Display ke colours kaafi nice hain yaar",Hinglish,positive
+P1947,"Phone ka performance bohot smooth h 😊 #PhoneReview",Hinglish,positive
+P1948,"The screen freezes again and again",English,negative
+P1949,"I am checking the specifications #Smartphone",English,neutral
+P1950,"Aaj phone India mein launch hua #Smartphone",Hinglish,neutral
+P1951,"Isme memory card support hai kya #LaunchDay",Hinglish,neutral
+P1952,"Camera quality is poor in low light",English,negative
+P1953,"Camera quality is poor in low light",English,negative
+P1954,"I am checking the specifications",English,neutral
+P1955,"क्या इसमें मेमोरी कार्ड लगता है",Hindi,neutral
+P1956,"स्क्रीन बार बार अटक रही है 😞",Hindi,negative
+P1957,"Camera quality ekdum zabardast hai",Hinglish,positive
+P1958,"Aaj phone India mein launch hua",Hinglish,neutral
+P1959,"सर्विस सेंटर कहां मिलेगा 🤔 #Smartphone",Hindi,neutral
+P1960,"इतनी कीमत में बिल्कुल अच्छा नहीं #TechIndia 😂",Hindi,negative
+P1961,"फोन सामान्य इस्तेमाल में गर्म होता है 😞 #Smartphone",Hindi,negative
+P1962,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है ❤️",Hindi,positive
+P1963,"Battery drains too quickly, very disappointed",English,negative
+P1964,"Isme memory card support hai kya 📱 #NewLaunch",Hinglish,neutral
+P1965,"कैमरा शानदार है, फोटो साफ आती हैं",Hindi,positive
+P1966,"What is the service centre location? ✨ #Smartphone",English,neutral
+P1967,"Phone ka performance bahut smooth hai #Smartphone",Hinglish,positive
+P1968,"Low light mein camera bilkul bakwas hai #TechIndia",Hinglish,negative
+P1969,"Itne price mein worth it nai h 😡",Hinglish,negative
+P1970,"Itne price mein worth it nahi hai #TechIndia",Hinglish,negative
+P1971,"फोन बहुत तेज और स्मूथ चलता है 😍 #Smartphone",Hindi,positive
+P1972,"Phone heats up during normal use",English,negative
+P1973,"Battery drains too quickly, very disappointed",English,negative
+P1974,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है #NewLaunch",Hindi,positive
+P1975,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब #TechIndia",Hindi,negative
+P1976,"Phone three colours mein available hai 🤔",Hinglish,neutral
+P1977,"Aaj phone India mein launch hua #TechIndia",Hinglish,neutral
+P1978,"Camera quality ekdum zabardast hai",Hinglish,positive
+P1979,"Screen baar baar hang kar rahi hai",Hinglish,negative
+P1980,"Phone heats up during normal use",English,negative
+P1981,"Display is bright and colours look great",English,positive
+P1982,"Normal use mein phone heat ho raha hai 😭 #Smartphone !!!",Hinglish,negative
+P1983,"इतनी कीमत में बिल्कुल अच्छा नहीं 😡",Hindi,negative
+P1984,"Battery jaldi drain hoti hai yaar",Hinglish,negative
+P1985,"Phone three colours mein available h",Hinglish,neutral
+P1986,"Not worth the price, bad experience 😭",English,negative
+P1987,"Display is bright and colours look great ❤️",English,positive
+P1988,"The phone is available in three colours",English,neutral
+P1989,"Service centre kahan milega? #PhoneReview lol",Hinglish,neutral
+P1990,"Isme memory card support hai kya",Hinglish,neutral
+P1991,"Display ke colours kaafi nice hain",Hinglish,positive
+P1992,"Normal use mein phone heat ho raha hai",Hinglish,negative
+P1993,"Does this model support expandable storage? 🤔",English,neutral
+P1994,"The new phone feels smooth and fast lol",English,positive
+P1995,"Display ke colours kaafi nice hn",Hinglish,positive
+P1996,"फोन तीन रंगों में उपलब्ध है",Hindi,neutral
+P1997,"Value for money, happy with this purchase tbh",English,positive
+P1998,"फोन सामान्य इस्तेमाल में गर्म होता है 👎",Hindi,negative
+P1999,"Display is bright and colours look great 😍",English,positive
+P2000,"Camera quality is superb, photos look crisp",English,positive
+P2001,"Does this model support expandable storage? #NewLaunch",English,neutral
+P2002,"Low light mein camera bilkul bakwas hai 😡 #NewLaunch",Hinglish,negative
+P2003,"What is the service centre location?",English,neutral
+P2004,"डिस्प्ले के रंग बहुत अच्छे हैं",Hindi,positive
+P2005,"आज भारत में फोन लॉन्च हुआ है !!!",Hindi,neutral
+P2006,"What is the service centre location? 🤔 yaar",English,neutral
+P2007,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है 😍",Hindi,positive
+P2008,"आज भारत में फोन लॉन्च हुआ है 📱 #Smartphone",Hindi,neutral
+P2009,"कैमरा शानदार है, फोटो साफ आती हैं 🔥 #Smartphone",Hindi,positive
+P2010,"क्या इसमें मेमोरी कार्ड लगता है 📱 #PhoneReview",Hindi,neutral
+P2011,"Main specs check kar raha hu #LaunchDay",Hinglish,neutral
+P2012,"The screen freezes again and again",English,negative
+P2013,"Not worth the price, bad experience #NewLaunch",English,negative
+P2014,"सर्विस सेंटर कहां मिलेगा 🤔",Hindi,neutral
+P2015,"Value for money, happy with this purchase",English,positive
+P2016,"Battery jaldi drain hoti hai yaar",Hinglish,negative
+P2017,"फोन सामान्य इस्तेमाल में गर्म होता है",Hindi,negative
+P2018,"मैं इसके फीचर्स देख रहा हूं #PhoneReview",Hindi,neutral
+P2019,"Battery backup is amazing, easily lasts all day",English,positive
+P2020,"Display is bright and colours look great",English,positive
+P2021,"Not worth the price, bad experience",English,negative
+P2022,"सर्विस सेंटर कहां मिलेगा 📱 😂",Hindi,neutral
+P2023,"सर्विस सेंटर कहां मिलेगा",Hindi,neutral
+P2024,"कैमरा शानदार है, फोटो साफ आती हैं #NewLaunch",Hindi,positive
+P2025,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब",Hindi,negative
+P2026,"मैं इसके फीचर्स देख रहा हूं",Hindi,neutral
+P2027,"स्क्रीन बार बार अटक रही है 👎 #LaunchDay",Hindi,negative
+P2028,"फोन सामान्य इस्तेमाल में गर्म होता है #TechIndia",Hindi,negative
+P2029,"Isme memory card support hai kya",Hinglish,neutral
+P2030,"The new phone feels smooth and fast",English,positive
+P2031,"सर्विस सेंटर कहां मिलेगा 📱",Hindi,neutral
+P2032,"कैमरा शानदार है, फोटो साफ आती हैं 🔥 !!!",Hindi,positive
+P2033,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है #LaunchDay",Hindi,positive
+P2034,"क्या इसमें मेमोरी कार्ड लगता है",Hindi,neutral
+P2035,"स्क्रीन बार बार अटक रही है",Hindi,negative
+P2036,"Aaj phone India mein launch hua",Hinglish,neutral
+P2037,"Camera quality is superb, photos look crisp",English,positive
+P2038,"फोन तीन रंगों में उपलब्ध है",Hindi,neutral
+P2039,"Low light mein camera bilkul bakwas hai #TechIndia",Hinglish,negative
+P2040,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब",Hindi,negative
+P2041,"आज भारत में फोन लॉन्च हुआ है ✨ #PhoneReview",Hindi,neutral
+P2042,"Aaj phone India mein launch hua 🤔",Hinglish,neutral
+P2043,"Does this model support expandable storage? #TechIndia",English,neutral
+P2044,"कैमरा शानदार है, फोटो साफ आती हैं 😊",Hindi,positive
+P2045,"Price ke hisaab se paisa vasool hai",Hinglish,positive
+P2046,"The screen freezes again and again #LaunchDay",English,negative
+P2047,"Battery backup mast hai, pura din chalti hai ❤️",Hinglish,positive
+P2048,"कीमत के हिसाब से अच्छा फोन है",Hindi,positive
+P2049,"इतनी कीमत में बिल्कुल अच्छा नहीं",Hindi,negative
+P2050,"The screen freezes again and again",English,negative
+P2051,"क्या इसमें मेमोरी कार्ड लगता है #TechIndia",Hindi,neutral
+P2052,"सर्विस सेंटर कहां मिलेगा #TechIndia tbh",Hindi,neutral
+P2053,"Service centre kahan milega?",Hinglish,neutral
+P2054,"Not worth the price, bad experience #PhoneReview",English,negative
+P2055,"Isme memory card support hai kya #Smartphone tbh",Hinglish,neutral
+P2056,"कम रोशनी में कैमरा अच्छा नहीं है",Hindi,negative
+P2057,"Battery backup is amazing, easily lasts all day #Smartphone",English,positive
+P2058,"कम रोशनी में कैमरा अच्छा नहीं है 👎 #TechIndia",Hindi,negative
+P2059,"Display ke colours kaafi nice hain",Hinglish,positive
+P2060,"The phone launched today in India ✨ !!!",English,neutral
+P2061,"The screen freezes again and again #TechIndia",English,negative
+P2062,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है 🔥 #TechIndia",Hindi,positive
+P2063,"Battery jaldi drain hoti hai yaar 👎 #TechIndia tbh",Hinglish,negative
+P2064,"फोन तीन रंगों में उपलब्ध है 📱",Hindi,neutral
+P2065,"Service centre kahan milega? #NewLaunch",Hinglish,neutral
+P2066,"Battery drains too quickly, very disappointed 👎 #LaunchDay",English,negative
+P2067,"इतनी कीमत में बिल्कुल अच्छा नहीं",Hindi,negative
+P2068,"Phone ka performance bahut smooth hai 🔥 #NewLaunch",Hinglish,positive
+P2069,"Low light mein camera bilkul bakwas hai 👎",Hinglish,negative
+P2070,"Service centre kahan milega? !!!",Hinglish,neutral
+P2071,"Phone ka performance bohot smooth h lol",Hinglish,positive
+P2072,"फोन बहुत तेज और स्मूथ चलता है",Hindi,positive
+P2073,"Camera quality ekdum zabardast hai",Hinglish,positive
+P2074,"Battery backup mast hai, pura din chalti hai 😊",Hinglish,positive
+P2075,"Phone heats up during normal use",English,negative
+P2076,"कीमत के हिसाब से अच्छा फोन है",Hindi,positive
+P2077,"डिस्प्ले के रंग बहुत अच्छे हैं",Hindi,positive
+P2078,"Service centre kahan milega?",Hinglish,neutral
+P2079,"कैमरा शानदार है, फोटो साफ आती हैं 😍",Hindi,positive
+P2080,"Battery backup mast hai, pura din chalti hai",Hinglish,positive
+P2081,"Does this model support expandable storage? 🤔",English,neutral
+P2082,"कीमत के हिसाब से अच्छा फोन है #Smartphone",Hindi,positive
+P2083,"The phone is available in three colours",English,neutral
+P2084,"Phone heats up during normal use 😞",English,negative
+P2085,"फोन तीन रंगों में उपलब्ध है ✨",Hindi,neutral
+P2086,"क्या इसमें मेमोरी कार्ड लगता है 📱",Hindi,neutral
+P2087,"Battery backup is amazing, easily lasts all day 🔥",English,positive
+P2088,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब 😡",Hindi,negative
+P2089,"Isme memory card support hai kya",Hinglish,neutral
+P2090,"सर्विस सेंटर कहां मिलेगा",Hindi,neutral
+P2091,"इतनी कीमत में बिल्कुल अच्छा नहीं",Hindi,negative
+P2092,"कैमरा शानदार है, फोटो साफ आती हैं",Hindi,positive
+P2093,"आज भारत में फोन लॉन्च हुआ है 🤔 yaar",Hindi,neutral
+P2094,"Normal use mein phone heat ho raha hai 😞 #PhoneReview",Hinglish,negative
+P2095,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब 👎 #Smartphone",Hindi,negative
+P2096,"Battery backup is amazing, easily lasts all day 🔥",English,positive
+P2097,"Value for money, happy with this purchase 🔥",English,positive
+P2098,"फोन तीन रंगों में उपलब्ध है 📱",Hindi,neutral
+P2099,"I am checking the specifications ✨ #NewLaunch",English,neutral
+P2100,"Aaj phone India mein launch hua #LaunchDay",Hinglish,neutral
+P2101,"Phone heats up during normal use 😭",English,negative
+P2102,"The phone is available in three colours",English,neutral
+P2103,"Battery backup mast hai, pura din chalti hai ❤️",Hinglish,positive
+P2104,"क्या इसमें मेमोरी कार्ड लगता है",Hindi,neutral
+P2105,"स्क्रीन बार बार अटक रही है",Hindi,negative
+P2106,"Service centre kahan milega? ✨",Hinglish,neutral
+P2107,"Display is bright and colours look great",English,positive
+P2108,"Aaj phone India mein launch hua !!!",Hinglish,neutral
+P2109,"Display is bright and colours look great ❤️",English,positive
+P2110,"Battery backup mast hai, pura din chalti hai #LaunchDay",Hinglish,positive
+P2111,"Camera quality ekdum zabardast hai",Hinglish,positive
+P2112,"कैमरा शानदार है, फोटो साफ आती हैं 😊 #Smartphone",Hindi,positive
+P2113,"स्क्रीन बार बार अटक रही है",Hindi,negative
+P2114,"Phone heats up during normal use 😞 #PhoneReview",English,negative
+P2115,"Itne price mein worth it nai h",Hinglish,negative
+P2116,"Battery drains too quickly, very disappointed 😭 #NewLaunch yaar",English,negative
+P2117,"Price ke hisaab se paisa vasool hai #PhoneReview",Hinglish,positive
+P2118,"Isme memory card support h kya #TechIndia",Hinglish,neutral
+P2119,"फोन बहुत तेज और स्मूथ चलता है #Smartphone",Hindi,positive
+P2120,"Not worth the price, bad experience",English,negative
+P2121,"क्या इसमें मेमोरी कार्ड लगता है ✨ #NewLaunch tbh",Hindi,neutral
+P2122,"Screen baar baar hang kar rahi h",Hinglish,negative
+P2123,"Screen baar baar hang kar rahi hai 😭",Hinglish,negative
+P2124,"क्या इसमें मेमोरी कार्ड लगता है",Hindi,neutral
+P2125,"क्या इसमें मेमोरी कार्ड लगता है #NewLaunch",Hindi,neutral
+P2126,"Value for money, happy with this purchase",English,positive
+P2127,"Price ke hisaab se paisa vasool h",Hinglish,positive
+P2128,"फोन बहुत तेज और स्मूथ चलता है 😂",Hindi,positive
+P2129,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है #TechIndia",Hindi,positive
+P2130,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब",Hindi,negative
+P2131,"Isme memory card support h kya",Hinglish,neutral
+P2132,"The screen freezes again and again",English,negative
+P2133,"Low light mein camera bilkul bakwas h",Hinglish,negative
+P2134,"फोन तीन रंगों में उपलब्ध है #PhoneReview",Hindi,neutral
+P2135,"फोन तीन रंगों में उपलब्ध है",Hindi,neutral
+P2136,"Camera quality ekdum zabardast hai #PhoneReview",Hinglish,positive
+P2137,"What is the service centre location?",English,neutral
+P2138,"मैं इसके फीचर्स देख रहा हूं",Hindi,neutral
+P2139,"The screen freezes again and again 😡 #TechIndia",English,negative
+P2140,"मैं इसके फीचर्स देख रहा हूं yaar",Hindi,neutral
+P2141,"कीमत के हिसाब से अच्छा फोन है ❤️ lol",Hindi,positive
+P2142,"कैमरा शानदार है, फोटो साफ आती हैं",Hindi,positive
+P2143,"कम रोशनी में कैमरा अच्छा नहीं है",Hindi,negative
+P2144,"फोन बहुत तेज और स्मूथ चलता है",Hindi,positive
+P2145,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है 😊 #TechIndia",Hindi,positive
+P2146,"Itne price mein worth it nahi hai #Smartphone lol",Hinglish,negative
+P2147,"सर्विस सेंटर कहां मिलेगा ✨",Hindi,neutral
+P2148,"Battery drains too quickly, very disappointed",English,negative
+P2149,"Camera quality ekdum zabardast hai 😊",Hinglish,positive
+P2150,"फोन बहुत तेज और स्मूथ चलता है #LaunchDay",Hindi,positive
+P2151,"Isme memory card support hai kya ✨",Hinglish,neutral
+P2152,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है",Hindi,positive
+P2153,"स्क्रीन बार बार अटक रही है #NewLaunch",Hindi,negative
+P2154,"The phone launched today in India",English,neutral
+P2155,"कीमत के हिसाब से अच्छा फोन है 🔥",Hindi,positive
+P2156,"फोन तीन रंगों में उपलब्ध है #TechIndia",Hindi,neutral
+P2157,"Display is bright and colours look great ❤️",English,positive
+P2158,"Display is bright and colours look great 😍",English,positive
+P2159,"डिस्प्ले के रंग बहुत अच्छे हैं 😊",Hindi,positive
+P2160,"फोन बहुत तेज और स्मूथ चलता है #LaunchDay",Hindi,positive
+P2161,"Battery backup mast h, pura din chalti hai ❤️",Hinglish,positive
+P2162,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है",Hindi,positive
+P2163,"फोन सामान्य इस्तेमाल में गर्म होता है",Hindi,negative
+P2164,"फोन बहुत तेज और स्मूथ चलता है #Smartphone",Hindi,positive
+P2165,"Battery drains too quickly, very disappointed 😞",English,negative
+P2166,"Itne price mein worth it nahi hai 😭",Hinglish,negative
+P2167,"फोन तीन रंगों में उपलब्ध है",Hindi,neutral
+P2168,"Display is bright and colours look great #LaunchDay",English,positive
+P2169,"Phone heats up during normal use 😡",English,negative
+P2170,"Low light mein camera bilkul bakwas hai 😞",Hinglish,negative
+P2171,"स्क्रीन बार बार अटक रही है 😞",Hindi,negative
+P2172,"डिस्प्ले के रंग बहुत अच्छे हैं #NewLaunch",Hindi,positive
+P2173,"फोन तीन रंगों में उपलब्ध है",Hindi,neutral
+P2174,"The new phone feels smooth and fast",English,positive
+P2175,"Does this model support expandable storage?",English,neutral
+P2176,"Main specs check kar raha hu 🤔 tbh",Hinglish,neutral
+P2177,"कैमरा शानदार है, फोटो साफ आती हैं ❤️",Hindi,positive
+P2178,"फोन बहुत तेज और स्मूथ चलता है #NewLaunch",Hindi,positive
+P2179,"आज भारत में फोन लॉन्च हुआ है ✨",Hindi,neutral
+P2180,"I am checking the specifications ✨ #TechIndia",English,neutral
+P2181,"Price ke hisaab se paisa vasool hai",Hinglish,positive
+P2182,"I am checking the specifications ✨",English,neutral
+P2183,"The phone is available in three colours",English,neutral
+P2184,"सर्विस सेंटर कहां मिलेगा ✨ #Smartphone",Hindi,neutral
+P2185,"Service centre kahan milega?",Hinglish,neutral
+P2186,"आज भारत में फोन लॉन्च हुआ है 😂",Hindi,neutral
+P2187,"Display ke colours kaafi nice hain",Hinglish,positive
+P2188,"आज भारत में फोन लॉन्च हुआ है #TechIndia",Hindi,neutral
+P2189,"Price ke hisaab se paisa vasool hai",Hinglish,positive
+P2190,"कैमरा शानदार है, फोटो साफ आती हैं #NewLaunch",Hindi,positive
+P2191,"Aaj phone India mein launch hua ✨ #PhoneReview",Hinglish,neutral
+P2192,"Service centre kahan milega? #LaunchDay",Hinglish,neutral
+P2193,"फोन सामान्य इस्तेमाल में गर्म होता है",Hindi,negative
+P2194,"स्क्रीन बार बार अटक रही है 😞 !!!",Hindi,negative
+P2195,"Phone ka performance bahut smooth hai",Hinglish,positive
+P2196,"Service centre kahan milega? #Smartphone",Hinglish,neutral
+P2197,"फोन तीन रंगों में उपलब्ध है #PhoneReview",Hindi,neutral
+P2198,"Camera quality is superb, photos look crisp #Smartphone",English,positive
+P2199,"Battery backup mast h, pura din chalti hai",Hinglish,positive
+P2200,"कम रोशनी में कैमरा अच्छा नहीं है 👎 lol",Hindi,negative
+P2201,"Screen baar baar hang kar rahi hai #PhoneReview",Hinglish,negative
+P2202,"डिस्प्ले के रंग बहुत अच्छे हैं ❤️ #LaunchDay",Hindi,positive
+P2203,"Price ke hisaab se paisa vasool hai",Hinglish,positive
+P2204,"Battery backup is amazing, easily lasts all day",English,positive
+P2205,"कैमरा शानदार है, फोटो साफ आती हैं ❤️ tbh",Hindi,positive
+P2206,"Itne price mein worth it nahi hai",Hinglish,negative
+P2207,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है #NewLaunch",Hindi,positive
+P2208,"Display ke colours kaafi nice hain #PhoneReview",Hinglish,positive
+P2209,"कैमरा शानदार है, फोटो साफ आती हैं",Hindi,positive
+P2210,"The screen freezes again and again",English,negative
+P2211,"Camera quality is superb, photos look crisp ❤️ #TechIndia",English,positive
+P2212,"Aaj phone India mein launch hua 🤔",Hinglish,neutral
+P2213,"Battery backup mast hai, pura din chalti hai #PhoneReview tbh",Hinglish,positive
+P2214,"I am checking the specifications ✨",English,neutral
+P2215,"क्या इसमें मेमोरी कार्ड लगता है",Hindi,neutral
+P2216,"इतनी कीमत में बिल्कुल अच्छा नहीं 😡",Hindi,negative
+P2217,"Price ke hisaab se paisa vasool h",Hinglish,positive
+P2218,"I am checking the specifications",English,neutral
+P2219,"The screen freezes again and again #TechIndia",English,negative
+P2220,"कम रोशनी में कैमरा अच्छा नहीं है !!!",Hindi,negative
+P2221,"Aaj phone India mein launch hua #PhoneReview",Hinglish,neutral
+P2222,"कैमरा शानदार है, फोटो साफ आती हैं 🔥 #PhoneReview",Hindi,positive
+P2223,"कैमरा शानदार है, फोटो साफ आती हैं",Hindi,positive
+P2224,"Phone ka performance bahut smooth hai",Hinglish,positive
+P2225,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब #PhoneReview",Hindi,negative
+P2226,"Camera quality is superb, photos look crisp 😊 #NewLaunch",English,positive
+P2227,"डिस्प्ले के रंग बहुत अच्छे हैं ❤️",Hindi,positive
+P2228,"सर्विस सेंटर कहां मिलेगा yaar",Hindi,neutral
+P2229,"क्या इसमें मेमोरी कार्ड लगता है",Hindi,neutral
+P2230,"फोन बहुत तेज और स्मूथ चलता है",Hindi,positive
+P2231,"इतनी कीमत में बिल्कुल अच्छा नहीं 👎",Hindi,negative
+P2232,"Itne price mein worth it nahi hai",Hinglish,negative
+P2233,"Battery backup mast hai, pura din chalti hai",Hinglish,positive
+P2234,"Phone three colours mein available hai 📱",Hinglish,neutral
+P2235,"Low light mein camera bilkul bakwas h",Hinglish,negative
+P2236,"Camera quality is superb, photos look crisp",English,positive
+P2237,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब #LaunchDay",Hindi,negative
+P2238,"Isme memory card support hai kya #NewLaunch",Hinglish,neutral
+P2239,"Battery drains too quickly, very disappointed 😭 #Smartphone",English,negative
+P2240,"Service centre kahan milega? #PhoneReview",Hinglish,neutral
+P2241,"कम रोशनी में कैमरा अच्छा नहीं है",Hindi,negative
+P2242,"कैमरा शानदार है, फोटो साफ आती हैं",Hindi,positive
+P2243,"डिस्प्ले के रंग बहुत अच्छे हैं",Hindi,positive
+P2244,"The phone is available in three colours 🤔",English,neutral
+P2245,"The phone launched today in India",English,neutral
+P2246,"Battery backup is amazing, easily lasts all day",English,positive
+P2247,"Low light mein camera bilkul bakwas hai 👎 #PhoneReview",Hinglish,negative
+P2248,"Phone heats up during normal use",English,negative
+P2249,"Itne price mein worth it nahi hai",Hinglish,negative
+P2250,"स्क्रीन बार बार अटक रही है 👎 #TechIndia",Hindi,negative
+P2251,"Low light mein camera bilkul bakwas hai 😡",Hinglish,negative
+P2252,"Service centre kahan milega?",Hinglish,neutral
+P2253,"सर्विस सेंटर कहां मिलेगा ✨",Hindi,neutral
+P2254,"सर्विस सेंटर कहां मिलेगा #LaunchDay",Hindi,neutral
+P2255,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब #TechIndia",Hindi,negative
+P2256,"सर्विस सेंटर कहां मिलेगा",Hindi,neutral
+P2257,"The phone is available in three colours",English,neutral
+P2258,"आज भारत में फोन लॉन्च हुआ है",Hindi,neutral
+P2259,"फोन तीन रंगों में उपलब्ध है",Hindi,neutral
+P2260,"Itne price mein worth it nahi hai 😞",Hinglish,negative
+P2261,"Low light mein camera bilkul bakwas hai tbh",Hinglish,negative
+P2262,"Battery backup is amazing, easily lasts all day 🔥",English,positive
+P2263,"Low light mein camera bilkul bakwas hai #TechIndia",Hinglish,negative
+P2264,"Aaj phone India mein launch hua",Hinglish,neutral
+P2265,"Itne price mein worth it nahi hai 👎",Hinglish,negative
+P2266,"फोन सामान्य इस्तेमाल में गर्म होता है",Hindi,negative
+P2267,"The new phone feels smooth and fast",English,positive
+P2268,"Camera quality is poor in low light #PhoneReview",English,negative
+P2269,"फोन बहुत तेज और स्मूथ चलता है",Hindi,positive
+P2270,"I am checking the specifications 📱 #TechIndia",English,neutral
+P2271,"Phone ka performance bahut smooth hai #LaunchDay",Hinglish,positive
+P2272,"Itne price mein worth it nahi hai #PhoneReview !!!",Hinglish,negative
+P2273,"Price ke hisaab se paisa vasool h",Hinglish,positive
+P2274,"Phone ka performance bahut smooth hai",Hinglish,positive
+P2275,"Phone ka performance bahut smooth hai 😊",Hinglish,positive
+P2276,"कम रोशनी में कैमरा अच्छा नहीं है lol",Hindi,negative
+P2277,"Low light mein camera bilkul bakwas hai 😞",Hinglish,negative
+P2278,"Service centre kahan milega?",Hinglish,neutral
+P2279,"Camera quality ekdum zabardast h #PhoneReview",Hinglish,positive
+P2280,"आज भारत में फोन लॉन्च हुआ है ✨ 😂",Hindi,neutral
+P2281,"Screen baar baar hang kar rahi hai #LaunchDay",Hinglish,negative
+P2282,"फोन बहुत तेज और स्मूथ चलता है",Hindi,positive
+P2283,"Service centre kahan milega? ✨ #Smartphone !!!",Hinglish,neutral
+P2284,"The new phone feels smooth and fast",English,positive
+P2285,"Normal use mein phone heat ho raha hai 😡 #LaunchDay",Hinglish,negative
+P2286,"फोन तीन रंगों में उपलब्ध है 📱 lol",Hindi,neutral
+P2287,"What is the service centre location? !!!",English,neutral
+P2288,"कम रोशनी में कैमरा अच्छा नहीं है 😭",Hindi,negative
+P2289,"The phone is available in three colours",English,neutral
+P2290,"Battery backup mast h, pura din chalti hai 😊 #TechIndia",Hinglish,positive
+P2291,"I am checking the specifications",English,neutral
+P2292,"फोन तीन रंगों में उपलब्ध है",Hindi,neutral
+P2293,"डिस्प्ले के रंग बहुत अच्छे हैं",Hindi,positive
+P2294,"Screen baar baar hang kar rahi hai 😞 #TechIndia 😂",Hinglish,negative
+P2295,"Battery backup is amazing, easily lasts all day",English,positive
+P2296,"मैं इसके फीचर्स देख रहा हूं 📱 yaar",Hindi,neutral
+P2297,"मैं इसके फीचर्स देख रहा हूं 😂",Hindi,neutral
+P2298,"Service centre kahan milega? !!!",Hinglish,neutral
+P2299,"Camera quality ekdum zabardast hai ❤️ !!!",Hinglish,positive
+P2300,"Service centre kahan milega? 📱 #TechIndia",Hinglish,neutral
+P2301,"Main specs check kar raha hu #LaunchDay",Hinglish,neutral
+P2302,"Battery drains too quickly, very disappointed 😡",English,negative
+P2303,"Camera quality ekdum zabardast hai ❤️ #PhoneReview",Hinglish,positive
+P2304,"Phone ka performance bahut smooth hai",Hinglish,positive
+P2305,"आज भारत में फोन लॉन्च हुआ है",Hindi,neutral
+P2306,"Value for money, happy with this purchase ❤️ #PhoneReview",English,positive
+P2307,"मैं इसके फीचर्स देख रहा हूं 📱",Hindi,neutral
+P2308,"Not worth the price, bad experience 👎 lol",English,negative
+P2309,"Phone three colours mein available hai",Hinglish,neutral
+P2310,"Battery backup is amazing, easily lasts all day",English,positive
+P2311,"Camera quality is superb, photos look crisp",English,positive
+P2312,"इतनी कीमत में बिल्कुल अच्छा नहीं",Hindi,negative
+P2313,"Value for money, happy with this purchase ❤️",English,positive
+P2314,"Battery drains too quickly, very disappointed",English,negative
+P2315,"कीमत के हिसाब से अच्छा फोन है #NewLaunch",Hindi,positive
+P2316,"The screen freezes again and again",English,negative
+P2317,"फोन तीन रंगों में उपलब्ध है 🤔",Hindi,neutral
+P2318,"फोन तीन रंगों में उपलब्ध है",Hindi,neutral
+P2319,"स्क्रीन बार बार अटक रही है #NewLaunch yaar",Hindi,negative
+P2320,"Isme memory card support hai kya 🤔 #Smartphone",Hinglish,neutral
+P2321,"Battery drains too quickly, very disappointed",English,negative
+P2322,"Display ke colours kaafi nice hain",Hinglish,positive
+P2323,"Camera quality is poor in low light",English,negative
+P2324,"Aaj phone India mein launch hua",Hinglish,neutral
+P2325,"Phone heats up during normal use 😂",English,negative
+P2326,"Price ke hisaab se paisa vasool hai",Hinglish,positive
+P2327,"Service centre kahan milega? #NewLaunch",Hinglish,neutral
+P2328,"Aaj phone India mein launch hua",Hinglish,neutral
+P2329,"The new phone feels smooth and fast #TechIndia",English,positive
+P2330,"Screen baar baar hang kar rahi hai",Hinglish,negative
+P2331,"The screen freezes again and again 👎",English,negative
+P2332,"The screen freezes again and again",English,negative
+P2333,"क्या इसमें मेमोरी कार्ड लगता है 📱",Hindi,neutral
+P2334,"स्क्रीन बार बार अटक रही है 😞",Hindi,negative
+P2335,"Battery backup mast hai, pura din chalti hai",Hinglish,positive
+P2336,"Display is bright and colours look great",English,positive
+P2337,"I am checking the specifications",English,neutral
+P2338,"The new phone feels smooth and fast",English,positive
+P2339,"Battery backup is amazing, easily lasts all day",English,positive
+P2340,"कीमत के हिसाब से अच्छा फोन है 🔥",Hindi,positive
+P2341,"मैं इसके फीचर्स देख रहा हूं #Smartphone",Hindi,neutral
+P2342,"Battery backup mast hai, pura din chalti hai 😊",Hinglish,positive
+P2343,"Camera quality is superb, photos look crisp ❤️ 😂",English,positive
+P2344,"इतनी कीमत में बिल्कुल अच्छा नहीं",Hindi,negative
+P2345,"इतनी कीमत में बिल्कुल अच्छा नहीं 😡",Hindi,negative
+P2346,"क्या इसमें मेमोरी कार्ड लगता है",Hindi,neutral
+P2347,"The phone is available in three colours",English,neutral
+P2348,"The new phone feels smooth and fast 😍 #LaunchDay lol",English,positive
+P2349,"इतनी कीमत में बिल्कुल अच्छा नहीं",Hindi,negative
+P2350,"Camera quality is superb, photos look crisp",English,positive
+P2351,"What is the service centre location?",English,neutral
+P2352,"डिस्प्ले के रंग बहुत अच्छे हैं #TechIndia lol",Hindi,positive
+P2353,"Price ke hisaab se paisa vasool hai ❤️",Hinglish,positive
+P2354,"I am checking the specifications",English,neutral
+P2355,"Value for money, happy with this purchase",English,positive
+P2356,"Normal use mein phone heat ho raha hai #NewLaunch",Hinglish,negative
+P2357,"कम रोशनी में कैमरा अच्छा नहीं है 😞",Hindi,negative
+P2358,"Aaj phone India mein launch hua",Hinglish,neutral
+P2359,"Aaj phone India mein launch hua #NewLaunch",Hinglish,neutral
+P2360,"The phone is available in three colours",English,neutral
+P2361,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब",Hindi,negative
+P2362,"Battery backup is amazing, easily lasts all day tbh",English,positive
+P2363,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है",Hindi,positive
+P2364,"स्क्रीन बार बार अटक रही है",Hindi,negative
+P2365,"Screen baar baar hang kar rahi hai lol",Hinglish,negative
+P2366,"Low light mein camera bilkul bakwas hai",Hinglish,negative
+P2367,"Phone ka performance bahut smooth hai #NewLaunch",Hinglish,positive
+P2368,"क्या इसमें मेमोरी कार्ड लगता है",Hindi,neutral
+P2369,"Phone ka performance bahut smooth hai #TechIndia",Hinglish,positive
+P2370,"Price ke hisaab se paisa vasool hai tbh",Hinglish,positive
+P2371,"The phone launched today in India 🤔 #NewLaunch lol",English,neutral
+P2372,"Phone heats up during normal use",English,negative
+P2373,"Camera quality is superb, photos look crisp",English,positive
+P2374,"Camera quality is superb, photos look crisp 🔥 #TechIndia",English,positive
+P2375,"Phone three colours mein available h",Hinglish,neutral
+P2376,"Display is bright and colours look great #NewLaunch",English,positive
+P2377,"Phone three colours mein available hai 🤔",Hinglish,neutral
+P2378,"कैमरा शानदार है, फोटो साफ आती हैं 😂",Hindi,positive
+P2379,"Isme memory card support hai kya ✨",Hinglish,neutral
+P2380,"Aaj phone India mein launch hua",Hinglish,neutral
+P2381,"Battery backup mast h, pura din chalti hai #NewLaunch",Hinglish,positive
+P2382,"इतनी कीमत में बिल्कुल अच्छा नहीं 😞",Hindi,negative
+P2383,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है #PhoneReview",Hindi,positive
+P2384,"Battery drains too quickly, very disappointed",English,negative
+P2385,"Service centre kahan milega? 🤔",Hinglish,neutral
+P2386,"Phone heats up during normal use",English,negative
+P2387,"Battery backup is amazing, easily lasts all day",English,positive
+P2388,"Display is bright and colours look great",English,positive
+P2389,"Phone three colours mein available hai #LaunchDay",Hinglish,neutral
+P2390,"Phone heats up during normal use",English,negative
+P2391,"Battery drains too quickly, very disappointed",English,negative
+P2392,"Camera quality is superb, photos look crisp #PhoneReview",English,positive
+P2393,"Service centre kahan milega?",Hinglish,neutral
+P2394,"आज भारत में फोन लॉन्च हुआ है",Hindi,neutral
+P2395,"कैमरा शानदार है, फोटो साफ आती हैं #Smartphone",Hindi,positive
+P2396,"मैं इसके फीचर्स देख रहा हूं #PhoneReview",Hindi,neutral
+P2397,"मैं इसके फीचर्स देख रहा हूं 🤔",Hindi,neutral
+P2398,"Phone ka performance bohot smooth h #Smartphone",Hinglish,positive
+P2399,"Camera quality ekdum zabardast hai",Hinglish,positive
+P2400,"I am checking the specifications 🤔 #LaunchDay tbh",English,neutral
+P2401,"Battery backup mast h, pura din chalti hai yaar",Hinglish,positive
+P2402,"Phone three colours mein available hai",Hinglish,neutral
+P2403,"फोन तीन रंगों में उपलब्ध है",Hindi,neutral
+P2404,"What is the service centre location?",English,neutral
+P2405,"Battery jaldi drain hoti hai yaar",Hinglish,negative
+P2406,"Normal use mein phone heat ho raha h 😡",Hinglish,negative
+P2407,"Phone heats up during normal use #TechIndia",English,negative
+P2408,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब 😞",Hindi,negative
+P2409,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब 👎 #LaunchDay",Hindi,negative
+P2410,"Battery drains too quickly, very disappointed lol",English,negative
+P2411,"The phone is available in three colours",English,neutral
+P2412,"सर्विस सेंटर कहां मिलेगा",Hindi,neutral
+P2413,"Phone heats up during normal use 😭",English,negative
+P2414,"Main specs check kar raha hu 🤔 😂",Hinglish,neutral
+P2415,"Camera quality ekdum zabardast hai",Hinglish,positive
+P2416,"Value for money, happy with this purchase 🔥 #LaunchDay",English,positive
+P2417,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है",Hindi,positive
+P2418,"Battery drains too quickly, very disappointed 👎 #LaunchDay",English,negative
+P2419,"Battery drains too quickly, very disappointed 😞 #LaunchDay",English,negative
+P2420,"Display is bright and colours look great 🔥 lol",English,positive
+P2421,"Screen baar baar hang kar rahi hai #PhoneReview",Hinglish,negative
+P2422,"आज भारत में फोन लॉन्च हुआ है",Hindi,neutral
+P2423,"What is the service centre location? lol",English,neutral
+P2424,"फोन तीन रंगों में उपलब्ध है #LaunchDay",Hindi,neutral
+P2425,"Aaj phone India mein launch hua yaar",Hinglish,neutral
+P2426,"The phone is available in three colours ✨ #LaunchDay",English,neutral
+P2427,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है #NewLaunch",Hindi,positive
+P2428,"Service centre kahan milega?",Hinglish,neutral
+P2429,"The screen freezes again and again 😭 #PhoneReview",English,negative
+P2430,"Battery backup mast hai, pura din chalti hai tbh",Hinglish,positive
+P2431,"Not worth the price, bad experience 👎 #PhoneReview",English,negative
+P2432,"फोन तीन रंगों में उपलब्ध है 🤔",Hindi,neutral
+P2433,"कैमरा शानदार है, फोटो साफ आती हैं 😊 😂",Hindi,positive
+P2434,"Phone ka performance bahut smooth hai",Hinglish,positive
+P2435,"इतनी कीमत में बिल्कुल अच्छा नहीं yaar",Hindi,negative
+P2436,"Itne price mein worth it nahi hai",Hinglish,negative
+P2437,"मैं इसके फीचर्स देख रहा हूं",Hindi,neutral
+P2438,"Battery drains too quickly, very disappointed #Smartphone",English,negative
+P2439,"कैमरा शानदार है, फोटो साफ आती हैं 😊",Hindi,positive
+P2440,"Isme memory card support hai kya 🤔 #LaunchDay",Hinglish,neutral
+P2441,"आज भारत में फोन लॉन्च हुआ है ✨",Hindi,neutral
+P2442,"कम रोशनी में कैमरा अच्छा नहीं है 😡",Hindi,negative
+P2443,"कीमत के हिसाब से अच्छा फोन है",Hindi,positive
+P2444,"The phone is available in three colours #TechIndia",English,neutral
+P2445,"Display is bright and colours look great",English,positive
+P2446,"What is the service centre location?",English,neutral
+P2447,"Itne price mein worth it nahi hai",Hinglish,negative
+P2448,"इतनी कीमत में बिल्कुल अच्छा नहीं yaar",Hindi,negative
+P2449,"डिस्प्ले के रंग बहुत अच्छे हैं #LaunchDay",Hindi,positive
+P2450,"Phone three colours mein available hai 🤔 #NewLaunch",Hinglish,neutral
+P2451,"Main specs check kar raha hu",Hinglish,neutral
+P2452,"Aaj phone India mein launch hua 📱",Hinglish,neutral
+P2453,"I am checking the specifications",English,neutral
+P2454,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है 😊 #NewLaunch",Hindi,positive
+P2455,"Isme memory card support hai kya #NewLaunch",Hinglish,neutral
+P2456,"Value for money, happy with this purchase",English,positive
+P2457,"Battery backup mast hai, pura din chalti hai #NewLaunch",Hinglish,positive
+P2458,"Itne price mein worth it nahi hai tbh",Hinglish,negative
+P2459,"I am checking the specifications ✨",English,neutral
+P2460,"Phone ka performance bahut smooth hai 🔥 #TechIndia",Hinglish,positive
+P2461,"Not worth the price, bad experience 😞",English,negative
+P2462,"Main specs check kar raha hu",Hinglish,neutral
+P2463,"Phone heats up during normal use 😞 #LaunchDay yaar",English,negative
+P2464,"डिस्प्ले के रंग बहुत अच्छे हैं 😊",Hindi,positive
+P2465,"Does this model support expandable storage?",English,neutral
+P2466,"Not worth the price, bad experience",English,negative
+P2467,"The phone launched today in India ✨ yaar",English,neutral
+P2468,"Camera quality ekdum zabardast h 😍",Hinglish,positive
+P2469,"फोन तीन रंगों में उपलब्ध है",Hindi,neutral
+P2470,"Display ke colours kaafi nice hain",Hinglish,positive
+P2471,"कैमरा शानदार है, फोटो साफ आती हैं #LaunchDay",Hindi,positive
+P2472,"Price ke hisaab se paisa vasool hai",Hinglish,positive
+P2473,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है #TechIndia",Hindi,positive
+P2474,"The screen freezes again and again #NewLaunch tbh",English,negative
+P2475,"आज भारत में फोन लॉन्च हुआ है",Hindi,neutral
+P2476,"Not worth the price, bad experience #PhoneReview",English,negative
+P2477,"Phone heats up during normal use 😡",English,negative
+P2478,"Display is bright and colours look great #Smartphone",English,positive
+P2479,"फोन सामान्य इस्तेमाल में गर्म होता है lol",Hindi,negative
+P2480,"कैमरा शानदार है, फोटो साफ आती हैं 😊 #PhoneReview",Hindi,positive
+P2481,"कीमत के हिसाब से अच्छा फोन है #NewLaunch",Hindi,positive
+P2482,"Isme memory card support hai kya ✨ #NewLaunch tbh",Hinglish,neutral
+P2483,"आज भारत में फोन लॉन्च हुआ है ✨",Hindi,neutral
+P2484,"The phone is available in three colours #TechIndia",English,neutral
+P2485,"Service centre kahan milega? #Smartphone",Hinglish,neutral
+P2486,"Service centre kahan milega? 📱",Hinglish,neutral
+P2487,"Battery drains too quickly, very disappointed #LaunchDay",English,negative
+P2488,"फोन तीन रंगों में उपलब्ध है 📱 yaar",Hindi,neutral
+P2489,"Camera quality is poor in low light",English,negative
+P2490,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब #LaunchDay",Hindi,negative
+P2491,"Battery drains too quickly, very disappointed 😭 yaar",English,negative
+P2492,"Camera quality ekdum zabardast hai ❤️ 😂",Hinglish,positive
+P2493,"कैमरा शानदार है, फोटो साफ आती हैं",Hindi,positive
+P2494,"Display ke colours kaafi nice hain",Hinglish,positive
+P2495,"फोन बहुत तेज और स्मूथ चलता है",Hindi,positive
+P2496,"इतनी कीमत में बिल्कुल अच्छा नहीं 😡 #PhoneReview",Hindi,negative
+P2497,"Battery jaldi drain hoti h yaar 👎",Hinglish,negative
+P2498,"Isme memory card support hai kya",Hinglish,neutral
+P2499,"Does this model support expandable storage?",English,neutral
+P2500,"Phone three colours mein available hai 📱 yaar",Hinglish,neutral
+P2501,"Aaj phone India mein launch hua #Smartphone",Hinglish,neutral
+P2502,"Battery jaldi drain hoti hai yaar 😭 #TechIndia",Hinglish,negative
+P2503,"Does this model support expandable storage?",English,neutral
+P2504,"Phone ka performance bahut smooth hai 😊",Hinglish,positive
+P2505,"कीमत के हिसाब से अच्छा फोन है",Hindi,positive
+P2506,"Screen baar baar hang kar rahi hai",Hinglish,negative
+P2507,"स्क्रीन बार बार अटक रही है",Hindi,negative
+P2508,"Low light mein camera bilkul bakwas h #NewLaunch",Hinglish,negative
+P2509,"Camera quality is superb, photos look crisp",English,positive
+P2510,"Battery backup is amazing, easily lasts all day ❤️",English,positive
+P2511,"Display is bright and colours look great 😊",English,positive
+P2512,"स्क्रीन बार बार अटक रही है 👎",Hindi,negative
+P2513,"Camera quality is poor in low light 😭",English,negative
+P2514,"Not worth the price, bad experience #TechIndia",English,negative
+P2515,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब #PhoneReview 😂",Hindi,negative
+P2516,"The phone is available in three colours",English,neutral
+P2517,"The new phone feels smooth and fast",English,positive
+P2518,"Aaj phone India mein launch hua",Hinglish,neutral
+P2519,"इतनी कीमत में बिल्कुल अच्छा नहीं 😞",Hindi,negative
+P2520,"Display ke colours kaafi nice hain",Hinglish,positive
+P2521,"The phone launched today in India ✨ tbh",English,neutral
+P2522,"सर्विस सेंटर कहां मिलेगा",Hindi,neutral
+P2523,"कीमत के हिसाब से अच्छा फोन है",Hindi,positive
+P2524,"Aaj phone India mein launch hua #LaunchDay tbh",Hinglish,neutral
+P2525,"Battery drains too quickly, very disappointed 😞",English,negative
+P2526,"मैं इसके फीचर्स देख रहा हूं #TechIndia",Hindi,neutral
+P2527,"Display is bright and colours look great ❤️ 😂",English,positive
+P2528,"Isme memory card support hai kya",Hinglish,neutral
+P2529,"Normal use mein phone heat ho raha hai #PhoneReview 😂",Hinglish,negative
+P2530,"Does this model support expandable storage?",English,neutral
+P2531,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब",Hindi,negative
+P2532,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब",Hindi,negative
+P2533,"Phone ka performance bohot smooth h 😊 #PhoneReview",Hinglish,positive
+P2534,"स्क्रीन बार बार अटक रही है #NewLaunch",Hindi,negative
+P2535,"फोन बहुत तेज और स्मूथ चलता है !!!",Hindi,positive
+P2536,"Isme memory card support hai kya",Hinglish,neutral
+P2537,"Camera quality is superb, photos look crisp",English,positive
+P2538,"Battery backup is amazing, easily lasts all day",English,positive
+P2539,"Screen baar baar hang kar rahi hai #NewLaunch",Hinglish,negative
+P2540,"स्क्रीन बार बार अटक रही है 😞",Hindi,negative
+P2541,"Not worth the price, bad experience #LaunchDay",English,negative
+P2542,"Main specs check kar raha hu",Hinglish,neutral
+P2543,"Battery jaldi drain hoti hai yaar 😡",Hinglish,negative
+P2544,"I am checking the specifications",English,neutral
+P2545,"इतनी कीमत में बिल्कुल अच्छा नहीं 👎 #NewLaunch yaar",Hindi,negative
+P2546,"Phone three colours mein available hai #TechIndia",Hinglish,neutral
+P2547,"Display is bright and colours look great",English,positive
+P2548,"Phone heats up during normal use",English,negative
+P2549,"क्या इसमें मेमोरी कार्ड लगता है 📱",Hindi,neutral
+P2550,"Normal use mein phone heat ho raha hai",Hinglish,negative
+P2551,"फोन सामान्य इस्तेमाल में गर्म होता है",Hindi,negative
+P2552,"क्या इसमें मेमोरी कार्ड लगता है #PhoneReview",Hindi,neutral
+P2553,"The phone launched today in India #TechIndia",English,neutral
+P2554,"कम रोशनी में कैमरा अच्छा नहीं है #PhoneReview",Hindi,negative
+P2555,"Screen baar baar hang kar rahi h 😡",Hinglish,negative
+P2556,"डिस्प्ले के रंग बहुत अच्छे हैं 😊",Hindi,positive
+P2557,"कीमत के हिसाब से अच्छा फोन है ❤️ #LaunchDay",Hindi,positive
+P2558,"Price ke hisaab se paisa vasool hai 😊 #LaunchDay tbh",Hinglish,positive
+P2559,"Not worth the price, bad experience",English,negative
+P2560,"Camera quality is poor in low light",English,negative
+P2561,"सर्विस सेंटर कहां मिलेगा #PhoneReview",Hindi,neutral
+P2562,"Battery drains too quickly, very disappointed 👎",English,negative
+P2563,"Battery backup is amazing, easily lasts all day",English,positive
+P2564,"Phone ka performance bohot smooth h 😊 #LaunchDay",Hinglish,positive
+P2565,"Battery backup mast hai, pura din chalti hai",Hinglish,positive
+P2566,"The phone launched today in India",English,neutral
+P2567,"The phone is available in three colours",English,neutral
+P2568,"आज भारत में फोन लॉन्च हुआ है yaar",Hindi,neutral
+P2569,"Does this model support expandable storage? ✨ #NewLaunch",English,neutral
+P2570,"स्क्रीन बार बार अटक रही है",Hindi,negative
+P2571,"क्या इसमें मेमोरी कार्ड लगता है 📱 😂",Hindi,neutral
+P2572,"इतनी कीमत में बिल्कुल अच्छा नहीं yaar",Hindi,negative
+P2573,"Screen baar baar hang kar rahi hai 😞",Hinglish,negative
+P2574,"फोन तीन रंगों में उपलब्ध है #LaunchDay",Hindi,neutral
+P2575,"Main specs check kar raha hu #PhoneReview",Hinglish,neutral
+P2576,"कम रोशनी में कैमरा अच्छा नहीं है #PhoneReview",Hindi,negative
+P2577,"What is the service centre location? #TechIndia",English,neutral
+P2578,"फोन सामान्य इस्तेमाल में गर्म होता है 😡",Hindi,negative
+P2579,"Battery jaldi drain hoti hai yaar lol",Hinglish,negative
+P2580,"The phone launched today in India #PhoneReview",English,neutral
+P2581,"कीमत के हिसाब से अच्छा फोन है 😍",Hindi,positive
+P2582,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है",Hindi,positive
+P2583,"Battery drains too quickly, very disappointed #NewLaunch",English,negative
+P2584,"फोन तीन रंगों में उपलब्ध है #LaunchDay",Hindi,neutral
+P2585,"The phone launched today in India",English,neutral
+P2586,"स्क्रीन बार बार अटक रही है",Hindi,negative
+P2587,"Main specs check kar raha hu #TechIndia",Hinglish,neutral
+P2588,"Phone three colours mein available hai 📱",Hinglish,neutral
+P2589,"आज भारत में फोन लॉन्च हुआ है 📱",Hindi,neutral
+P2590,"Isme memory card support hai kya 🤔",Hinglish,neutral
+P2591,"Service centre kahan milega?",Hinglish,neutral
+P2592,"Phone heats up during normal use",English,negative
+P2593,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है 🔥 yaar",Hindi,positive
+P2594,"Battery backup is amazing, easily lasts all day #TechIndia",English,positive
+P2595,"Camera quality is poor in low light 😞",English,negative
+P2596,"इतनी कीमत में बिल्कुल अच्छा नहीं 👎 #NewLaunch",Hindi,negative
+P2597,"Aaj phone India mein launch hua",Hinglish,neutral
+P2598,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब lol",Hindi,negative
+P2599,"Camera quality is superb, photos look crisp #NewLaunch",English,positive
+P2600,"Screen baar baar hang kar rahi hai #Smartphone",Hinglish,negative
+P2601,"इतनी कीमत में बिल्कुल अच्छा नहीं #PhoneReview",Hindi,negative
+P2602,"कीमत के हिसाब से अच्छा फोन है ❤️ !!!",Hindi,positive
+P2603,"स्क्रीन बार बार अटक रही है 😡 #NewLaunch",Hindi,negative
+P2604,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है 🔥 #PhoneReview",Hindi,positive
+P2605,"कम रोशनी में कैमरा अच्छा नहीं है",Hindi,negative
+P2606,"Value for money, happy with this purchase ❤️",English,positive
+P2607,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है 🔥",Hindi,positive
+P2608,"Display ke colours kaafi nice hain",Hinglish,positive
+P2609,"इतनी कीमत में बिल्कुल अच्छा नहीं #TechIndia",Hindi,negative
+P2610,"Itne price mein worth it nai h",Hinglish,negative
+P2611,"इतनी कीमत में बिल्कुल अच्छा नहीं 😞",Hindi,negative
+P2612,"Battery jaldi drain hoti hai yaar 😭",Hinglish,negative
+P2613,"Main specs check kar raha hu",Hinglish,neutral
+P2614,"Battery backup is amazing, easily lasts all day 😊 tbh",English,positive
+P2615,"Camera quality is poor in low light",English,negative
+P2616,"Normal use mein phone heat ho raha hai tbh",Hinglish,negative
+P2617,"Phone heats up during normal use",English,negative
+P2618,"Camera quality is poor in low light 😞 #PhoneReview",English,negative
+P2619,"स्क्रीन बार बार अटक रही है 😡 #Smartphone",Hindi,negative
+P2620,"फोन बहुत तेज और स्मूथ चलता है 😊 #PhoneReview",Hindi,positive
+P2621,"Service centre kahan milega?",Hinglish,neutral
+P2622,"मैं इसके फीचर्स देख रहा हूं 🤔 #PhoneReview",Hindi,neutral
+P2623,"Aaj phone India mein launch hua 📱",Hinglish,neutral
+P2624,"The phone launched today in India",English,neutral
+P2625,"The phone is available in three colours ✨ #Smartphone",English,neutral
+P2626,"Phone three colours mein available hai",Hinglish,neutral
+P2627,"Display ke colours kaafi nice hain",Hinglish,positive
+P2628,"Phone three colours mein available h",Hinglish,neutral
+P2629,"फोन बहुत तेज और स्मूथ चलता है 😍",Hindi,positive
+P2630,"The screen freezes again and again 😞",English,negative
+P2631,"What is the service centre location? ✨ #PhoneReview tbh",English,neutral
+P2632,"कम रोशनी में कैमरा अच्छा नहीं है",Hindi,negative
+P2633,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब",Hindi,negative
+P2634,"Aaj phone India mein launch hua",Hinglish,neutral
+P2635,"फोन बहुत तेज और स्मूथ चलता है #Smartphone lol",Hindi,positive
+P2636,"Isme memory card support h kya",Hinglish,neutral
+P2637,"The new phone feels smooth and fast #Smartphone",English,positive
+P2638,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब 😞",Hindi,negative
+P2639,"I am checking the specifications ✨ #NewLaunch",English,neutral
+P2640,"Display is bright and colours look great",English,positive
+P2641,"Camera quality is poor in low light",English,negative
+P2642,"I am checking the specifications ✨ #TechIndia",English,neutral
+P2643,"आज भारत में फोन लॉन्च हुआ है 📱 #LaunchDay",Hindi,neutral
+P2644,"Itne price mein worth it nai h #PhoneReview",Hinglish,negative
+P2645,"Camera quality is superb, photos look crisp #PhoneReview !!!",English,positive
+P2646,"डिस्प्ले के रंग बहुत अच्छे हैं 😊",Hindi,positive
+P2647,"डिस्प्ले के रंग बहुत अच्छे हैं #NewLaunch",Hindi,positive
+P2648,"फोन सामान्य इस्तेमाल में गर्म होता है 👎",Hindi,negative
+P2649,"Value for money, happy with this purchase",English,positive
+P2650,"क्या इसमें मेमोरी कार्ड लगता है",Hindi,neutral
+P2651,"कम रोशनी में कैमरा अच्छा नहीं है #LaunchDay",Hindi,negative
+P2652,"आज भारत में फोन लॉन्च हुआ है",Hindi,neutral
+P2653,"डिस्प्ले के रंग बहुत अच्छे हैं 😊",Hindi,positive
+P2654,"Value for money, happy with this purchase",English,positive
+P2655,"आज भारत में फोन लॉन्च हुआ है",Hindi,neutral
+P2656,"Phone heats up during normal use #PhoneReview",English,negative
+P2657,"I am checking the specifications ✨",English,neutral
+P2658,"Camera quality is poor in low light 😭 #TechIndia",English,negative
+P2659,"आज भारत में फोन लॉन्च हुआ है #TechIndia",Hindi,neutral
+P2660,"Itne price mein worth it nahi hai 👎",Hinglish,negative
+P2661,"The screen freezes again and again 😞",English,negative
+P2662,"Phone three colours mein available hai ✨ #PhoneReview",Hinglish,neutral
+P2663,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब #TechIndia",Hindi,negative
+P2664,"The phone is available in three colours",English,neutral
+P2665,"Battery drains too quickly, very disappointed 😡 #Smartphone",English,negative
+P2666,"स्क्रीन बार बार अटक रही है",Hindi,negative
+P2667,"Service centre kahan milega? 📱 #NewLaunch",Hinglish,neutral
+P2668,"Screen baar baar hang kar rahi hai",Hinglish,negative
+P2669,"Aaj phone India mein launch hua #Smartphone",Hinglish,neutral
+P2670,"Service centre kahan milega? #NewLaunch",Hinglish,neutral
+P2671,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है",Hindi,positive
+P2672,"Not worth the price, bad experience #LaunchDay",English,negative
+P2673,"Isme memory card support h kya",Hinglish,neutral
+P2674,"फोन बहुत तेज और स्मूथ चलता है",Hindi,positive
+P2675,"सर्विस सेंटर कहां मिलेगा",Hindi,neutral
+P2676,"स्क्रीन बार बार अटक रही है",Hindi,negative
+P2677,"कीमत के हिसाब से अच्छा फोन है",Hindi,positive
+P2678,"आज भारत में फोन लॉन्च हुआ है ✨",Hindi,neutral
+P2679,"Does this model support expandable storage?",English,neutral
+P2680,"What is the service centre location?",English,neutral
+P2681,"Aaj phone India mein launch hua 📱 #Smartphone",Hinglish,neutral
+P2682,"Phone ka performance bahut smooth hai",Hinglish,positive
+P2683,"Price ke hisaab se paisa vasool hai 🔥",Hinglish,positive
+P2684,"The new phone feels smooth and fast",English,positive
+P2685,"Battery backup mast h, pura din chalti hai lol",Hinglish,positive
+P2686,"Does this model support expandable storage? #LaunchDay",English,neutral
+P2687,"Battery jaldi drain hoti hai yaar",Hinglish,negative
+P2688,"कीमत के हिसाब से अच्छा फोन है #TechIndia 😂",Hindi,positive
+P2689,"I am checking the specifications 🤔",English,neutral
+P2690,"The screen freezes again and again",English,negative
+P2691,"फोन सामान्य इस्तेमाल में गर्म होता है",Hindi,negative
+P2692,"मैं इसके फीचर्स देख रहा हूं",Hindi,neutral
+P2693,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब 😭",Hindi,negative
+P2694,"Price ke hisaab se paisa vasool h",Hinglish,positive
+P2695,"कम रोशनी में कैमरा अच्छा नहीं है",Hindi,negative
+P2696,"Aaj phone India mein launch hua",Hinglish,neutral
+P2697,"फोन तीन रंगों में उपलब्ध है 📱",Hindi,neutral
+P2698,"The screen freezes again and again #PhoneReview",English,negative
+P2699,"Camera quality ekdum zabardast hai",Hinglish,positive
+P2700,"इतनी कीमत में बिल्कुल अच्छा नहीं",Hindi,negative
+P2701,"The phone is available in three colours",English,neutral
+P2702,"सर्विस सेंटर कहां मिलेगा 📱 !!!",Hindi,neutral
+P2703,"Normal use mein phone heat ho raha h 😭",Hinglish,negative
+P2704,"Battery backup mast h, pura din chalti hai 😂",Hinglish,positive
+P2705,"Display ke colours kaafi nice hain",Hinglish,positive
+P2706,"Battery jaldi drain hoti hai yaar 👎",Hinglish,negative
+P2707,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है #Smartphone",Hindi,positive
+P2708,"कैमरा शानदार है, फोटो साफ आती हैं",Hindi,positive
+P2709,"Screen baar baar hang kar rahi hai 😭",Hinglish,negative
+P2710,"Phone heats up during normal use",English,negative
+P2711,"Battery drains too quickly, very disappointed 😭",English,negative
+P2712,"Display is bright and colours look great",English,positive
+P2713,"कीमत के हिसाब से अच्छा फोन है 🔥",Hindi,positive
+P2714,"डिस्प्ले के रंग बहुत अच्छे हैं 🔥",Hindi,positive
+P2715,"Display ke colours kaafi nice hn ❤️ #NewLaunch !!!",Hinglish,positive
+P2716,"सर्विस सेंटर कहां मिलेगा",Hindi,neutral
+P2717,"Phone ka performance bahut smooth hai",Hinglish,positive
+P2718,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब 😡",Hindi,negative
+P2719,"The phone is available in three colours 🤔 #TechIndia",English,neutral
+P2720,"फोन तीन रंगों में उपलब्ध है ✨ #NewLaunch",Hindi,neutral
+P2721,"Does this model support expandable storage?",English,neutral
+P2722,"स्क्रीन बार बार अटक रही है 😭",Hindi,negative
+P2723,"Phone heats up during normal use",English,negative
+P2724,"फोन सामान्य इस्तेमाल में गर्म होता है 😞",Hindi,negative
+P2725,"What is the service centre location?",English,neutral
+P2726,"Main specs check kar raha hu #Smartphone",Hinglish,neutral
+P2727,"Phone ka performance bahut smooth hai",Hinglish,positive
+P2728,"स्क्रीन बार बार अटक रही है #NewLaunch",Hindi,negative
+P2729,"I am checking the specifications 🤔",English,neutral
+P2730,"Isme memory card support h kya 📱",Hinglish,neutral
+P2731,"Low light mein camera bilkul bakwas hai #TechIndia",Hinglish,negative
+P2732,"Value for money, happy with this purchase 😊 #Smartphone !!!",English,positive
+P2733,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है",Hindi,positive
+P2734,"I am checking the specifications",English,neutral
+P2735,"Isme memory card support hai kya",Hinglish,neutral
+P2736,"सर्विस सेंटर कहां मिलेगा ✨",Hindi,neutral
+P2737,"फोन सामान्य इस्तेमाल में गर्म होता है 😭",Hindi,negative
+P2738,"Service centre kahan milega?",Hinglish,neutral
+P2739,"Price ke hisaab se paisa vasool h 😊",Hinglish,positive
+P2740,"कीमत के हिसाब से अच्छा फोन है 🔥",Hindi,positive
+P2741,"फोन बहुत तेज और स्मूथ चलता है",Hindi,positive
+P2742,"The screen freezes again and again",English,negative
+P2743,"Value for money, happy with this purchase 🔥",English,positive
+P2744,"Isme memory card support hai kya 📱",Hinglish,neutral
+P2745,"Does this model support expandable storage?",English,neutral
+P2746,"कम रोशनी में कैमरा अच्छा नहीं है #PhoneReview lol",Hindi,negative
+P2747,"कम रोशनी में कैमरा अच्छा नहीं है",Hindi,negative
+P2748,"फोन तीन रंगों में उपलब्ध है",Hindi,neutral
+P2749,"क्या इसमें मेमोरी कार्ड लगता है",Hindi,neutral
+P2750,"इतनी कीमत में बिल्कुल अच्छा नहीं #Smartphone",Hindi,negative
+P2751,"Itne price mein worth it nahi hai",Hinglish,negative
+P2752,"कम रोशनी में कैमरा अच्छा नहीं है",Hindi,negative
+P2753,"Main specs check kar raha hu ✨",Hinglish,neutral
+P2754,"Camera quality is poor in low light",English,negative
+P2755,"फोन बहुत तेज और स्मूथ चलता है ❤️",Hindi,positive
+P2756,"Does this model support expandable storage?",English,neutral
+P2757,"कम रोशनी में कैमरा अच्छा नहीं है #TechIndia",Hindi,negative
+P2758,"Battery backup is amazing, easily lasts all day #NewLaunch",English,positive
+P2759,"Camera quality is superb, photos look crisp ❤️",English,positive
+P2760,"डिस्प्ले के रंग बहुत अच्छे हैं 😊",Hindi,positive
+P2761,"Camera quality is superb, photos look crisp ❤️ #LaunchDay",English,positive
+P2762,"The phone is available in three colours",English,neutral
+P2763,"Camera quality ekdum zabardast hai 🔥 #TechIndia",Hinglish,positive
+P2764,"Screen baar baar hang kar rahi h 😡",Hinglish,negative
+P2765,"The phone launched today in India",English,neutral
+P2766,"Service centre kahan milega? ✨",Hinglish,neutral
+P2767,"फोन बहुत तेज और स्मूथ चलता है",Hindi,positive
+P2768,"मैं इसके फीचर्स देख रहा हूं",Hindi,neutral
+P2769,"I am checking the specifications",English,neutral
+P2770,"I am checking the specifications #TechIndia lol",English,neutral
+P2771,"Display ke colours kaafi nice hain ❤️",Hinglish,positive
+P2772,"Camera quality ekdum zabardast hai",Hinglish,positive
+P2773,"Display is bright and colours look great",English,positive
+P2774,"मैं इसके फीचर्स देख रहा हूं #PhoneReview lol",Hindi,neutral
+P2775,"Does this model support expandable storage? ✨",English,neutral
+P2776,"The new phone feels smooth and fast 😂",English,positive
+P2777,"Service centre kahan milega? #TechIndia",Hinglish,neutral
+P2778,"स्क्रीन बार बार अटक रही है #NewLaunch",Hindi,negative
+P2779,"What is the service centre location? ✨",English,neutral
+P2780,"डिस्प्ले के रंग बहुत अच्छे हैं",Hindi,positive
+P2781,"क्या इसमें मेमोरी कार्ड लगता है #PhoneReview",Hindi,neutral
+P2782,"कीमत के हिसाब से अच्छा फोन है",Hindi,positive
+P2783,"Value for money, happy with this purchase 😊 #Smartphone",English,positive
+P2784,"Display ke colours kaafi nice hain",Hinglish,positive
+P2785,"Price ke hisaab se paisa vasool hai 😍 #PhoneReview",Hinglish,positive
+P2786,"इतनी कीमत में बिल्कुल अच्छा नहीं",Hindi,negative
+P2787,"Camera quality is superb, photos look crisp #Smartphone",English,positive
+P2788,"इतनी कीमत में बिल्कुल अच्छा नहीं",Hindi,negative
+P2789,"Battery jaldi drain hoti hai yaar",Hinglish,negative
+P2790,"Service centre kahan milega? #NewLaunch",Hinglish,neutral
+P2791,"Service centre kahan milega? 🤔 #Smartphone 😂",Hinglish,neutral
+P2792,"Main specs check kar raha hu #LaunchDay",Hinglish,neutral
+P2793,"The phone is available in three colours !!!",English,neutral
+P2794,"डिस्प्ले के रंग बहुत अच्छे हैं 🔥",Hindi,positive
+P2795,"The phone is available in three colours",English,neutral
+P2796,"What is the service centre location? ✨",English,neutral
+P2797,"आज भारत में फोन लॉन्च हुआ है 🤔 #PhoneReview",Hindi,neutral
+P2798,"Value for money, happy with this purchase",English,positive
+P2799,"Main specs check kar raha hu",Hinglish,neutral
+P2800,"Battery backup is amazing, easily lasts all day",English,positive
+P2801,"सर्विस सेंटर कहां मिलेगा",Hindi,neutral
+P2802,"स्क्रीन बार बार अटक रही है 😭",Hindi,negative
+P2803,"Phone heats up during normal use",English,negative
+P2804,"Display is bright and colours look great",English,positive
+P2805,"Value for money, happy with this purchase 😍",English,positive
+P2806,"Low light mein camera bilkul bakwas hai 😞",Hinglish,negative
+P2807,"Camera quality is poor in low light",English,negative
+P2808,"The new phone feels smooth and fast !!!",English,positive
+P2809,"Battery jaldi drain hoti hai yaar #TechIndia",Hinglish,negative
+P2810,"फोन बहुत तेज और स्मूथ चलता है",Hindi,positive
+P2811,"Camera quality is superb, photos look crisp",English,positive
+P2812,"Camera quality is poor in low light 👎",English,negative
+P2813,"Camera quality ekdum zabardast hai #PhoneReview",Hinglish,positive
+P2814,"डिस्प्ले के रंग बहुत अच्छे हैं",Hindi,positive
+P2815,"Isme memory card support hai kya",Hinglish,neutral
+P2816,"फोन बहुत तेज और स्मूथ चलता है",Hindi,positive
+P2817,"स्क्रीन बार बार अटक रही है 😞",Hindi,negative
+P2818,"Camera quality is superb, photos look crisp 😍 #LaunchDay",English,positive
+P2819,"Price ke hisaab se paisa vasool hai #NewLaunch",Hinglish,positive
+P2820,"Battery backup mast hai, pura din chalti hai 😍 !!!",Hinglish,positive
+P2821,"I am checking the specifications",English,neutral
+P2822,"Not worth the price, bad experience #PhoneReview lol",English,negative
+P2823,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब",Hindi,negative
+P2824,"फोन सामान्य इस्तेमाल में गर्म होता है 😡",Hindi,negative
+P2825,"Phone three colours mein available hai",Hinglish,neutral
+P2826,"Main specs check kar raha hu 🤔",Hinglish,neutral
+P2827,"The new phone feels smooth and fast",English,positive
+P2828,"The phone launched today in India 🤔",English,neutral
+P2829,"क्या इसमें मेमोरी कार्ड लगता है #NewLaunch lol",Hindi,neutral
+P2830,"कैमरा शानदार है, फोटो साफ आती हैं",Hindi,positive
+P2831,"Battery jaldi drain hoti hai yaar 😡",Hinglish,negative
+P2832,"क्या इसमें मेमोरी कार्ड लगता है",Hindi,neutral
+P2833,"The phone launched today in India ✨ !!!",English,neutral
+P2834,"Low light mein camera bilkul bakwas h #PhoneReview",Hinglish,negative
+P2835,"Itne price mein worth it nahi hai 😞",Hinglish,negative
+P2836,"Battery drains too quickly, very disappointed 😡",English,negative
+P2837,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब 😭 yaar",Hindi,negative
+P2838,"Battery drains too quickly, very disappointed 😂",English,negative
+P2839,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब 😞",Hindi,negative
+P2840,"Camera quality ekdum zabardast hai",Hinglish,positive
+P2841,"Camera quality is poor in low light",English,negative
+P2842,"Battery jaldi drain hoti hai yaar lol",Hinglish,negative
+P2843,"Screen baar baar hang kar rahi hai 😂",Hinglish,negative
+P2844,"What is the service centre location? #LaunchDay",English,neutral
+P2845,"फोन बहुत तेज और स्मूथ चलता है",Hindi,positive
+P2846,"Battery backup mast hai, pura din chalti hai",Hinglish,positive
+P2847,"Low light mein camera bilkul bakwas hai 😞 #NewLaunch",Hinglish,negative
+P2848,"Battery backup mast hai, pura din chalti hai",Hinglish,positive
+P2849,"Price ke hisaab se paisa vasool hai #Smartphone",Hinglish,positive
+P2850,"Camera quality ekdum zabardast hai",Hinglish,positive
+P2851,"फोन सामान्य इस्तेमाल में गर्म होता है",Hindi,negative
+P2852,"Service centre kahan milega? 📱",Hinglish,neutral
+P2853,"फोन बहुत तेज और स्मूथ चलता है",Hindi,positive
+P2854,"Phone heats up during normal use 😭",English,negative
+P2855,"Isme memory card support hai kya 🤔",Hinglish,neutral
+P2856,"स्क्रीन बार बार अटक रही है 😡",Hindi,negative
+P2857,"Price ke hisaab se paisa vasool hai #TechIndia",Hinglish,positive
+P2858,"Price ke hisaab se paisa vasool hai 😍",Hinglish,positive
+P2859,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब",Hindi,negative
+P2860,"Phone heats up during normal use",English,negative
+P2861,"क्या इसमें मेमोरी कार्ड लगता है",Hindi,neutral
+P2862,"Price ke hisaab se paisa vasool hai ❤️",Hinglish,positive
+P2863,"I am checking the specifications ✨",English,neutral
+P2864,"कैमरा शानदार है, फोटो साफ आती हैं",Hindi,positive
+P2865,"Phone three colours mein available h #TechIndia",Hinglish,neutral
+P2866,"Camera quality is superb, photos look crisp #LaunchDay",English,positive
+P2867,"The screen freezes again and again tbh",English,negative
+P2868,"The phone launched today in India",English,neutral
+P2869,"Value for money, happy with this purchase 😍",English,positive
+P2870,"I am checking the specifications #Smartphone",English,neutral
+P2871,"क्या इसमें मेमोरी कार्ड लगता है",Hindi,neutral
+P2872,"Phone three colours mein available hai",Hinglish,neutral
+P2873,"Phone heats up during normal use #NewLaunch",English,negative
+P2874,"Battery drains too quickly, very disappointed lol",English,negative
+P2875,"Itne price mein worth it nahi hai 😞 yaar",Hinglish,negative
+P2876,"The phone launched today in India",English,neutral
+P2877,"Display ke colours kaafi nice hain",Hinglish,positive
+P2878,"Screen baar baar hang kar rahi hai",Hinglish,negative
+P2879,"Isme memory card support h kya #LaunchDay",Hinglish,neutral
+P2880,"कैमरा शानदार है, फोटो साफ आती हैं",Hindi,positive
+P2881,"Display is bright and colours look great 🔥 #PhoneReview",English,positive
+P2882,"What is the service centre location?",English,neutral
+P2883,"इतनी कीमत में बिल्कुल अच्छा नहीं 😭",Hindi,negative
+P2884,"Screen baar baar hang kar rahi hai",Hinglish,negative
+P2885,"Low light mein camera bilkul bakwas hai 😡",Hinglish,negative
+P2886,"Low light mein camera bilkul bakwas hai",Hinglish,negative
+P2887,"Battery backup mast hai, pura din chalti hai",Hinglish,positive
+P2888,"Phone three colours mein available hai 😂",Hinglish,neutral
+P2889,"Isme memory card support hai kya",Hinglish,neutral
+P2890,"Normal use mein phone heat ho raha hai",Hinglish,negative
+P2891,"Battery drains too quickly, very disappointed",English,negative
+P2892,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब #PhoneReview",Hindi,negative
+P2893,"Phone three colours mein available hai ✨",Hinglish,neutral
+P2894,"डिस्प्ले के रंग बहुत अच्छे हैं ❤️ 😂",Hindi,positive
+P2895,"Isme memory card support h kya",Hinglish,neutral
+P2896,"Itne price mein worth it nai h 😡 #TechIndia",Hinglish,negative
+P2897,"डिस्प्ले के रंग बहुत अच्छे हैं",Hindi,positive
+P2898,"Low light mein camera bilkul bakwas hai tbh",Hinglish,negative
+P2899,"आज भारत में फोन लॉन्च हुआ है ✨ #TechIndia",Hindi,neutral
+P2900,"Not worth the price, bad experience #PhoneReview",English,negative
+P2901,"Main specs check kar raha hu 📱",Hinglish,neutral
+P2902,"Aaj phone India mein launch hua 🤔 #LaunchDay",Hinglish,neutral
+P2903,"Battery jaldi drain hoti hai yaar",Hinglish,negative
+P2904,"The screen freezes again and again",English,negative
+P2905,"Battery drains too quickly, very disappointed 😡",English,negative
+P2906,"Camera quality is superb, photos look crisp",English,positive
+P2907,"Camera quality ekdum zabardast hai #TechIndia",Hinglish,positive
+P2908,"Camera quality is poor in low light 👎",English,negative
+P2909,"Not worth the price, bad experience",English,negative
+P2910,"फोन बहुत तेज और स्मूथ चलता है",Hindi,positive
+P2911,"The phone is available in three colours",English,neutral
+P2912,"Isme memory card support hai kya",Hinglish,neutral
+P2913,"Normal use mein phone heat ho raha h 😞 #PhoneReview",Hinglish,negative
+P2914,"Battery backup mast hai, pura din chalti hai",Hinglish,positive
+P2915,"कीमत के हिसाब से अच्छा फोन है",Hindi,positive
+P2916,"Battery drains too quickly, very disappointed 👎",English,negative
+P2917,"कम रोशनी में कैमरा अच्छा नहीं है 😂",Hindi,negative
+P2918,"Low light mein camera bilkul bakwas hai 👎 #TechIndia",Hinglish,negative
+P2919,"The new phone feels smooth and fast #Smartphone",English,positive
+P2920,"Service centre kahan milega? 📱",Hinglish,neutral
+P2921,"Not worth the price, bad experience",English,negative
+P2922,"The screen freezes again and again 😡 #NewLaunch",English,negative
+P2923,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब 😡",Hindi,negative
+P2924,"Battery jaldi drain hoti hai yaar",Hinglish,negative
+P2925,"The new phone feels smooth and fast 😍",English,positive
+P2926,"Camera quality is superb, photos look crisp 🔥 #NewLaunch",English,positive
+P2927,"मैं इसके फीचर्स देख रहा हूं #TechIndia",Hindi,neutral
+P2928,"The phone launched today in India",English,neutral
+P2929,"The phone is available in three colours",English,neutral
+P2930,"Isme memory card support hai kya",Hinglish,neutral
+P2931,"कीमत के हिसाब से अच्छा फोन है #LaunchDay",Hindi,positive
+P2932,"The screen freezes again and again 👎 lol",English,negative
+P2933,"Display is bright and colours look great 😊",English,positive
+P2934,"कम रोशनी में कैमरा अच्छा नहीं है lol",Hindi,negative
+P2935,"कैमरा शानदार है, फोटो साफ आती हैं 😊",Hindi,positive
+P2936,"मैं इसके फीचर्स देख रहा हूं #NewLaunch",Hindi,neutral
+P2937,"Camera quality ekdum zabardast hai",Hinglish,positive
+P2938,"बैटरी बैकअप बहुत अच्छा है, पूरे दिन चलती है",Hindi,positive
+P2939,"Low light mein camera bilkul bakwas h",Hinglish,negative
+P2940,"Main specs check kar raha hu 📱",Hinglish,neutral
+P2941,"स्क्रीन बार बार अटक रही है lol",Hindi,negative
+P2942,"क्या इसमें मेमोरी कार्ड लगता है 📱",Hindi,neutral
+P2943,"Not worth the price, bad experience 👎",English,negative
+P2944,"Camera quality is superb, photos look crisp 😊",English,positive
+P2945,"सर्विस सेंटर कहां मिलेगा 📱",Hindi,neutral
+P2946,"इतनी कीमत में बिल्कुल अच्छा नहीं",Hindi,negative
+P2947,"What is the service centre location?",English,neutral
+P2948,"Low light mein camera bilkul bakwas hai 👎",Hinglish,negative
+P2949,"The phone is available in three colours",English,neutral
+P2950,"Camera quality ekdum zabardast h 😍 #TechIndia",Hinglish,positive
+P2951,"फोन सामान्य इस्तेमाल में गर्म होता है",Hindi,negative
+P2952,"Low light mein camera bilkul bakwas hai #LaunchDay",Hinglish,negative
+P2953,"Battery jaldi drain hoti hai yaar",Hinglish,negative
+P2954,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब",Hindi,negative
+P2955,"Price ke hisaab se paisa vasool h",Hinglish,positive
+P2956,"Low light mein camera bilkul bakwas hai 😂",Hinglish,negative
+P2957,"सर्विस सेंटर कहां मिलेगा 🤔 #TechIndia",Hindi,neutral
+P2958,"Low light mein camera bilkul bakwas hai #PhoneReview",Hinglish,negative
+P2959,"I am checking the specifications ✨ #PhoneReview",English,neutral
+P2960,"Display ke colours kaafi nice hain 😍 #NewLaunch",Hinglish,positive
+P2961,"Camera quality ekdum zabardast h #Smartphone",Hinglish,positive
+P2962,"सर्विस सेंटर कहां मिलेगा #Smartphone",Hindi,neutral
+P2963,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब #PhoneReview",Hindi,negative
+P2964,"कैमरा शानदार है, फोटो साफ आती हैं",Hindi,positive
+P2965,"What is the service centre location? 🤔",English,neutral
+P2966,"Camera quality is poor in low light 😂",English,negative
+P2967,"Display ke colours kaafi nice hain ❤️",Hinglish,positive
+P2968,"What is the service centre location? #TechIndia",English,neutral
+P2969,"डिस्प्ले के रंग बहुत अच्छे हैं",Hindi,positive
+P2970,"Value for money, happy with this purchase",English,positive
+P2971,"Display ke colours kaafi nice hain 😊",Hinglish,positive
+P2972,"Camera quality is superb, photos look crisp",English,positive
+P2973,"सर्विस सेंटर कहां मिलेगा ✨ #Smartphone",Hindi,neutral
+P2974,"I am checking the specifications",English,neutral
+P2975,"Camera quality is poor in low light #NewLaunch",English,negative
+P2976,"Display is bright and colours look great ❤️",English,positive
+P2977,"Isme memory card support hai kya",Hinglish,neutral
+P2978,"Battery drains too quickly, very disappointed",English,negative
+P2979,"Battery backup mast hai, pura din chalti hai",Hinglish,positive
+P2980,"सर्विस सेंटर कहां मिलेगा",Hindi,neutral
+P2981,"Low light mein camera bilkul bakwas hai",Hinglish,negative
+P2982,"The screen freezes again and again",English,negative
+P2983,"Camera quality ekdum zabardast hai",Hinglish,positive
+P2984,"मैं इसके फीचर्स देख रहा हूं #LaunchDay 😂",Hindi,neutral
+P2985,"Normal use mein phone heat ho raha h 😭",Hinglish,negative
+P2986,"Battery backup mast hai, pura din chalti hai",Hinglish,positive
+P2987,"कीमत के हिसाब से अच्छा फोन है 🔥 !!!",Hindi,positive
+P2988,"Itne price mein worth it nahi hai #NewLaunch",Hinglish,negative
+P2989,"Phone ka performance bahut smooth hai 🔥",Hinglish,positive
+P2990,"फोन सामान्य इस्तेमाल में गर्म होता है 😡",Hindi,negative
+P2991,"Main specs check kar raha hu",Hinglish,neutral
+P2992,"Battery backup mast h, pura din chalti hai",Hinglish,positive
+P2993,"Normal use mein phone heat ho raha hai #TechIndia",Hinglish,negative
+P2994,"बैटरी जल्दी खत्म हो जाती है, बहुत खराब",Hindi,negative
+P2995,"डिस्प्ले के रंग बहुत अच्छे हैं #PhoneReview lol",Hindi,positive
+P2996,"Camera quality is superb, photos look crisp !!!",English,positive
+P2997,"कीमत के हिसाब से अच्छा फोन है",Hindi,positive
+P2998,"Camera quality is superb, photos look crisp lol",English,positive
+P2999,"क्या इसमें मेमोरी कार्ड लगता है #NewLaunch",Hindi,neutral
+P3000,"क्या इसमें मेमोरी कार्ड लगता है 📱 #PhoneReview",Hindi,neutral
